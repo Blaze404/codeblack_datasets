@@ -1,0 +1,4056 @@
+Maharashtra (MH),Thane,telecom,2
+Maharashtra (MH),Thane,tourism,2
+Maharashtra (MH),Thane,pharmaceutical,2
+Maharashtra (MH),Thane,automobile,1
+Maharashtra (MH),Thane,textile,1
+Maharashtra (MH),Thane,food,5
+West Bengal (WB),North 24 Parganas,telecom,1
+West Bengal (WB),North 24 Parganas,tourism,3
+West Bengal (WB),North 24 Parganas,pharmaceutical,1
+West Bengal (WB),North 24 Parganas,automobile,4
+West Bengal (WB),North 24 Parganas,textile,2
+West Bengal (WB),North 24 Parganas,food,1
+Karnataka (KA),Bangalore Urban,telecom,4
+Karnataka (KA),Bangalore Urban,tourism,3
+Karnataka (KA),Bangalore Urban,pharmaceutical,1
+Karnataka (KA),Bangalore Urban,automobile,2
+Karnataka (KA),Bangalore Urban,textile,5
+Karnataka (KA),Bangalore Urban,food,5
+Maharashtra (MH),Pune,telecom,3
+Maharashtra (MH),Pune,tourism,4
+Maharashtra (MH),Pune,pharmaceutical,1
+Maharashtra (MH),Pune,automobile,5
+Maharashtra (MH),Pune,textile,2
+Maharashtra (MH),Pune,food,5
+Maharashtra (MH),Mumbai suburban,telecom,4
+Maharashtra (MH),Mumbai suburban,tourism,1
+Maharashtra (MH),Mumbai suburban,pharmaceutical,3
+Maharashtra (MH),Mumbai suburban,automobile,1
+Maharashtra (MH),Mumbai suburban,textile,2
+Maharashtra (MH),Mumbai suburban,food,5
+West Bengal (WB),South 24 Parganas,telecom,3
+West Bengal (WB),South 24 Parganas,tourism,5
+West Bengal (WB),South 24 Parganas,pharmaceutical,1
+West Bengal (WB),South 24 Parganas,automobile,2
+West Bengal (WB),South 24 Parganas,textile,5
+West Bengal (WB),South 24 Parganas,food,4
+West Bengal (WB),Bardhaman,telecom,4
+West Bengal (WB),Bardhaman,tourism,4
+West Bengal (WB),Bardhaman,pharmaceutical,3
+West Bengal (WB),Bardhaman,automobile,5
+West Bengal (WB),Bardhaman,textile,5
+West Bengal (WB),Bardhaman,food,2
+Gujarat (GJ),Ahmedabad,telecom,5
+Gujarat (GJ),Ahmedabad,tourism,4
+Gujarat (GJ),Ahmedabad,pharmaceutical,1
+Gujarat (GJ),Ahmedabad,automobile,3
+Gujarat (GJ),Ahmedabad,textile,4
+Gujarat (GJ),Ahmedabad,food,1
+West Bengal (WB),Murshidabad,telecom,5
+West Bengal (WB),Murshidabad,tourism,1
+West Bengal (WB),Murshidabad,pharmaceutical,2
+West Bengal (WB),Murshidabad,automobile,4
+West Bengal (WB),Murshidabad,textile,1
+West Bengal (WB),Murshidabad,food,5
+Rajasthan (RJ),Jaipur,telecom,4
+Rajasthan (RJ),Jaipur,tourism,2
+Rajasthan (RJ),Jaipur,pharmaceutical,5
+Rajasthan (RJ),Jaipur,automobile,1
+Rajasthan (RJ),Jaipur,textile,4
+Rajasthan (RJ),Jaipur,food,5
+Maharashtra (MH),Nashik,telecom,4
+Maharashtra (MH),Nashik,tourism,3
+Maharashtra (MH),Nashik,pharmaceutical,1
+Maharashtra (MH),Nashik,automobile,1
+Maharashtra (MH),Nashik,textile,5
+Maharashtra (MH),Nashik,food,1
+Uttar Pradesh (UP),Allahabad,telecom,1
+Uttar Pradesh (UP),Allahabad,tourism,1
+Uttar Pradesh (UP),Allahabad,pharmaceutical,1
+Uttar Pradesh (UP),Allahabad,automobile,1
+Uttar Pradesh (UP),Allahabad,textile,5
+Uttar Pradesh (UP),Allahabad,food,1
+Bihar (BR),Patna,telecom,3
+Bihar (BR),Patna,tourism,4
+Bihar (BR),Patna,pharmaceutical,4
+Bihar (BR),Patna,automobile,5
+Bihar (BR),Patna,textile,2
+Bihar (BR),Patna,food,2
+West Bengal (WB),Hooghly,telecom,2
+West Bengal (WB),Hooghly,tourism,1
+West Bengal (WB),Hooghly,pharmaceutical,2
+West Bengal (WB),Hooghly,automobile,4
+West Bengal (WB),Hooghly,textile,3
+West Bengal (WB),Hooghly,food,2
+Telangana (TS),Ranga Reddy,telecom,1
+Telangana (TS),Ranga Reddy,tourism,5
+Telangana (TS),Ranga Reddy,pharmaceutical,4
+Telangana (TS),Ranga Reddy,automobile,2
+Telangana (TS),Ranga Reddy,textile,3
+Telangana (TS),Ranga Reddy,food,5
+West Bengal (WB),Nadia,telecom,1
+West Bengal (WB),Nadia,tourism,3
+West Bengal (WB),Nadia,pharmaceutical,2
+West Bengal (WB),Nadia,automobile,3
+West Bengal (WB),Nadia,textile,5
+West Bengal (WB),Nadia,food,2
+Andhra Pradesh (AP),East Godavari,telecom,5
+Andhra Pradesh (AP),East Godavari,tourism,4
+Andhra Pradesh (AP),East Godavari,pharmaceutical,2
+Andhra Pradesh (AP),East Godavari,automobile,5
+Andhra Pradesh (AP),East Godavari,textile,1
+Andhra Pradesh (AP),East Godavari,food,5
+West Bengal (WB),Paschim Medinipur,telecom,4
+West Bengal (WB),Paschim Medinipur,tourism,3
+West Bengal (WB),Paschim Medinipur,pharmaceutical,5
+West Bengal (WB),Paschim Medinipur,automobile,1
+West Bengal (WB),Paschim Medinipur,textile,4
+West Bengal (WB),Paschim Medinipur,food,4
+Bihar (BR),East Champaran,telecom,5
+Bihar (BR),East Champaran,tourism,2
+Bihar (BR),East Champaran,pharmaceutical,1
+Bihar (BR),East Champaran,automobile,4
+Bihar (BR),East Champaran,textile,5
+Bihar (BR),East Champaran,food,2
+Gujarat (GJ),Surat,telecom,2
+Gujarat (GJ),Surat,tourism,5
+Gujarat (GJ),Surat,pharmaceutical,1
+Gujarat (GJ),Surat,automobile,3
+Gujarat (GJ),Surat,textile,4
+Gujarat (GJ),Surat,food,1
+Andhra Pradesh (AP),Guntur,telecom,1
+Andhra Pradesh (AP),Guntur,tourism,5
+Andhra Pradesh (AP),Guntur,pharmaceutical,2
+Andhra Pradesh (AP),Guntur,automobile,3
+Andhra Pradesh (AP),Guntur,textile,2
+Andhra Pradesh (AP),Guntur,food,5
+West Bengal (WB),Howrah,telecom,5
+West Bengal (WB),Howrah,tourism,3
+West Bengal (WB),Howrah,pharmaceutical,5
+West Bengal (WB),Howrah,automobile,2
+West Bengal (WB),Howrah,textile,5
+West Bengal (WB),Howrah,food,2
+Bihar (BR),Muzaffarpur,telecom,1
+Bihar (BR),Muzaffarpur,tourism,1
+Bihar (BR),Muzaffarpur,pharmaceutical,3
+Bihar (BR),Muzaffarpur,automobile,3
+Bihar (BR),Muzaffarpur,textile,1
+Bihar (BR),Muzaffarpur,food,4
+Karnataka (KA),Belgaum,telecom,4
+Karnataka (KA),Belgaum,tourism,5
+Karnataka (KA),Belgaum,pharmaceutical,4
+Karnataka (KA),Belgaum,automobile,5
+Karnataka (KA),Belgaum,textile,4
+Karnataka (KA),Belgaum,food,3
+Uttar Pradesh (UP),Moradabad,telecom,5
+Uttar Pradesh (UP),Moradabad,tourism,3
+Uttar Pradesh (UP),Moradabad,pharmaceutical,2
+Uttar Pradesh (UP),Moradabad,automobile,2
+Uttar Pradesh (UP),Moradabad,textile,4
+Uttar Pradesh (UP),Moradabad,food,1
+Tamil Nadu (TN),Chennai,telecom,3
+Tamil Nadu (TN),Chennai,tourism,1
+Tamil Nadu (TN),Chennai,pharmaceutical,3
+Tamil Nadu (TN),Chennai,automobile,1
+Tamil Nadu (TN),Chennai,textile,3
+Tamil Nadu (TN),Chennai,food,3
+Uttar Pradesh (UP),Ghaziabad,telecom,1
+Uttar Pradesh (UP),Ghaziabad,tourism,4
+Uttar Pradesh (UP),Ghaziabad,pharmaceutical,4
+Uttar Pradesh (UP),Ghaziabad,automobile,3
+Uttar Pradesh (UP),Ghaziabad,textile,4
+Uttar Pradesh (UP),Ghaziabad,food,1
+Maharashtra (MH),Nagpur,telecom,4
+Maharashtra (MH),Nagpur,tourism,5
+Maharashtra (MH),Nagpur,pharmaceutical,2
+Maharashtra (MH),Nagpur,automobile,5
+Maharashtra (MH),Nagpur,textile,4
+Maharashtra (MH),Nagpur,food,3
+Uttar Pradesh (UP),Azamgarh,telecom,2
+Uttar Pradesh (UP),Azamgarh,tourism,3
+Uttar Pradesh (UP),Azamgarh,pharmaceutical,1
+Uttar Pradesh (UP),Azamgarh,automobile,1
+Uttar Pradesh (UP),Azamgarh,textile,5
+Uttar Pradesh (UP),Azamgarh,food,3
+Uttar Pradesh (UP),Lucknow,telecom,5
+Uttar Pradesh (UP),Lucknow,tourism,3
+Uttar Pradesh (UP),Lucknow,pharmaceutical,3
+Uttar Pradesh (UP),Lucknow,automobile,2
+Uttar Pradesh (UP),Lucknow,textile,3
+Uttar Pradesh (UP),Lucknow,food,5
+Uttar Pradesh (UP),Kanpur Nagar,telecom,1
+Uttar Pradesh (UP),Kanpur Nagar,tourism,2
+Uttar Pradesh (UP),Kanpur Nagar,pharmaceutical,2
+Uttar Pradesh (UP),Kanpur Nagar,automobile,2
+Uttar Pradesh (UP),Kanpur Nagar,textile,1
+Uttar Pradesh (UP),Kanpur Nagar,food,3
+Maharashtra (MH),Ahmednagar,telecom,5
+Maharashtra (MH),Ahmednagar,tourism,2
+Maharashtra (MH),Ahmednagar,pharmaceutical,2
+Maharashtra (MH),Ahmednagar,automobile,3
+Maharashtra (MH),Ahmednagar,textile,2
+Maharashtra (MH),Ahmednagar,food,1
+Andhra Pradesh (AP),Krishna,telecom,1
+Andhra Pradesh (AP),Krishna,tourism,1
+Andhra Pradesh (AP),Krishna,pharmaceutical,2
+Andhra Pradesh (AP),Krishna,automobile,5
+Andhra Pradesh (AP),Krishna,textile,2
+Andhra Pradesh (AP),Krishna,food,5
+West Bengal (WB),Kolkata,telecom,3
+West Bengal (WB),Kolkata,tourism,2
+West Bengal (WB),Kolkata,pharmaceutical,4
+West Bengal (WB),Kolkata,automobile,4
+West Bengal (WB),Kolkata,textile,5
+West Bengal (WB),Kolkata,food,4
+Uttar Pradesh (UP),Jaunpur district,telecom,5
+Uttar Pradesh (UP),Jaunpur district,tourism,2
+Uttar Pradesh (UP),Jaunpur district,pharmaceutical,2
+Uttar Pradesh (UP),Jaunpur district,automobile,1
+Uttar Pradesh (UP),Jaunpur district,textile,4
+Uttar Pradesh (UP),Jaunpur district,food,3
+Bihar (BR),Madhubani,telecom,4
+Bihar (BR),Madhubani,tourism,1
+Bihar (BR),Madhubani,pharmaceutical,2
+Bihar (BR),Madhubani,automobile,4
+Bihar (BR),Madhubani,textile,1
+Bihar (BR),Madhubani,food,2
+Uttar Pradesh (UP),Sitapur,telecom,5
+Uttar Pradesh (UP),Sitapur,tourism,1
+Uttar Pradesh (UP),Sitapur,pharmaceutical,5
+Uttar Pradesh (UP),Sitapur,automobile,4
+Uttar Pradesh (UP),Sitapur,textile,2
+Uttar Pradesh (UP),Sitapur,food,2
+Uttar Pradesh (UP),Bareilly,telecom,1
+Uttar Pradesh (UP),Bareilly,tourism,1
+Uttar Pradesh (UP),Bareilly,pharmaceutical,1
+Uttar Pradesh (UP),Bareilly,automobile,5
+Uttar Pradesh (UP),Bareilly,textile,5
+Uttar Pradesh (UP),Bareilly,food,1
+Uttar Pradesh (UP),Gorakhpur,telecom,5
+Uttar Pradesh (UP),Gorakhpur,tourism,3
+Uttar Pradesh (UP),Gorakhpur,pharmaceutical,2
+Uttar Pradesh (UP),Gorakhpur,automobile,1
+Uttar Pradesh (UP),Gorakhpur,textile,5
+Uttar Pradesh (UP),Gorakhpur,food,5
+West Bengal (WB),Purba Medinipur,telecom,3
+West Bengal (WB),Purba Medinipur,tourism,5
+West Bengal (WB),Purba Medinipur,pharmaceutical,4
+West Bengal (WB),Purba Medinipur,automobile,3
+West Bengal (WB),Purba Medinipur,textile,4
+West Bengal (WB),Purba Medinipur,food,4
+Uttar Pradesh (UP),Agra,telecom,4
+Uttar Pradesh (UP),Agra,tourism,1
+Uttar Pradesh (UP),Agra,pharmaceutical,1
+Uttar Pradesh (UP),Agra,automobile,5
+Uttar Pradesh (UP),Agra,textile,5
+Uttar Pradesh (UP),Agra,food,1
+Bihar (BR),Gaya,telecom,3
+Bihar (BR),Gaya,tourism,5
+Bihar (BR),Gaya,pharmaceutical,5
+Bihar (BR),Gaya,automobile,3
+Bihar (BR),Gaya,textile,4
+Bihar (BR),Gaya,food,1
+Maharashtra (MH),Solapur,telecom,2
+Maharashtra (MH),Solapur,tourism,4
+Maharashtra (MH),Solapur,pharmaceutical,1
+Maharashtra (MH),Solapur,automobile,5
+Maharashtra (MH),Solapur,textile,3
+Maharashtra (MH),Solapur,food,5
+Andhra Pradesh (AP),Visakhapatnam,telecom,2
+Andhra Pradesh (AP),Visakhapatnam,tourism,1
+Andhra Pradesh (AP),Visakhapatnam,pharmaceutical,4
+Andhra Pradesh (AP),Visakhapatnam,automobile,4
+Andhra Pradesh (AP),Visakhapatnam,textile,2
+Andhra Pradesh (AP),Visakhapatnam,food,1
+Bihar (BR),Samastipur,telecom,5
+Bihar (BR),Samastipur,tourism,2
+Bihar (BR),Samastipur,pharmaceutical,5
+Bihar (BR),Samastipur,automobile,2
+Bihar (BR),Samastipur,textile,3
+Bihar (BR),Samastipur,food,3
+Maharashtra (MH),Jalgaon,telecom,4
+Maharashtra (MH),Jalgaon,tourism,2
+Maharashtra (MH),Jalgaon,pharmaceutical,4
+Maharashtra (MH),Jalgaon,automobile,3
+Maharashtra (MH),Jalgaon,textile,1
+Maharashtra (MH),Jalgaon,food,5
+Andhra Pradesh (AP),Chittoor,telecom,1
+Andhra Pradesh (AP),Chittoor,tourism,4
+Andhra Pradesh (AP),Chittoor,pharmaceutical,3
+Andhra Pradesh (AP),Chittoor,automobile,5
+Andhra Pradesh (AP),Chittoor,textile,1
+Andhra Pradesh (AP),Chittoor,food,1
+Uttar Pradesh (UP),Muzaffarnagar,telecom,5
+Uttar Pradesh (UP),Muzaffarnagar,tourism,1
+Uttar Pradesh (UP),Muzaffarnagar,pharmaceutical,4
+Uttar Pradesh (UP),Muzaffarnagar,automobile,1
+Uttar Pradesh (UP),Muzaffarnagar,textile,1
+Uttar Pradesh (UP),Muzaffarnagar,food,1
+Kerala (KL),Malappuram,telecom,2
+Kerala (KL),Malappuram,tourism,2
+Kerala (KL),Malappuram,pharmaceutical,5
+Kerala (KL),Malappuram,automobile,4
+Kerala (KL),Malappuram,textile,5
+Kerala (KL),Malappuram,food,4
+Uttar Pradesh (UP),Hardoi,telecom,5
+Uttar Pradesh (UP),Hardoi,tourism,1
+Uttar Pradesh (UP),Hardoi,pharmaceutical,4
+Uttar Pradesh (UP),Hardoi,automobile,2
+Uttar Pradesh (UP),Hardoi,textile,1
+Uttar Pradesh (UP),Hardoi,food,2
+Andhra Pradesh (AP),Anantapur,telecom,4
+Andhra Pradesh (AP),Anantapur,tourism,5
+Andhra Pradesh (AP),Anantapur,pharmaceutical,2
+Andhra Pradesh (AP),Anantapur,automobile,5
+Andhra Pradesh (AP),Anantapur,textile,2
+Andhra Pradesh (AP),Anantapur,food,4
+Chhattisgarh (CG),Raipur,telecom,1
+Chhattisgarh (CG),Raipur,tourism,4
+Chhattisgarh (CG),Raipur,pharmaceutical,3
+Chhattisgarh (CG),Raipur,automobile,5
+Chhattisgarh (CG),Raipur,textile,2
+Chhattisgarh (CG),Raipur,food,1
+Andhra Pradesh (AP),Kurnool,telecom,1
+Andhra Pradesh (AP),Kurnool,tourism,2
+Andhra Pradesh (AP),Kurnool,pharmaceutical,3
+Andhra Pradesh (AP),Kurnool,automobile,4
+Andhra Pradesh (AP),Kurnool,textile,3
+Andhra Pradesh (AP),Kurnool,food,4
+Telangana (TS),Mahbubnagar,telecom,3
+Telangana (TS),Mahbubnagar,tourism,3
+Telangana (TS),Mahbubnagar,pharmaceutical,4
+Telangana (TS),Mahbubnagar,automobile,3
+Telangana (TS),Mahbubnagar,textile,5
+Telangana (TS),Mahbubnagar,food,2
+Uttar Pradesh (UP),Lakhimpur Kheri,telecom,2
+Uttar Pradesh (UP),Lakhimpur Kheri,tourism,1
+Uttar Pradesh (UP),Lakhimpur Kheri,pharmaceutical,4
+Uttar Pradesh (UP),Lakhimpur Kheri,automobile,5
+Uttar Pradesh (UP),Lakhimpur Kheri,textile,5
+Uttar Pradesh (UP),Lakhimpur Kheri,food,3
+Telangana (TS),Hyderabad,telecom,4
+Telangana (TS),Hyderabad,tourism,4
+Telangana (TS),Hyderabad,pharmaceutical,4
+Telangana (TS),Hyderabad,automobile,2
+Telangana (TS),Hyderabad,textile,5
+Telangana (TS),Hyderabad,food,5
+West Bengal (WB),Maldah,telecom,4
+West Bengal (WB),Maldah,tourism,5
+West Bengal (WB),Maldah,pharmaceutical,2
+West Bengal (WB),Maldah,automobile,4
+West Bengal (WB),Maldah,textile,2
+West Bengal (WB),Maldah,food,5
+Tamil Nadu (TN),Madurai,telecom,3
+Tamil Nadu (TN),Madurai,tourism,2
+Tamil Nadu (TN),Madurai,pharmaceutical,5
+Tamil Nadu (TN),Madurai,automobile,2
+Tamil Nadu (TN),Madurai,textile,3
+Tamil Nadu (TN),Madurai,food,5
+Tamil Nadu (TN),Kanchipuram,telecom,5
+Tamil Nadu (TN),Kanchipuram,tourism,3
+Tamil Nadu (TN),Kanchipuram,pharmaceutical,4
+Tamil Nadu (TN),Kanchipuram,automobile,3
+Tamil Nadu (TN),Kanchipuram,textile,5
+Tamil Nadu (TN),Kanchipuram,food,2
+Bihar (BR),Saran,telecom,1
+Bihar (BR),Saran,tourism,1
+Bihar (BR),Saran,pharmaceutical,3
+Bihar (BR),Saran,automobile,1
+Bihar (BR),Saran,textile,4
+Bihar (BR),Saran,food,5
+Bihar (BR),West Champaran,telecom,2
+Bihar (BR),West Champaran,tourism,1
+Bihar (BR),West Champaran,pharmaceutical,5
+Bihar (BR),West Champaran,automobile,5
+Bihar (BR),West Champaran,textile,5
+Bihar (BR),West Champaran,food,3
+Andhra Pradesh (AP),West Godavari,telecom,2
+Andhra Pradesh (AP),West Godavari,tourism,3
+Andhra Pradesh (AP),West Godavari,pharmaceutical,3
+Andhra Pradesh (AP),West Godavari,automobile,5
+Andhra Pradesh (AP),West Godavari,textile,4
+Andhra Pradesh (AP),West Godavari,food,1
+Tamil Nadu (TN),Vellore,telecom,2
+Tamil Nadu (TN),Vellore,tourism,4
+Tamil Nadu (TN),Vellore,pharmaceutical,4
+Tamil Nadu (TN),Vellore,automobile,1
+Tamil Nadu (TN),Vellore,textile,1
+Tamil Nadu (TN),Vellore,food,3
+Bihar (BR),Darbhanga,telecom,2
+Bihar (BR),Darbhanga,tourism,1
+Bihar (BR),Darbhanga,pharmaceutical,4
+Bihar (BR),Darbhanga,automobile,3
+Bihar (BR),Darbhanga,textile,3
+Bihar (BR),Darbhanga,food,2
+Maharashtra (MH),Kolhapur,telecom,2
+Maharashtra (MH),Kolhapur,tourism,5
+Maharashtra (MH),Kolhapur,pharmaceutical,2
+Maharashtra (MH),Kolhapur,automobile,1
+Maharashtra (MH),Kolhapur,textile,3
+Maharashtra (MH),Kolhapur,food,3
+West Bengal (WB),Jalpaiguri,telecom,1
+West Bengal (WB),Jalpaiguri,tourism,2
+West Bengal (WB),Jalpaiguri,pharmaceutical,1
+West Bengal (WB),Jalpaiguri,automobile,2
+West Bengal (WB),Jalpaiguri,textile,3
+West Bengal (WB),Jalpaiguri,food,4
+Telangana (TS),Karimnagar,telecom,2
+Telangana (TS),Karimnagar,tourism,2
+Telangana (TS),Karimnagar,pharmaceutical,2
+Telangana (TS),Karimnagar,automobile,2
+Telangana (TS),Karimnagar,textile,1
+Telangana (TS),Karimnagar,food,4
+Uttar Pradesh (UP),Sultanpur,telecom,5
+Uttar Pradesh (UP),Sultanpur,tourism,3
+Uttar Pradesh (UP),Sultanpur,pharmaceutical,1
+Uttar Pradesh (UP),Sultanpur,automobile,5
+Uttar Pradesh (UP),Sultanpur,textile,3
+Uttar Pradesh (UP),Sultanpur,food,3
+Tamil Nadu (TN),Tiruvallur,telecom,2
+Tamil Nadu (TN),Tiruvallur,tourism,3
+Tamil Nadu (TN),Tiruvallur,pharmaceutical,5
+Tamil Nadu (TN),Tiruvallur,automobile,4
+Tamil Nadu (TN),Tiruvallur,textile,5
+Tamil Nadu (TN),Tiruvallur,food,2
+Uttar Pradesh (UP),Budaun,telecom,2
+Uttar Pradesh (UP),Budaun,tourism,4
+Uttar Pradesh (UP),Budaun,pharmaceutical,1
+Uttar Pradesh (UP),Budaun,automobile,3
+Uttar Pradesh (UP),Budaun,textile,5
+Uttar Pradesh (UP),Budaun,food,1
+Maharashtra (MH),Aurangabad,telecom,3
+Maharashtra (MH),Aurangabad,tourism,2
+Maharashtra (MH),Aurangabad,pharmaceutical,3
+Maharashtra (MH),Aurangabad,automobile,2
+Maharashtra (MH),Aurangabad,textile,1
+Maharashtra (MH),Aurangabad,food,4
+Rajasthan (RJ),Jodhpur,telecom,5
+Rajasthan (RJ),Jodhpur,tourism,5
+Rajasthan (RJ),Jodhpur,pharmaceutical,2
+Rajasthan (RJ),Jodhpur,automobile,1
+Rajasthan (RJ),Jodhpur,textile,3
+Rajasthan (RJ),Jodhpur,food,4
+Uttar Pradesh (UP),Bijnor,telecom,4
+Uttar Pradesh (UP),Bijnor,tourism,4
+Uttar Pradesh (UP),Bijnor,pharmaceutical,3
+Uttar Pradesh (UP),Bijnor,automobile,4
+Uttar Pradesh (UP),Bijnor,textile,1
+Uttar Pradesh (UP),Bijnor,food,1
+Uttar Pradesh (UP),Varanasi,telecom,3
+Uttar Pradesh (UP),Varanasi,tourism,5
+Uttar Pradesh (UP),Varanasi,pharmaceutical,3
+Uttar Pradesh (UP),Varanasi,automobile,2
+Uttar Pradesh (UP),Varanasi,textile,1
+Uttar Pradesh (UP),Varanasi,food,4
+Uttar Pradesh (UP),Aligarh,telecom,4
+Uttar Pradesh (UP),Aligarh,tourism,3
+Uttar Pradesh (UP),Aligarh,pharmaceutical,5
+Uttar Pradesh (UP),Aligarh,automobile,3
+Uttar Pradesh (UP),Aligarh,textile,1
+Uttar Pradesh (UP),Aligarh,food,4
+Rajasthan (RJ),Alwar,telecom,5
+Rajasthan (RJ),Alwar,tourism,2
+Rajasthan (RJ),Alwar,pharmaceutical,3
+Rajasthan (RJ),Alwar,automobile,3
+Rajasthan (RJ),Alwar,textile,3
+Rajasthan (RJ),Alwar,food,2
+Delhi (DL),North West Delhi,telecom,4
+Delhi (DL),North West Delhi,tourism,1
+Delhi (DL),North West Delhi,pharmaceutical,3
+Delhi (DL),North West Delhi,automobile,1
+Delhi (DL),North West Delhi,textile,4
+Delhi (DL),North West Delhi,food,3
+Gujarat (GJ),Vadodara,telecom,1
+Gujarat (GJ),Vadodara,tourism,2
+Gujarat (GJ),Vadodara,pharmaceutical,5
+Gujarat (GJ),Vadodara,automobile,3
+Gujarat (GJ),Vadodara,textile,3
+Gujarat (GJ),Vadodara,food,2
+Uttar Pradesh (UP),Ghazipur,telecom,5
+Uttar Pradesh (UP),Ghazipur,tourism,5
+Uttar Pradesh (UP),Ghazipur,pharmaceutical,3
+Uttar Pradesh (UP),Ghazipur,automobile,4
+Uttar Pradesh (UP),Ghazipur,textile,3
+Uttar Pradesh (UP),Ghazipur,food,3
+West Bengal (WB),Bankura,telecom,1
+West Bengal (WB),Bankura,tourism,3
+West Bengal (WB),Bankura,pharmaceutical,3
+West Bengal (WB),Bankura,automobile,1
+West Bengal (WB),Bankura,textile,5
+West Bengal (WB),Bankura,food,3
+Uttar Pradesh (UP),Kushinagar,telecom,1
+Uttar Pradesh (UP),Kushinagar,tourism,5
+Uttar Pradesh (UP),Kushinagar,pharmaceutical,3
+Uttar Pradesh (UP),Kushinagar,automobile,1
+Uttar Pradesh (UP),Kushinagar,textile,2
+Uttar Pradesh (UP),Kushinagar,food,5
+Telangana (TS),Warangal,telecom,2
+Telangana (TS),Warangal,tourism,1
+Telangana (TS),Warangal,pharmaceutical,3
+Telangana (TS),Warangal,automobile,2
+Telangana (TS),Warangal,textile,4
+Telangana (TS),Warangal,food,4
+Odisha (OD),Ganjam,telecom,3
+Odisha (OD),Ganjam,tourism,3
+Odisha (OD),Ganjam,pharmaceutical,1
+Odisha (OD),Ganjam,automobile,4
+Odisha (OD),Ganjam,textile,5
+Odisha (OD),Ganjam,food,3
+West Bengal (WB),Birbhum,telecom,5
+West Bengal (WB),Birbhum,tourism,5
+West Bengal (WB),Birbhum,pharmaceutical,3
+West Bengal (WB),Birbhum,automobile,5
+West Bengal (WB),Birbhum,textile,2
+West Bengal (WB),Birbhum,food,2
+Uttar Pradesh (UP),Bulandshahr,telecom,4
+Uttar Pradesh (UP),Bulandshahr,tourism,3
+Uttar Pradesh (UP),Bulandshahr,pharmaceutical,2
+Uttar Pradesh (UP),Bulandshahr,automobile,3
+Uttar Pradesh (UP),Bulandshahr,textile,5
+Uttar Pradesh (UP),Bulandshahr,food,3
+Bihar (BR),Vaishali,telecom,1
+Bihar (BR),Vaishali,tourism,1
+Bihar (BR),Vaishali,pharmaceutical,5
+Bihar (BR),Vaishali,automobile,2
+Bihar (BR),Vaishali,textile,5
+Bihar (BR),Vaishali,food,3
+Punjab (PB),Ludhiana,telecom,5
+Punjab (PB),Ludhiana,tourism,4
+Punjab (PB),Ludhiana,pharmaceutical,2
+Punjab (PB),Ludhiana,automobile,3
+Punjab (PB),Ludhiana,textile,1
+Punjab (PB),Ludhiana,food,1
+Telangana (TS),Nalgonda,telecom,5
+Telangana (TS),Nalgonda,tourism,5
+Telangana (TS),Nalgonda,pharmaceutical,1
+Telangana (TS),Nalgonda,automobile,2
+Telangana (TS),Nalgonda,textile,1
+Telangana (TS),Nalgonda,food,4
+Tamil Nadu (TN),Salem,telecom,3
+Tamil Nadu (TN),Salem,tourism,5
+Tamil Nadu (TN),Salem,pharmaceutical,2
+Tamil Nadu (TN),Salem,automobile,3
+Tamil Nadu (TN),Salem,textile,4
+Tamil Nadu (TN),Salem,food,1
+Tamil Nadu (TN),Coimbatore,telecom,3
+Tamil Nadu (TN),Coimbatore,tourism,4
+Tamil Nadu (TN),Coimbatore,pharmaceutical,4
+Tamil Nadu (TN),Coimbatore,automobile,4
+Tamil Nadu (TN),Coimbatore,textile,4
+Tamil Nadu (TN),Coimbatore,food,2
+Uttar Pradesh (UP),Saharanpur,telecom,2
+Uttar Pradesh (UP),Saharanpur,tourism,4
+Uttar Pradesh (UP),Saharanpur,pharmaceutical,4
+Uttar Pradesh (UP),Saharanpur,automobile,4
+Uttar Pradesh (UP),Saharanpur,textile,3
+Uttar Pradesh (UP),Saharanpur,food,1
+Tamil Nadu (TN),Viluppuram,telecom,2
+Tamil Nadu (TN),Viluppuram,tourism,3
+Tamil Nadu (TN),Viluppuram,pharmaceutical,4
+Tamil Nadu (TN),Viluppuram,automobile,5
+Tamil Nadu (TN),Viluppuram,textile,3
+Tamil Nadu (TN),Viluppuram,food,1
+Uttar Pradesh (UP),Meerut,telecom,1
+Uttar Pradesh (UP),Meerut,tourism,1
+Uttar Pradesh (UP),Meerut,pharmaceutical,5
+Uttar Pradesh (UP),Meerut,automobile,5
+Uttar Pradesh (UP),Meerut,textile,4
+Uttar Pradesh (UP),Meerut,food,3
+Uttar Pradesh (UP),Gonda,telecom,2
+Uttar Pradesh (UP),Gonda,tourism,2
+Uttar Pradesh (UP),Gonda,pharmaceutical,4
+Uttar Pradesh (UP),Gonda,automobile,3
+Uttar Pradesh (UP),Gonda,textile,1
+Uttar Pradesh (UP),Gonda,food,5
+Bihar (BR),Sitamarhi,telecom,3
+Bihar (BR),Sitamarhi,tourism,5
+Bihar (BR),Sitamarhi,pharmaceutical,4
+Bihar (BR),Sitamarhi,automobile,2
+Bihar (BR),Sitamarhi,textile,5
+Bihar (BR),Sitamarhi,food,3
+Uttar Pradesh (UP),Raebareli,telecom,3
+Uttar Pradesh (UP),Raebareli,tourism,3
+Uttar Pradesh (UP),Raebareli,pharmaceutical,3
+Uttar Pradesh (UP),Raebareli,automobile,2
+Uttar Pradesh (UP),Raebareli,textile,1
+Uttar Pradesh (UP),Raebareli,food,1
+Andhra Pradesh (AP),Prakasam,telecom,3
+Andhra Pradesh (AP),Prakasam,tourism,2
+Andhra Pradesh (AP),Prakasam,pharmaceutical,3
+Andhra Pradesh (AP),Prakasam,automobile,5
+Andhra Pradesh (AP),Prakasam,textile,5
+Andhra Pradesh (AP),Prakasam,food,2
+Maharashtra (MH),Nanded,telecom,4
+Maharashtra (MH),Nanded,tourism,5
+Maharashtra (MH),Nanded,pharmaceutical,3
+Maharashtra (MH),Nanded,automobile,1
+Maharashtra (MH),Nanded,textile,4
+Maharashtra (MH),Nanded,food,2
+Chhattisgarh (CG),Durg,telecom,5
+Chhattisgarh (CG),Durg,tourism,3
+Chhattisgarh (CG),Durg,pharmaceutical,3
+Chhattisgarh (CG),Durg,automobile,1
+Chhattisgarh (CG),Durg,textile,1
+Chhattisgarh (CG),Durg,food,2
+Bihar (BR),Siwan,telecom,3
+Bihar (BR),Siwan,tourism,3
+Bihar (BR),Siwan,pharmaceutical,5
+Bihar (BR),Siwan,automobile,4
+Bihar (BR),Siwan,textile,4
+Bihar (BR),Siwan,food,5
+Rajasthan (RJ),Nagaur,telecom,1
+Rajasthan (RJ),Nagaur,tourism,4
+Rajasthan (RJ),Nagaur,pharmaceutical,5
+Rajasthan (RJ),Nagaur,automobile,5
+Rajasthan (RJ),Nagaur,textile,1
+Rajasthan (RJ),Nagaur,food,4
+Kerala (KL),Thiruvananthapuram,telecom,3
+Kerala (KL),Thiruvananthapuram,tourism,5
+Kerala (KL),Thiruvananthapuram,pharmaceutical,5
+Kerala (KL),Thiruvananthapuram,automobile,2
+Kerala (KL),Thiruvananthapuram,textile,3
+Kerala (KL),Thiruvananthapuram,food,5
+Kerala (KL),Ernakulam,telecom,1
+Kerala (KL),Ernakulam,tourism,2
+Kerala (KL),Ernakulam,pharmaceutical,4
+Kerala (KL),Ernakulam,automobile,5
+Kerala (KL),Ernakulam,textile,3
+Kerala (KL),Ernakulam,food,3
+Bihar (BR),Purnia,telecom,1
+Bihar (BR),Purnia,tourism,3
+Bihar (BR),Purnia,pharmaceutical,2
+Bihar (BR),Purnia,automobile,1
+Bihar (BR),Purnia,textile,3
+Bihar (BR),Purnia,food,5
+Madhya Pradesh (MP),Indore,telecom,4
+Madhya Pradesh (MP),Indore,tourism,4
+Madhya Pradesh (MP),Indore,pharmaceutical,4
+Madhya Pradesh (MP),Indore,automobile,1
+Madhya Pradesh (MP),Indore,textile,4
+Madhya Pradesh (MP),Indore,food,5
+Uttar Pradesh (UP),Barabanki,telecom,5
+Uttar Pradesh (UP),Barabanki,tourism,1
+Uttar Pradesh (UP),Barabanki,pharmaceutical,3
+Uttar Pradesh (UP),Barabanki,automobile,5
+Uttar Pradesh (UP),Barabanki,textile,5
+Uttar Pradesh (UP),Barabanki,food,2
+Uttar Pradesh (UP),Ballia,telecom,5
+Uttar Pradesh (UP),Ballia,tourism,3
+Uttar Pradesh (UP),Ballia,pharmaceutical,4
+Uttar Pradesh (UP),Ballia,automobile,5
+Uttar Pradesh (UP),Ballia,textile,4
+Uttar Pradesh (UP),Ballia,food,4
+Uttar Pradesh (UP),Pratapgarh,telecom,3
+Uttar Pradesh (UP),Pratapgarh,tourism,2
+Uttar Pradesh (UP),Pratapgarh,pharmaceutical,5
+Uttar Pradesh (UP),Pratapgarh,automobile,3
+Uttar Pradesh (UP),Pratapgarh,textile,3
+Uttar Pradesh (UP),Pratapgarh,food,4
+Gujarat (GJ),Rajkot,telecom,5
+Gujarat (GJ),Rajkot,tourism,1
+Gujarat (GJ),Rajkot,pharmaceutical,1
+Gujarat (GJ),Rajkot,automobile,5
+Gujarat (GJ),Rajkot,textile,5
+Gujarat (GJ),Rajkot,food,5
+Maharashtra (MH),Mumbai City,telecom,3
+Maharashtra (MH),Mumbai City,tourism,3
+Maharashtra (MH),Mumbai City,pharmaceutical,1
+Maharashtra (MH),Mumbai City,automobile,2
+Maharashtra (MH),Mumbai City,textile,1
+Maharashtra (MH),Mumbai City,food,2
+Gujarat (GJ),Banaskantha,telecom,4
+Gujarat (GJ),Banaskantha,tourism,1
+Gujarat (GJ),Banaskantha,pharmaceutical,5
+Gujarat (GJ),Banaskantha,automobile,1
+Gujarat (GJ),Banaskantha,textile,5
+Gujarat (GJ),Banaskantha,food,4
+Uttar Pradesh (UP),Unnao,telecom,5
+Uttar Pradesh (UP),Unnao,tourism,3
+Uttar Pradesh (UP),Unnao,pharmaceutical,4
+Uttar Pradesh (UP),Unnao,automobile,4
+Uttar Pradesh (UP),Unnao,textile,1
+Uttar Pradesh (UP),Unnao,food,4
+Kerala (KL),Thrissur,telecom,4
+Kerala (KL),Thrissur,tourism,5
+Kerala (KL),Thrissur,pharmaceutical,3
+Kerala (KL),Thrissur,automobile,4
+Kerala (KL),Thrissur,textile,3
+Kerala (KL),Thrissur,food,5
+Uttar Pradesh (UP),Deoria,telecom,1
+Uttar Pradesh (UP),Deoria,tourism,3
+Uttar Pradesh (UP),Deoria,pharmaceutical,2
+Uttar Pradesh (UP),Deoria,automobile,5
+Uttar Pradesh (UP),Deoria,textile,5
+Uttar Pradesh (UP),Deoria,food,3
+Kerala (KL),Kozhikode,telecom,4
+Kerala (KL),Kozhikode,tourism,3
+Kerala (KL),Kozhikode,pharmaceutical,5
+Kerala (KL),Kozhikode,automobile,2
+Kerala (KL),Kozhikode,textile,4
+Kerala (KL),Kozhikode,food,1
+Tamil Nadu (TN),Tirunelveli,telecom,4
+Tamil Nadu (TN),Tirunelveli,tourism,1
+Tamil Nadu (TN),Tirunelveli,pharmaceutical,5
+Tamil Nadu (TN),Tirunelveli,automobile,5
+Tamil Nadu (TN),Tirunelveli,textile,2
+Tamil Nadu (TN),Tirunelveli,food,4
+Bihar (BR),Katihar,telecom,2
+Bihar (BR),Katihar,tourism,4
+Bihar (BR),Katihar,pharmaceutical,5
+Bihar (BR),Katihar,automobile,2
+Bihar (BR),Katihar,textile,1
+Bihar (BR),Katihar,food,2
+Rajasthan (RJ),Udaipur,telecom,5
+Rajasthan (RJ),Udaipur,tourism,2
+Rajasthan (RJ),Udaipur,pharmaceutical,5
+Rajasthan (RJ),Udaipur,automobile,3
+Rajasthan (RJ),Udaipur,textile,4
+Rajasthan (RJ),Udaipur,food,1
+Bihar (BR),Bhagalpur,telecom,3
+Bihar (BR),Bhagalpur,tourism,3
+Bihar (BR),Bhagalpur,pharmaceutical,4
+Bihar (BR),Bhagalpur,automobile,2
+Bihar (BR),Bhagalpur,textile,2
+Bihar (BR),Bhagalpur,food,5
+Telangana (TS),Medak,telecom,4
+Telangana (TS),Medak,tourism,5
+Telangana (TS),Medak,pharmaceutical,4
+Telangana (TS),Medak,automobile,5
+Telangana (TS),Medak,textile,4
+Telangana (TS),Medak,food,3
+Maharashtra (MH),Satara,telecom,4
+Maharashtra (MH),Satara,tourism,5
+Maharashtra (MH),Satara,pharmaceutical,3
+Maharashtra (MH),Satara,automobile,3
+Maharashtra (MH),Satara,textile,3
+Maharashtra (MH),Satara,food,4
+Uttar Pradesh (UP),Shahjahanpur,telecom,4
+Uttar Pradesh (UP),Shahjahanpur,tourism,4
+Uttar Pradesh (UP),Shahjahanpur,pharmaceutical,3
+Uttar Pradesh (UP),Shahjahanpur,automobile,2
+Uttar Pradesh (UP),Shahjahanpur,textile,1
+Uttar Pradesh (UP),Shahjahanpur,food,3
+West Bengal (WB),Uttar Dinajpur,telecom,4
+West Bengal (WB),Uttar Dinajpur,tourism,1
+West Bengal (WB),Uttar Dinajpur,pharmaceutical,3
+West Bengal (WB),Uttar Dinajpur,automobile,4
+West Bengal (WB),Uttar Dinajpur,textile,5
+West Bengal (WB),Uttar Dinajpur,food,3
+Karnataka (KA),Mysore,telecom,4
+Karnataka (KA),Mysore,tourism,5
+Karnataka (KA),Mysore,pharmaceutical,3
+Karnataka (KA),Mysore,automobile,3
+Karnataka (KA),Mysore,textile,2
+Karnataka (KA),Mysore,food,1
+Andhra Pradesh (AP),Sri Potti Sriramulu Nellore,telecom,2
+Andhra Pradesh (AP),Sri Potti Sriramulu Nellore,tourism,2
+Andhra Pradesh (AP),Sri Potti Sriramulu Nellore,pharmaceutical,1
+Andhra Pradesh (AP),Sri Potti Sriramulu Nellore,automobile,2
+Andhra Pradesh (AP),Sri Potti Sriramulu Nellore,textile,5
+Andhra Pradesh (AP),Sri Potti Sriramulu Nellore,food,2
+Bihar (BR),Rohtas,telecom,1
+Bihar (BR),Rohtas,tourism,3
+Bihar (BR),Rohtas,pharmaceutical,4
+Bihar (BR),Rohtas,automobile,3
+Bihar (BR),Rohtas,textile,3
+Bihar (BR),Rohtas,food,3
+Bihar (BR),Begusarai,telecom,3
+Bihar (BR),Begusarai,tourism,4
+Bihar (BR),Begusarai,pharmaceutical,4
+Bihar (BR),Begusarai,automobile,5
+Bihar (BR),Begusarai,textile,2
+Bihar (BR),Begusarai,food,5
+West Bengal (WB),Purulia,telecom,1
+West Bengal (WB),Purulia,tourism,2
+West Bengal (WB),Purulia,pharmaceutical,5
+West Bengal (WB),Purulia,automobile,2
+West Bengal (WB),Purulia,textile,4
+West Bengal (WB),Purulia,food,1
+Jharkhand (JH),Ranchi,telecom,1
+Jharkhand (JH),Ranchi,tourism,3
+Jharkhand (JH),Ranchi,pharmaceutical,4
+Jharkhand (JH),Ranchi,automobile,2
+Jharkhand (JH),Ranchi,textile,3
+Jharkhand (JH),Ranchi,food,3
+Punjab (PB),Patiala,telecom,1
+Punjab (PB),Patiala,tourism,5
+Punjab (PB),Patiala,pharmaceutical,1
+Punjab (PB),Patiala,automobile,5
+Punjab (PB),Patiala,textile,2
+Punjab (PB),Patiala,food,4
+Maharashtra (MH),Amravati,telecom,4
+Maharashtra (MH),Amravati,tourism,2
+Maharashtra (MH),Amravati,pharmaceutical,2
+Maharashtra (MH),Amravati,automobile,3
+Maharashtra (MH),Amravati,textile,3
+Maharashtra (MH),Amravati,food,2
+Andhra Pradesh (AP),Kadapa,telecom,5
+Andhra Pradesh (AP),Kadapa,tourism,2
+Andhra Pradesh (AP),Kadapa,pharmaceutical,2
+Andhra Pradesh (AP),Kadapa,automobile,1
+Andhra Pradesh (AP),Kadapa,textile,3
+Andhra Pradesh (AP),Kadapa,food,5
+Gujarat (GJ),Bhavnagar,telecom,1
+Gujarat (GJ),Bhavnagar,tourism,1
+Gujarat (GJ),Bhavnagar,pharmaceutical,3
+Gujarat (GJ),Bhavnagar,automobile,1
+Gujarat (GJ),Bhavnagar,textile,3
+Gujarat (GJ),Bhavnagar,food,3
+Bihar (BR),Nalanda,telecom,4
+Bihar (BR),Nalanda,tourism,4
+Bihar (BR),Nalanda,pharmaceutical,1
+Bihar (BR),Nalanda,automobile,5
+Bihar (BR),Nalanda,textile,1
+Bihar (BR),Nalanda,food,3
+Tamil Nadu (TN),Kanyakumari,telecom,3
+Tamil Nadu (TN),Kanyakumari,tourism,1
+Tamil Nadu (TN),Kanyakumari,pharmaceutical,3
+Tamil Nadu (TN),Kanyakumari,automobile,1
+Tamil Nadu (TN),Kanyakumari,textile,5
+Tamil Nadu (TN),Kanyakumari,food,2
+Assam (AS),Nagaon,telecom,5
+Assam (AS),Nagaon,tourism,4
+Assam (AS),Nagaon,pharmaceutical,4
+Assam (AS),Nagaon,automobile,4
+Assam (AS),Nagaon,textile,4
+Assam (AS),Nagaon,food,4
+West Bengal (WB),Cooch Behar,telecom,3
+West Bengal (WB),Cooch Behar,tourism,5
+West Bengal (WB),Cooch Behar,pharmaceutical,2
+West Bengal (WB),Cooch Behar,automobile,2
+West Bengal (WB),Cooch Behar,textile,2
+West Bengal (WB),Cooch Behar,food,4
+Maharashtra (MH),Sangli,telecom,3
+Maharashtra (MH),Sangli,tourism,1
+Maharashtra (MH),Sangli,pharmaceutical,3
+Maharashtra (MH),Sangli,automobile,4
+Maharashtra (MH),Sangli,textile,3
+Maharashtra (MH),Sangli,food,1
+Kerala (KL),Palakkad,telecom,2
+Kerala (KL),Palakkad,tourism,1
+Kerala (KL),Palakkad,pharmaceutical,3
+Kerala (KL),Palakkad,automobile,2
+Kerala (KL),Palakkad,textile,4
+Kerala (KL),Palakkad,food,2
+Bihar (BR),Araria,telecom,5
+Bihar (BR),Araria,tourism,1
+Bihar (BR),Araria,pharmaceutical,4
+Bihar (BR),Araria,automobile,2
+Bihar (BR),Araria,textile,1
+Bihar (BR),Araria,food,1
+Telangana (TS),Khammam,telecom,1
+Telangana (TS),Khammam,tourism,1
+Telangana (TS),Khammam,pharmaceutical,5
+Telangana (TS),Khammam,automobile,5
+Telangana (TS),Khammam,textile,2
+Telangana (TS),Khammam,food,5
+Maharashtra (MH),Yavatmal,telecom,2
+Maharashtra (MH),Yavatmal,tourism,3
+Maharashtra (MH),Yavatmal,pharmaceutical,4
+Maharashtra (MH),Yavatmal,automobile,4
+Maharashtra (MH),Yavatmal,textile,1
+Maharashtra (MH),Yavatmal,food,2
+Gujarat (GJ),Junagadh,telecom,2
+Gujarat (GJ),Junagadh,tourism,5
+Gujarat (GJ),Junagadh,pharmaceutical,5
+Gujarat (GJ),Junagadh,automobile,4
+Gujarat (GJ),Junagadh,textile,1
+Gujarat (GJ),Junagadh,food,3
+Telangana (TS),Adilabad,telecom,4
+Telangana (TS),Adilabad,tourism,4
+Telangana (TS),Adilabad,pharmaceutical,5
+Telangana (TS),Adilabad,automobile,3
+Telangana (TS),Adilabad,textile,3
+Telangana (TS),Adilabad,food,4
+Delhi (DL),South Delhi,telecom,5
+Delhi (DL),South Delhi,tourism,5
+Delhi (DL),South Delhi,pharmaceutical,2
+Delhi (DL),South Delhi,automobile,5
+Delhi (DL),South Delhi,textile,2
+Delhi (DL),South Delhi,food,1
+Bihar (BR),Bhojpur,telecom,2
+Bihar (BR),Bhojpur,tourism,4
+Bihar (BR),Bhojpur,pharmaceutical,1
+Bihar (BR),Bhojpur,automobile,3
+Bihar (BR),Bhojpur,textile,2
+Bihar (BR),Bhojpur,food,3
+Tamil Nadu (TN),Tiruchirappalli,telecom,3
+Tamil Nadu (TN),Tiruchirappalli,tourism,5
+Tamil Nadu (TN),Tiruchirappalli,pharmaceutical,3
+Tamil Nadu (TN),Tiruchirappalli,automobile,3
+Tamil Nadu (TN),Tiruchirappalli,textile,5
+Tamil Nadu (TN),Tiruchirappalli,food,5
+Andhra Pradesh (AP),Srikakulam,telecom,2
+Andhra Pradesh (AP),Srikakulam,tourism,2
+Andhra Pradesh (AP),Srikakulam,pharmaceutical,4
+Andhra Pradesh (AP),Srikakulam,automobile,4
+Andhra Pradesh (AP),Srikakulam,textile,2
+Andhra Pradesh (AP),Srikakulam,food,4
+Jharkhand (JH),Dhanbad,telecom,5
+Jharkhand (JH),Dhanbad,tourism,2
+Jharkhand (JH),Dhanbad,pharmaceutical,2
+Jharkhand (JH),Dhanbad,automobile,4
+Jharkhand (JH),Dhanbad,textile,3
+Jharkhand (JH),Dhanbad,food,4
+Karnataka (KA),Tumkur,telecom,3
+Karnataka (KA),Tumkur,tourism,4
+Karnataka (KA),Tumkur,pharmaceutical,3
+Karnataka (KA),Tumkur,automobile,5
+Karnataka (KA),Tumkur,textile,4
+Karnataka (KA),Tumkur,food,4
+Rajasthan (RJ),Sikar,telecom,1
+Rajasthan (RJ),Sikar,tourism,3
+Rajasthan (RJ),Sikar,pharmaceutical,4
+Rajasthan (RJ),Sikar,automobile,3
+Rajasthan (RJ),Sikar,textile,4
+Rajasthan (RJ),Sikar,food,2
+Uttar Pradesh (UP),Maharajganj,telecom,1
+Uttar Pradesh (UP),Maharajganj,tourism,2
+Uttar Pradesh (UP),Maharajganj,pharmaceutical,2
+Uttar Pradesh (UP),Maharajganj,automobile,3
+Uttar Pradesh (UP),Maharajganj,textile,1
+Uttar Pradesh (UP),Maharajganj,food,5
+Chhattisgarh (CG),Bilaspur,telecom,1
+Chhattisgarh (CG),Bilaspur,tourism,3
+Chhattisgarh (CG),Bilaspur,pharmaceutical,2
+Chhattisgarh (CG),Bilaspur,automobile,3
+Chhattisgarh (CG),Bilaspur,textile,1
+Chhattisgarh (CG),Bilaspur,food,4
+Maharashtra (MH),Raigad,telecom,3
+Maharashtra (MH),Raigad,tourism,3
+Maharashtra (MH),Raigad,pharmaceutical,3
+Maharashtra (MH),Raigad,automobile,2
+Maharashtra (MH),Raigad,textile,5
+Maharashtra (MH),Raigad,food,3
+Uttar Pradesh (UP),Fatehpur,telecom,1
+Uttar Pradesh (UP),Fatehpur,tourism,2
+Uttar Pradesh (UP),Fatehpur,pharmaceutical,2
+Uttar Pradesh (UP),Fatehpur,automobile,3
+Uttar Pradesh (UP),Fatehpur,textile,3
+Uttar Pradesh (UP),Fatehpur,food,1
+Kerala (KL),Kollam,telecom,2
+Kerala (KL),Kollam,tourism,4
+Kerala (KL),Kollam,pharmaceutical,3
+Kerala (KL),Kollam,automobile,5
+Kerala (KL),Kollam,textile,4
+Kerala (KL),Kollam,food,3
+Odisha (OD),Cuttack,telecom,2
+Odisha (OD),Cuttack,tourism,5
+Odisha (OD),Cuttack,pharmaceutical,1
+Odisha (OD),Cuttack,automobile,4
+Odisha (OD),Cuttack,textile,2
+Odisha (OD),Cuttack,food,4
+Rajasthan (RJ),Barmer,telecom,3
+Rajasthan (RJ),Barmer,tourism,2
+Rajasthan (RJ),Barmer,pharmaceutical,5
+Rajasthan (RJ),Barmer,automobile,3
+Rajasthan (RJ),Barmer,textile,5
+Rajasthan (RJ),Barmer,food,4
+Tamil Nadu (TN),Cuddalore,telecom,3
+Tamil Nadu (TN),Cuddalore,tourism,5
+Tamil Nadu (TN),Cuddalore,pharmaceutical,4
+Tamil Nadu (TN),Cuddalore,automobile,3
+Tamil Nadu (TN),Cuddalore,textile,5
+Tamil Nadu (TN),Cuddalore,food,5
+Maharashtra (MH),Buldhana,telecom,5
+Maharashtra (MH),Buldhana,tourism,5
+Maharashtra (MH),Buldhana,pharmaceutical,1
+Maharashtra (MH),Buldhana,automobile,2
+Maharashtra (MH),Buldhana,textile,2
+Maharashtra (MH),Buldhana,food,5
+Maharashtra (MH),Beed,telecom,3
+Maharashtra (MH),Beed,tourism,3
+Maharashtra (MH),Beed,pharmaceutical,5
+Maharashtra (MH),Beed,automobile,2
+Maharashtra (MH),Beed,textile,4
+Maharashtra (MH),Beed,food,5
+Rajasthan (RJ),Ajmer,telecom,1
+Rajasthan (RJ),Ajmer,tourism,5
+Rajasthan (RJ),Ajmer,pharmaceutical,1
+Rajasthan (RJ),Ajmer,automobile,5
+Rajasthan (RJ),Ajmer,textile,3
+Rajasthan (RJ),Ajmer,food,3
+Karnataka (KA),Gulbarga,telecom,5
+Karnataka (KA),Gulbarga,tourism,4
+Karnataka (KA),Gulbarga,pharmaceutical,3
+Karnataka (KA),Gulbarga,automobile,1
+Karnataka (KA),Gulbarga,textile,1
+Karnataka (KA),Gulbarga,food,3
+Bihar (BR),Gopalganj,telecom,4
+Bihar (BR),Gopalganj,tourism,5
+Bihar (BR),Gopalganj,pharmaceutical,2
+Bihar (BR),Gopalganj,automobile,5
+Bihar (BR),Gopalganj,textile,3
+Bihar (BR),Gopalganj,food,1
+Uttar Pradesh (UP),Siddharthnagar,telecom,1
+Uttar Pradesh (UP),Siddharthnagar,tourism,4
+Uttar Pradesh (UP),Siddharthnagar,pharmaceutical,2
+Uttar Pradesh (UP),Siddharthnagar,automobile,3
+Uttar Pradesh (UP),Siddharthnagar,textile,4
+Uttar Pradesh (UP),Siddharthnagar,food,5
+Telangana (TS),Nizamabad,telecom,1
+Telangana (TS),Nizamabad,tourism,1
+Telangana (TS),Nizamabad,pharmaceutical,4
+Telangana (TS),Nizamabad,automobile,4
+Telangana (TS),Nizamabad,textile,3
+Telangana (TS),Nizamabad,food,2
+Rajasthan (RJ),Bharatpur,telecom,4
+Rajasthan (RJ),Bharatpur,tourism,5
+Rajasthan (RJ),Bharatpur,pharmaceutical,2
+Rajasthan (RJ),Bharatpur,automobile,5
+Rajasthan (RJ),Bharatpur,textile,4
+Rajasthan (RJ),Bharatpur,food,4
+Uttar Pradesh (UP),Mathura,telecom,1
+Uttar Pradesh (UP),Mathura,tourism,1
+Uttar Pradesh (UP),Mathura,pharmaceutical,4
+Uttar Pradesh (UP),Mathura,automobile,1
+Uttar Pradesh (UP),Mathura,textile,2
+Uttar Pradesh (UP),Mathura,food,4
+Karnataka (KA),Bellary,telecom,2
+Karnataka (KA),Bellary,tourism,3
+Karnataka (KA),Bellary,pharmaceutical,1
+Karnataka (KA),Bellary,automobile,5
+Karnataka (KA),Bellary,textile,3
+Karnataka (KA),Bellary,food,1
+Delhi (DL),West Delhi,telecom,1
+Delhi (DL),West Delhi,tourism,1
+Delhi (DL),West Delhi,pharmaceutical,5
+Delhi (DL),West Delhi,automobile,4
+Delhi (DL),West Delhi,textile,4
+Delhi (DL),West Delhi,food,2
+Kerala (KL),Kannur,telecom,1
+Kerala (KL),Kannur,tourism,5
+Kerala (KL),Kannur,pharmaceutical,3
+Kerala (KL),Kannur,automobile,3
+Kerala (KL),Kannur,textile,4
+Kerala (KL),Kannur,food,1
+Odisha (OD),Mayurbhanj,telecom,3
+Odisha (OD),Mayurbhanj,tourism,2
+Odisha (OD),Mayurbhanj,pharmaceutical,4
+Odisha (OD),Mayurbhanj,automobile,4
+Odisha (OD),Mayurbhanj,textile,4
+Odisha (OD),Mayurbhanj,food,4
+Bihar (BR),Aurangabad,telecom,4
+Bihar (BR),Aurangabad,tourism,4
+Bihar (BR),Aurangabad,pharmaceutical,2
+Bihar (BR),Aurangabad,automobile,3
+Bihar (BR),Aurangabad,textile,3
+Bihar (BR),Aurangabad,food,4
+Uttar Pradesh (UP),Firozabad,telecom,3
+Uttar Pradesh (UP),Firozabad,tourism,3
+Uttar Pradesh (UP),Firozabad,pharmaceutical,2
+Uttar Pradesh (UP),Firozabad,automobile,2
+Uttar Pradesh (UP),Firozabad,textile,5
+Uttar Pradesh (UP),Firozabad,food,5
+Uttar Pradesh (UP),Mirzapur,telecom,5
+Uttar Pradesh (UP),Mirzapur,tourism,5
+Uttar Pradesh (UP),Mirzapur,pharmaceutical,1
+Uttar Pradesh (UP),Mirzapur,automobile,3
+Uttar Pradesh (UP),Mirzapur,textile,3
+Uttar Pradesh (UP),Mirzapur,food,2
+Punjab (PB),Amritsar,telecom,4
+Punjab (PB),Amritsar,tourism,3
+Punjab (PB),Amritsar,pharmaceutical,4
+Punjab (PB),Amritsar,automobile,1
+Punjab (PB),Amritsar,textile,3
+Punjab (PB),Amritsar,food,2
+Tamil Nadu (TN),Tirupur,telecom,3
+Tamil Nadu (TN),Tirupur,tourism,2
+Tamil Nadu (TN),Tirupur,pharmaceutical,2
+Tamil Nadu (TN),Tirupur,automobile,3
+Tamil Nadu (TN),Tirupur,textile,1
+Tamil Nadu (TN),Tirupur,food,3
+Tamil Nadu (TN),Tiruvannamalai,telecom,4
+Tamil Nadu (TN),Tiruvannamalai,tourism,1
+Tamil Nadu (TN),Tiruvannamalai,pharmaceutical,1
+Tamil Nadu (TN),Tiruvannamalai,automobile,3
+Tamil Nadu (TN),Tiruvannamalai,textile,4
+Tamil Nadu (TN),Tiruvannamalai,food,2
+Uttar Pradesh (UP),Faizabad,telecom,4
+Uttar Pradesh (UP),Faizabad,tourism,3
+Uttar Pradesh (UP),Faizabad,pharmaceutical,2
+Uttar Pradesh (UP),Faizabad,automobile,2
+Uttar Pradesh (UP),Faizabad,textile,5
+Uttar Pradesh (UP),Faizabad,food,5
+Uttar Pradesh (UP),Basti,telecom,5
+Uttar Pradesh (UP),Basti,tourism,3
+Uttar Pradesh (UP),Basti,pharmaceutical,5
+Uttar Pradesh (UP),Basti,automobile,3
+Uttar Pradesh (UP),Basti,textile,2
+Uttar Pradesh (UP),Basti,food,1
+Madhya Pradesh (MP),Jabalpur,telecom,4
+Madhya Pradesh (MP),Jabalpur,tourism,1
+Madhya Pradesh (MP),Jabalpur,pharmaceutical,2
+Madhya Pradesh (MP),Jabalpur,automobile,5
+Madhya Pradesh (MP),Jabalpur,textile,1
+Madhya Pradesh (MP),Jabalpur,food,5
+Maharashtra (MH),Latur,telecom,4
+Maharashtra (MH),Latur,tourism,1
+Maharashtra (MH),Latur,pharmaceutical,5
+Maharashtra (MH),Latur,automobile,1
+Maharashtra (MH),Latur,textile,5
+Maharashtra (MH),Latur,food,4
+Jharkhand (JH),Giridih,telecom,3
+Jharkhand (JH),Giridih,tourism,5
+Jharkhand (JH),Giridih,pharmaceutical,4
+Jharkhand (JH),Giridih,automobile,1
+Jharkhand (JH),Giridih,textile,1
+Jharkhand (JH),Giridih,food,1
+Gujarat (GJ),Sabarkantha,telecom,2
+Gujarat (GJ),Sabarkantha,tourism,3
+Gujarat (GJ),Sabarkantha,pharmaceutical,2
+Gujarat (GJ),Sabarkantha,automobile,3
+Gujarat (GJ),Sabarkantha,textile,5
+Gujarat (GJ),Sabarkantha,food,4
+Rajasthan (RJ),Bhilwara,telecom,5
+Rajasthan (RJ),Bhilwara,tourism,5
+Rajasthan (RJ),Bhilwara,pharmaceutical,4
+Rajasthan (RJ),Bhilwara,automobile,5
+Rajasthan (RJ),Bhilwara,textile,3
+Rajasthan (RJ),Bhilwara,food,5
+Tamil Nadu (TN),Thanjavur,telecom,1
+Tamil Nadu (TN),Thanjavur,tourism,5
+Tamil Nadu (TN),Thanjavur,pharmaceutical,4
+Tamil Nadu (TN),Thanjavur,automobile,4
+Tamil Nadu (TN),Thanjavur,textile,4
+Tamil Nadu (TN),Thanjavur,food,5
+Uttar Pradesh (UP),Ambedkar Nagar,telecom,3
+Uttar Pradesh (UP),Ambedkar Nagar,tourism,2
+Uttar Pradesh (UP),Ambedkar Nagar,pharmaceutical,5
+Uttar Pradesh (UP),Ambedkar Nagar,automobile,3
+Uttar Pradesh (UP),Ambedkar Nagar,textile,2
+Uttar Pradesh (UP),Ambedkar Nagar,food,3
+Gujarat (GJ),Panchmahal,telecom,3
+Gujarat (GJ),Panchmahal,tourism,5
+Gujarat (GJ),Panchmahal,pharmaceutical,4
+Gujarat (GJ),Panchmahal,automobile,4
+Gujarat (GJ),Panchmahal,textile,3
+Gujarat (GJ),Panchmahal,food,1
+Uttar Pradesh (UP),Bahraich,telecom,1
+Uttar Pradesh (UP),Bahraich,tourism,4
+Uttar Pradesh (UP),Bahraich,pharmaceutical,3
+Uttar Pradesh (UP),Bahraich,automobile,5
+Uttar Pradesh (UP),Bahraich,textile,1
+Uttar Pradesh (UP),Bahraich,food,5
+Madhya Pradesh (MP),Sagar,telecom,4
+Madhya Pradesh (MP),Sagar,tourism,1
+Madhya Pradesh (MP),Sagar,pharmaceutical,5
+Madhya Pradesh (MP),Sagar,automobile,3
+Madhya Pradesh (MP),Sagar,textile,3
+Madhya Pradesh (MP),Sagar,food,3
+Madhya Pradesh (MP),Bhopal,telecom,1
+Madhya Pradesh (MP),Bhopal,tourism,4
+Madhya Pradesh (MP),Bhopal,pharmaceutical,1
+Madhya Pradesh (MP),Bhopal,automobile,3
+Madhya Pradesh (MP),Bhopal,textile,2
+Madhya Pradesh (MP),Bhopal,food,4
+Rajasthan (RJ),Bikaner,telecom,4
+Rajasthan (RJ),Bikaner,tourism,1
+Rajasthan (RJ),Bikaner,pharmaceutical,4
+Rajasthan (RJ),Bikaner,automobile,2
+Rajasthan (RJ),Bikaner,textile,3
+Rajasthan (RJ),Bikaner,food,3
+Madhya Pradesh (MP),Rewa,telecom,5
+Madhya Pradesh (MP),Rewa,tourism,3
+Madhya Pradesh (MP),Rewa,pharmaceutical,1
+Madhya Pradesh (MP),Rewa,automobile,2
+Madhya Pradesh (MP),Rewa,textile,3
+Madhya Pradesh (MP),Rewa,food,3
+Andhra Pradesh (AP),Vizianagaram,telecom,1
+Andhra Pradesh (AP),Vizianagaram,tourism,2
+Andhra Pradesh (AP),Vizianagaram,pharmaceutical,2
+Andhra Pradesh (AP),Vizianagaram,automobile,1
+Andhra Pradesh (AP),Vizianagaram,textile,2
+Andhra Pradesh (AP),Vizianagaram,food,1
+Uttar Pradesh (UP),Rampur,telecom,2
+Uttar Pradesh (UP),Rampur,tourism,5
+Uttar Pradesh (UP),Rampur,pharmaceutical,4
+Uttar Pradesh (UP),Rampur,automobile,4
+Uttar Pradesh (UP),Rampur,textile,1
+Uttar Pradesh (UP),Rampur,food,2
+Odisha (OD),Balasore,telecom,2
+Odisha (OD),Balasore,tourism,4
+Odisha (OD),Balasore,pharmaceutical,2
+Odisha (OD),Balasore,automobile,4
+Odisha (OD),Balasore,textile,2
+Odisha (OD),Balasore,food,5
+Punjab (PB),Gurdaspur,telecom,5
+Punjab (PB),Gurdaspur,tourism,4
+Punjab (PB),Gurdaspur,pharmaceutical,4
+Punjab (PB),Gurdaspur,automobile,3
+Punjab (PB),Gurdaspur,textile,5
+Punjab (PB),Gurdaspur,food,5
+Gujarat (GJ),Kheda,telecom,1
+Gujarat (GJ),Kheda,tourism,3
+Gujarat (GJ),Kheda,pharmaceutical,3
+Gujarat (GJ),Kheda,automobile,5
+Gujarat (GJ),Kheda,textile,3
+Gujarat (GJ),Kheda,food,1
+Delhi (DL),South West Delhi,telecom,1
+Delhi (DL),South West Delhi,tourism,1
+Delhi (DL),South West Delhi,pharmaceutical,2
+Delhi (DL),South West Delhi,automobile,3
+Delhi (DL),South West Delhi,textile,3
+Delhi (DL),South West Delhi,food,5
+Jharkhand (JH),East Singhbhum,telecom,4
+Jharkhand (JH),East Singhbhum,tourism,1
+Jharkhand (JH),East Singhbhum,pharmaceutical,1
+Jharkhand (JH),East Singhbhum,automobile,1
+Jharkhand (JH),East Singhbhum,textile,4
+Jharkhand (JH),East Singhbhum,food,1
+Tamil Nadu (TN),Erode,telecom,2
+Tamil Nadu (TN),Erode,tourism,2
+Tamil Nadu (TN),Erode,pharmaceutical,5
+Tamil Nadu (TN),Erode,automobile,5
+Tamil Nadu (TN),Erode,textile,5
+Tamil Nadu (TN),Erode,food,1
+Odisha (OD),Khordha,telecom,4
+Odisha (OD),Khordha,tourism,4
+Odisha (OD),Khordha,pharmaceutical,1
+Odisha (OD),Khordha,automobile,3
+Odisha (OD),Khordha,textile,2
+Odisha (OD),Khordha,food,1
+Delhi (DL),North East Delhi,telecom,3
+Delhi (DL),North East Delhi,tourism,4
+Delhi (DL),North East Delhi,pharmaceutical,1
+Delhi (DL),North East Delhi,automobile,4
+Delhi (DL),North East Delhi,textile,5
+Delhi (DL),North East Delhi,food,5
+Madhya Pradesh (MP),Satna,telecom,1
+Madhya Pradesh (MP),Satna,tourism,4
+Madhya Pradesh (MP),Satna,pharmaceutical,5
+Madhya Pradesh (MP),Satna,automobile,2
+Madhya Pradesh (MP),Satna,textile,5
+Madhya Pradesh (MP),Satna,food,2
+Bihar (BR),Supaul,telecom,4
+Bihar (BR),Supaul,tourism,2
+Bihar (BR),Supaul,pharmaceutical,2
+Bihar (BR),Supaul,automobile,4
+Bihar (BR),Supaul,textile,5
+Bihar (BR),Supaul,food,4
+Uttar Pradesh (UP),Sambhal(Bheem Nagar),telecom,4
+Uttar Pradesh (UP),Sambhal(Bheem Nagar),tourism,3
+Uttar Pradesh (UP),Sambhal(Bheem Nagar),pharmaceutical,2
+Uttar Pradesh (UP),Sambhal(Bheem Nagar),automobile,4
+Uttar Pradesh (UP),Sambhal(Bheem Nagar),textile,4
+Uttar Pradesh (UP),Sambhal(Bheem Nagar),food,2
+Bihar (BR),Nawada,telecom,4
+Bihar (BR),Nawada,tourism,5
+Bihar (BR),Nawada,pharmaceutical,2
+Bihar (BR),Nawada,automobile,2
+Bihar (BR),Nawada,textile,5
+Bihar (BR),Nawada,food,1
+Uttar Pradesh (UP),Mau,telecom,3
+Uttar Pradesh (UP),Mau,tourism,3
+Uttar Pradesh (UP),Mau,pharmaceutical,1
+Uttar Pradesh (UP),Mau,automobile,3
+Uttar Pradesh (UP),Mau,textile,1
+Uttar Pradesh (UP),Mau,food,2
+Maharashtra (MH),Chandrapur,telecom,3
+Maharashtra (MH),Chandrapur,tourism,3
+Maharashtra (MH),Chandrapur,pharmaceutical,3
+Maharashtra (MH),Chandrapur,automobile,5
+Maharashtra (MH),Chandrapur,textile,3
+Maharashtra (MH),Chandrapur,food,2
+Madhya Pradesh (MP),Dhar,telecom,4
+Madhya Pradesh (MP),Dhar,tourism,2
+Madhya Pradesh (MP),Dhar,pharmaceutical,3
+Madhya Pradesh (MP),Dhar,automobile,4
+Madhya Pradesh (MP),Dhar,textile,5
+Madhya Pradesh (MP),Dhar,food,4
+Punjab (PB),Jalandhar,telecom,4
+Punjab (PB),Jalandhar,tourism,3
+Punjab (PB),Jalandhar,pharmaceutical,5
+Punjab (PB),Jalandhar,automobile,1
+Punjab (PB),Jalandhar,textile,4
+Punjab (PB),Jalandhar,food,4
+Karnataka (KA),Vijayapura,telecom,3
+Karnataka (KA),Vijayapura,tourism,3
+Karnataka (KA),Vijayapura,pharmaceutical,2
+Karnataka (KA),Vijayapura,automobile,4
+Karnataka (KA),Vijayapura,textile,1
+Karnataka (KA),Vijayapura,food,2
+Tamil Nadu (TN),Dindigul,telecom,2
+Tamil Nadu (TN),Dindigul,tourism,5
+Tamil Nadu (TN),Dindigul,pharmaceutical,1
+Tamil Nadu (TN),Dindigul,automobile,1
+Tamil Nadu (TN),Dindigul,textile,2
+Tamil Nadu (TN),Dindigul,food,3
+Gujarat (GJ),Jamnagar,telecom,2
+Gujarat (GJ),Jamnagar,tourism,1
+Gujarat (GJ),Jamnagar,pharmaceutical,4
+Gujarat (GJ),Jamnagar,automobile,1
+Gujarat (GJ),Jamnagar,textile,5
+Gujarat (GJ),Jamnagar,food,1
+Uttar Pradesh (UP),Balrampur,telecom,5
+Uttar Pradesh (UP),Balrampur,tourism,2
+Uttar Pradesh (UP),Balrampur,pharmaceutical,1
+Uttar Pradesh (UP),Balrampur,automobile,2
+Uttar Pradesh (UP),Balrampur,textile,1
+Uttar Pradesh (UP),Balrampur,food,4
+Rajasthan (RJ),Jhunjhunu,telecom,5
+Rajasthan (RJ),Jhunjhunu,tourism,1
+Rajasthan (RJ),Jhunjhunu,pharmaceutical,2
+Rajasthan (RJ),Jhunjhunu,automobile,5
+Rajasthan (RJ),Jhunjhunu,textile,3
+Rajasthan (RJ),Jhunjhunu,food,2
+Gujarat (GJ),Dahod,telecom,1
+Gujarat (GJ),Dahod,tourism,1
+Gujarat (GJ),Dahod,pharmaceutical,4
+Gujarat (GJ),Dahod,automobile,1
+Gujarat (GJ),Dahod,textile,4
+Gujarat (GJ),Dahod,food,2
+Kerala (KL),Alappuzha,telecom,4
+Kerala (KL),Alappuzha,tourism,3
+Kerala (KL),Alappuzha,pharmaceutical,3
+Kerala (KL),Alappuzha,automobile,3
+Kerala (KL),Alappuzha,textile,5
+Kerala (KL),Alappuzha,food,5
+Gujarat (GJ),Kutch,telecom,1
+Gujarat (GJ),Kutch,tourism,1
+Gujarat (GJ),Kutch,pharmaceutical,4
+Gujarat (GJ),Kutch,automobile,5
+Gujarat (GJ),Kutch,textile,5
+Gujarat (GJ),Kutch,food,4
+Madhya Pradesh (MP),Chhindwara,telecom,2
+Madhya Pradesh (MP),Chhindwara,tourism,5
+Madhya Pradesh (MP),Chhindwara,pharmaceutical,5
+Madhya Pradesh (MP),Chhindwara,automobile,4
+Madhya Pradesh (MP),Chhindwara,textile,3
+Madhya Pradesh (MP),Chhindwara,food,4
+Gujarat (GJ),Anand,telecom,5
+Gujarat (GJ),Anand,tourism,4
+Gujarat (GJ),Anand,pharmaceutical,5
+Gujarat (GJ),Anand,automobile,2
+Gujarat (GJ),Anand,textile,3
+Gujarat (GJ),Anand,food,1
+Karnataka (KA),Dakshina Kannada,telecom,3
+Karnataka (KA),Dakshina Kannada,tourism,2
+Karnataka (KA),Dakshina Kannada,pharmaceutical,2
+Karnataka (KA),Dakshina Kannada,automobile,3
+Karnataka (KA),Dakshina Kannada,textile,3
+Karnataka (KA),Dakshina Kannada,food,4
+Odisha (OD),Sundargarh,telecom,2
+Odisha (OD),Sundargarh,tourism,5
+Odisha (OD),Sundargarh,pharmaceutical,5
+Odisha (OD),Sundargarh,automobile,5
+Odisha (OD),Sundargarh,textile,3
+Odisha (OD),Sundargarh,food,3
+Jharkhand (JH),Bokaro,telecom,4
+Jharkhand (JH),Bokaro,tourism,4
+Jharkhand (JH),Bokaro,pharmaceutical,2
+Jharkhand (JH),Bokaro,automobile,2
+Jharkhand (JH),Bokaro,textile,3
+Jharkhand (JH),Bokaro,food,4
+Maharashtra (MH),Dhule,telecom,2
+Maharashtra (MH),Dhule,tourism,4
+Maharashtra (MH),Dhule,pharmaceutical,4
+Maharashtra (MH),Dhule,automobile,1
+Maharashtra (MH),Dhule,textile,5
+Maharashtra (MH),Dhule,food,5
+Rajasthan (RJ),Churu,telecom,3
+Rajasthan (RJ),Churu,tourism,3
+Rajasthan (RJ),Churu,pharmaceutical,1
+Rajasthan (RJ),Churu,automobile,4
+Rajasthan (RJ),Churu,textile,1
+Rajasthan (RJ),Churu,food,1
+Rajasthan (RJ),Pali,telecom,2
+Rajasthan (RJ),Pali,tourism,1
+Rajasthan (RJ),Pali,pharmaceutical,2
+Rajasthan (RJ),Pali,automobile,1
+Rajasthan (RJ),Pali,textile,2
+Rajasthan (RJ),Pali,food,4
+Uttar Pradesh (UP),Pilibhit,telecom,3
+Uttar Pradesh (UP),Pilibhit,tourism,3
+Uttar Pradesh (UP),Pilibhit,pharmaceutical,4
+Uttar Pradesh (UP),Pilibhit,automobile,1
+Uttar Pradesh (UP),Pilibhit,textile,1
+Uttar Pradesh (UP),Pilibhit,food,4
+Madhya Pradesh (MP),Gwalior,telecom,5
+Madhya Pradesh (MP),Gwalior,tourism,2
+Madhya Pradesh (MP),Gwalior,pharmaceutical,2
+Madhya Pradesh (MP),Gwalior,automobile,4
+Madhya Pradesh (MP),Gwalior,textile,3
+Madhya Pradesh (MP),Gwalior,food,3
+Bihar (BR),Banka,telecom,5
+Bihar (BR),Banka,tourism,4
+Bihar (BR),Banka,pharmaceutical,4
+Bihar (BR),Banka,automobile,4
+Bihar (BR),Banka,textile,5
+Bihar (BR),Banka,food,1
+Gujarat (GJ),Mehsana,telecom,3
+Gujarat (GJ),Mehsana,tourism,4
+Gujarat (GJ),Mehsana,pharmaceutical,2
+Gujarat (GJ),Mehsana,automobile,2
+Gujarat (GJ),Mehsana,textile,5
+Gujarat (GJ),Mehsana,food,3
+Punjab (PB),Firozpur,telecom,3
+Punjab (PB),Firozpur,tourism,3
+Punjab (PB),Firozpur,pharmaceutical,2
+Punjab (PB),Firozpur,automobile,5
+Punjab (PB),Firozpur,textile,2
+Punjab (PB),Firozpur,food,2
+Uttar Pradesh (UP),Jhansi,telecom,1
+Uttar Pradesh (UP),Jhansi,tourism,1
+Uttar Pradesh (UP),Jhansi,pharmaceutical,2
+Uttar Pradesh (UP),Jhansi,automobile,4
+Uttar Pradesh (UP),Jhansi,textile,5
+Uttar Pradesh (UP),Jhansi,food,3
+Punjab (PB),Pathankot,telecom,3
+Punjab (PB),Pathankot,tourism,1
+Punjab (PB),Pathankot,pharmaceutical,4
+Punjab (PB),Pathankot,automobile,4
+Punjab (PB),Pathankot,textile,4
+Punjab (PB),Pathankot,food,2
+Bihar (BR),Madhepura,telecom,3
+Bihar (BR),Madhepura,tourism,1
+Bihar (BR),Madhepura,pharmaceutical,2
+Bihar (BR),Madhepura,automobile,1
+Bihar (BR),Madhepura,textile,4
+Bihar (BR),Madhepura,food,3
+Madhya Pradesh (MP),Ujjain,telecom,5
+Madhya Pradesh (MP),Ujjain,tourism,4
+Madhya Pradesh (MP),Ujjain,pharmaceutical,3
+Madhya Pradesh (MP),Ujjain,automobile,2
+Madhya Pradesh (MP),Ujjain,textile,2
+Madhya Pradesh (MP),Ujjain,food,2
+Kerala (KL),Kottayam,telecom,1
+Kerala (KL),Kottayam,tourism,4
+Kerala (KL),Kottayam,pharmaceutical,2
+Kerala (KL),Kottayam,automobile,2
+Kerala (KL),Kottayam,textile,4
+Kerala (KL),Kottayam,food,3
+Rajasthan (RJ),Ganganagar,telecom,3
+Rajasthan (RJ),Ganganagar,tourism,1
+Rajasthan (RJ),Ganganagar,pharmaceutical,4
+Rajasthan (RJ),Ganganagar,automobile,5
+Rajasthan (RJ),Ganganagar,textile,3
+Rajasthan (RJ),Ganganagar,food,5
+Madhya Pradesh (MP),Morena,telecom,1
+Madhya Pradesh (MP),Morena,tourism,2
+Madhya Pradesh (MP),Morena,pharmaceutical,5
+Madhya Pradesh (MP),Morena,automobile,3
+Madhya Pradesh (MP),Morena,textile,5
+Madhya Pradesh (MP),Morena,food,1
+Maharashtra (MH),Jalna,telecom,1
+Maharashtra (MH),Jalna,tourism,4
+Maharashtra (MH),Jalna,pharmaceutical,1
+Maharashtra (MH),Jalna,automobile,5
+Maharashtra (MH),Jalna,textile,1
+Maharashtra (MH),Jalna,food,1
+Uttar Pradesh (UP),Chandauli,telecom,1
+Uttar Pradesh (UP),Chandauli,tourism,5
+Uttar Pradesh (UP),Chandauli,pharmaceutical,2
+Uttar Pradesh (UP),Chandauli,automobile,4
+Uttar Pradesh (UP),Chandauli,textile,2
+Uttar Pradesh (UP),Chandauli,food,5
+Rajasthan (RJ),Kota,telecom,5
+Rajasthan (RJ),Kota,tourism,1
+Rajasthan (RJ),Kota,pharmaceutical,5
+Rajasthan (RJ),Kota,automobile,3
+Rajasthan (RJ),Kota,textile,1
+Rajasthan (RJ),Kota,food,1
+Assam (AS),Dhubri,telecom,5
+Assam (AS),Dhubri,tourism,4
+Assam (AS),Dhubri,pharmaceutical,5
+Assam (AS),Dhubri,automobile,1
+Assam (AS),Dhubri,textile,5
+Assam (AS),Dhubri,food,2
+Karnataka (KA),Davanagere,telecom,3
+Karnataka (KA),Davanagere,tourism,1
+Karnataka (KA),Davanagere,pharmaceutical,2
+Karnataka (KA),Davanagere,automobile,2
+Karnataka (KA),Davanagere,textile,4
+Karnataka (KA),Davanagere,food,2
+Tamil Nadu (TN),Virudhunagar,telecom,3
+Tamil Nadu (TN),Virudhunagar,tourism,3
+Tamil Nadu (TN),Virudhunagar,pharmaceutical,5
+Tamil Nadu (TN),Virudhunagar,automobile,4
+Tamil Nadu (TN),Virudhunagar,textile,4
+Tamil Nadu (TN),Virudhunagar,food,4
+Jharkhand (JH),Palamu,telecom,3
+Jharkhand (JH),Palamu,tourism,3
+Jharkhand (JH),Palamu,pharmaceutical,4
+Jharkhand (JH),Palamu,automobile,2
+Jharkhand (JH),Palamu,textile,1
+Jharkhand (JH),Palamu,food,4
+Uttarakhand (UK),Haridwar,telecom,5
+Uttarakhand (UK),Haridwar,tourism,2
+Uttarakhand (UK),Haridwar,pharmaceutical,2
+Uttarakhand (UK),Haridwar,automobile,5
+Uttarakhand (UK),Haridwar,textile,3
+Uttarakhand (UK),Haridwar,food,2
+Assam (AS),Sonitpur,telecom,5
+Assam (AS),Sonitpur,tourism,2
+Assam (AS),Sonitpur,pharmaceutical,4
+Assam (AS),Sonitpur,automobile,2
+Assam (AS),Sonitpur,textile,2
+Assam (AS),Sonitpur,food,4
+Karnataka (KA),Raichur,telecom,3
+Karnataka (KA),Raichur,tourism,5
+Karnataka (KA),Raichur,pharmaceutical,4
+Karnataka (KA),Raichur,automobile,5
+Karnataka (KA),Raichur,textile,4
+Karnataka (KA),Raichur,food,3
+Tamil Nadu (TN),Pudukkottai,telecom,1
+Tamil Nadu (TN),Pudukkottai,tourism,4
+Tamil Nadu (TN),Pudukkottai,pharmaceutical,5
+Tamil Nadu (TN),Pudukkottai,automobile,1
+Tamil Nadu (TN),Pudukkottai,textile,1
+Tamil Nadu (TN),Pudukkottai,food,4
+Bihar (BR),Saharsa,telecom,3
+Bihar (BR),Saharsa,tourism,4
+Bihar (BR),Saharsa,pharmaceutical,3
+Bihar (BR),Saharsa,automobile,3
+Bihar (BR),Saharsa,textile,3
+Bihar (BR),Saharsa,food,2
+Karnataka (KA),Bagalkot,telecom,1
+Karnataka (KA),Bagalkot,tourism,3
+Karnataka (KA),Bagalkot,pharmaceutical,1
+Karnataka (KA),Bagalkot,automobile,4
+Karnataka (KA),Bagalkot,textile,4
+Karnataka (KA),Bagalkot,food,3
+Uttar Pradesh (UP),Farrukhabad,telecom,2
+Uttar Pradesh (UP),Farrukhabad,tourism,3
+Uttar Pradesh (UP),Farrukhabad,pharmaceutical,5
+Uttar Pradesh (UP),Farrukhabad,automobile,1
+Uttar Pradesh (UP),Farrukhabad,textile,2
+Uttar Pradesh (UP),Farrukhabad,food,5
+Tamil Nadu (TN),Krishnagiri,telecom,1
+Tamil Nadu (TN),Krishnagiri,tourism,1
+Tamil Nadu (TN),Krishnagiri,pharmaceutical,5
+Tamil Nadu (TN),Krishnagiri,automobile,5
+Tamil Nadu (TN),Krishnagiri,textile,1
+Tamil Nadu (TN),Krishnagiri,food,3
+Madhya Pradesh (MP),Khargone (West Nimar),telecom,4
+Madhya Pradesh (MP),Khargone (West Nimar),tourism,2
+Madhya Pradesh (MP),Khargone (West Nimar),pharmaceutical,4
+Madhya Pradesh (MP),Khargone (West Nimar),automobile,5
+Madhya Pradesh (MP),Khargone (West Nimar),textile,5
+Madhya Pradesh (MP),Khargone (West Nimar),food,4
+Uttar Pradesh (UP),Sonbhadra,telecom,3
+Uttar Pradesh (UP),Sonbhadra,tourism,3
+Uttar Pradesh (UP),Sonbhadra,pharmaceutical,5
+Uttar Pradesh (UP),Sonbhadra,automobile,1
+Uttar Pradesh (UP),Sonbhadra,textile,1
+Uttar Pradesh (UP),Sonbhadra,food,1
+Uttar Pradesh (UP),Mainpuri,telecom,2
+Uttar Pradesh (UP),Mainpuri,tourism,3
+Uttar Pradesh (UP),Mainpuri,pharmaceutical,1
+Uttar Pradesh (UP),Mainpuri,automobile,2
+Uttar Pradesh (UP),Mainpuri,textile,2
+Uttar Pradesh (UP),Mainpuri,food,1
+Karnataka (KA),Dharwad,telecom,5
+Karnataka (KA),Dharwad,tourism,5
+Karnataka (KA),Dharwad,pharmaceutical,1
+Karnataka (KA),Dharwad,automobile,3
+Karnataka (KA),Dharwad,textile,4
+Karnataka (KA),Dharwad,food,1
+West Bengal (WB),Darjeeling,telecom,5
+West Bengal (WB),Darjeeling,tourism,5
+West Bengal (WB),Darjeeling,pharmaceutical,4
+West Bengal (WB),Darjeeling,automobile,1
+West Bengal (WB),Darjeeling,textile,3
+West Bengal (WB),Darjeeling,food,1
+Uttar Pradesh (UP),Jyotiba Phule Nagar,telecom,3
+Uttar Pradesh (UP),Jyotiba Phule Nagar,tourism,3
+Uttar Pradesh (UP),Jyotiba Phule Nagar,pharmaceutical,5
+Uttar Pradesh (UP),Jyotiba Phule Nagar,automobile,3
+Uttar Pradesh (UP),Jyotiba Phule Nagar,textile,3
+Uttar Pradesh (UP),Jyotiba Phule Nagar,food,5
+Maharashtra (MH),Parbhani,telecom,1
+Maharashtra (MH),Parbhani,tourism,3
+Maharashtra (MH),Parbhani,pharmaceutical,5
+Maharashtra (MH),Parbhani,automobile,4
+Maharashtra (MH),Parbhani,textile,1
+Maharashtra (MH),Parbhani,food,5
+Rajasthan (RJ),Jalore,telecom,1
+Rajasthan (RJ),Jalore,tourism,2
+Rajasthan (RJ),Jalore,pharmaceutical,3
+Rajasthan (RJ),Jalore,automobile,5
+Rajasthan (RJ),Jalore,textile,1
+Rajasthan (RJ),Jalore,food,5
+Odisha (OD),Jajpur,telecom,3
+Odisha (OD),Jajpur,tourism,2
+Odisha (OD),Jajpur,pharmaceutical,4
+Odisha (OD),Jajpur,automobile,2
+Odisha (OD),Jajpur,textile,4
+Odisha (OD),Jajpur,food,5
+Maharashtra (MH),Akola,telecom,3
+Maharashtra (MH),Akola,tourism,5
+Maharashtra (MH),Akola,pharmaceutical,4
+Maharashtra (MH),Akola,automobile,2
+Maharashtra (MH),Akola,textile,5
+Maharashtra (MH),Akola,food,5
+Karnataka (KA),Mandya,telecom,5
+Karnataka (KA),Mandya,tourism,1
+Karnataka (KA),Mandya,pharmaceutical,1
+Karnataka (KA),Mandya,automobile,2
+Karnataka (KA),Mandya,textile,4
+Karnataka (KA),Mandya,food,3
+Odisha (OD),Kendujhar (Keonjhar),telecom,2
+Odisha (OD),Kendujhar (Keonjhar),tourism,4
+Odisha (OD),Kendujhar (Keonjhar),pharmaceutical,1
+Odisha (OD),Kendujhar (Keonjhar),automobile,4
+Odisha (OD),Kendujhar (Keonjhar),textile,5
+Odisha (OD),Kendujhar (Keonjhar),food,4
+Uttar Pradesh (UP),Banda,telecom,1
+Uttar Pradesh (UP),Banda,tourism,1
+Uttar Pradesh (UP),Banda,pharmaceutical,1
+Uttar Pradesh (UP),Banda,automobile,1
+Uttar Pradesh (UP),Banda,textile,3
+Uttar Pradesh (UP),Banda,food,2
+Haryana (HR),Faridabad,telecom,2
+Haryana (HR),Faridabad,tourism,4
+Haryana (HR),Faridabad,pharmaceutical,3
+Haryana (HR),Faridabad,automobile,5
+Haryana (HR),Faridabad,textile,5
+Haryana (HR),Faridabad,food,2
+Rajasthan (RJ),Banswara,telecom,2
+Rajasthan (RJ),Banswara,tourism,4
+Rajasthan (RJ),Banswara,pharmaceutical,4
+Rajasthan (RJ),Banswara,automobile,2
+Rajasthan (RJ),Banswara,textile,4
+Rajasthan (RJ),Banswara,food,1
+Uttar Pradesh (UP),Kanpur Dehat (Ramabai Nagar),telecom,2
+Uttar Pradesh (UP),Kanpur Dehat (Ramabai Nagar),tourism,5
+Uttar Pradesh (UP),Kanpur Dehat (Ramabai Nagar),pharmaceutical,3
+Uttar Pradesh (UP),Kanpur Dehat (Ramabai Nagar),automobile,3
+Uttar Pradesh (UP),Kanpur Dehat (Ramabai Nagar),textile,3
+Uttar Pradesh (UP),Kanpur Dehat (Ramabai Nagar),food,4
+Rajasthan (RJ),Hanumangarh,telecom,1
+Rajasthan (RJ),Hanumangarh,tourism,3
+Rajasthan (RJ),Hanumangarh,pharmaceutical,3
+Rajasthan (RJ),Hanumangarh,automobile,4
+Rajasthan (RJ),Hanumangarh,textile,1
+Rajasthan (RJ),Hanumangarh,food,5
+Karnataka (KA),Hassan,telecom,4
+Karnataka (KA),Hassan,tourism,1
+Karnataka (KA),Hassan,pharmaceutical,4
+Karnataka (KA),Hassan,automobile,3
+Karnataka (KA),Hassan,textile,4
+Karnataka (KA),Hassan,food,1
+Madhya Pradesh (MP),Chhatarpur,telecom,1
+Madhya Pradesh (MP),Chhatarpur,tourism,4
+Madhya Pradesh (MP),Chhatarpur,pharmaceutical,3
+Madhya Pradesh (MP),Chhatarpur,automobile,2
+Madhya Pradesh (MP),Chhatarpur,textile,1
+Madhya Pradesh (MP),Chhatarpur,food,4
+Uttar Pradesh (UP),Etah,telecom,1
+Uttar Pradesh (UP),Etah,tourism,3
+Uttar Pradesh (UP),Etah,pharmaceutical,4
+Uttar Pradesh (UP),Etah,automobile,1
+Uttar Pradesh (UP),Etah,textile,5
+Uttar Pradesh (UP),Etah,food,3
+Bihar (BR),Jamui,telecom,2
+Bihar (BR),Jamui,tourism,5
+Bihar (BR),Jamui,pharmaceutical,1
+Bihar (BR),Jamui,automobile,2
+Bihar (BR),Jamui,textile,5
+Bihar (BR),Jamui,food,4
+Gujarat (GJ),Surendranagar,telecom,4
+Gujarat (GJ),Surendranagar,tourism,4
+Gujarat (GJ),Surendranagar,pharmaceutical,3
+Gujarat (GJ),Surendranagar,automobile,3
+Gujarat (GJ),Surendranagar,textile,4
+Gujarat (GJ),Surendranagar,food,5
+Karnataka (KA),Shimoga,telecom,2
+Karnataka (KA),Shimoga,tourism,3
+Karnataka (KA),Shimoga,pharmaceutical,5
+Karnataka (KA),Shimoga,automobile,1
+Karnataka (KA),Shimoga,textile,5
+Karnataka (KA),Shimoga,food,3
+Haryana (HR),Hissar,telecom,4
+Haryana (HR),Hissar,tourism,4
+Haryana (HR),Hissar,pharmaceutical,2
+Haryana (HR),Hissar,automobile,2
+Haryana (HR),Hissar,textile,5
+Haryana (HR),Hissar,food,5
+Tamil Nadu (TN),Thoothukudi,telecom,4
+Tamil Nadu (TN),Thoothukudi,tourism,2
+Tamil Nadu (TN),Thoothukudi,pharmaceutical,5
+Tamil Nadu (TN),Thoothukudi,automobile,2
+Tamil Nadu (TN),Thoothukudi,textile,2
+Tamil Nadu (TN),Thoothukudi,food,1
+Assam (AS),Cachar,telecom,1
+Assam (AS),Cachar,tourism,4
+Assam (AS),Cachar,pharmaceutical,4
+Assam (AS),Cachar,automobile,3
+Assam (AS),Cachar,textile,3
+Assam (AS),Cachar,food,1
+Jharkhand (JH),Hazaribag,telecom,4
+Jharkhand (JH),Hazaribag,tourism,2
+Jharkhand (JH),Hazaribag,pharmaceutical,2
+Jharkhand (JH),Hazaribag,automobile,3
+Jharkhand (JH),Hazaribag,textile,3
+Jharkhand (JH),Hazaribag,food,2
+Madhya Pradesh (MP),Shivpuri,telecom,4
+Madhya Pradesh (MP),Shivpuri,tourism,2
+Madhya Pradesh (MP),Shivpuri,pharmaceutical,1
+Madhya Pradesh (MP),Shivpuri,automobile,3
+Madhya Pradesh (MP),Shivpuri,textile,3
+Madhya Pradesh (MP),Shivpuri,food,3
+Tamil Nadu (TN),Namakkal,telecom,2
+Tamil Nadu (TN),Namakkal,tourism,3
+Tamil Nadu (TN),Namakkal,pharmaceutical,3
+Tamil Nadu (TN),Namakkal,automobile,4
+Tamil Nadu (TN),Namakkal,textile,1
+Tamil Nadu (TN),Namakkal,food,5
+Uttar Pradesh (UP),Sant Kabir Nagar,telecom,2
+Uttar Pradesh (UP),Sant Kabir Nagar,tourism,1
+Uttar Pradesh (UP),Sant Kabir Nagar,pharmaceutical,2
+Uttar Pradesh (UP),Sant Kabir Nagar,automobile,4
+Uttar Pradesh (UP),Sant Kabir Nagar,textile,4
+Uttar Pradesh (UP),Sant Kabir Nagar,food,1
+Delhi (DL),East Delhi,telecom,4
+Delhi (DL),East Delhi,tourism,2
+Delhi (DL),East Delhi,pharmaceutical,3
+Delhi (DL),East Delhi,automobile,1
+Delhi (DL),East Delhi,textile,4
+Delhi (DL),East Delhi,food,4
+Bihar (BR),Buxar,telecom,5
+Bihar (BR),Buxar,tourism,1
+Bihar (BR),Buxar,pharmaceutical,4
+Bihar (BR),Buxar,automobile,4
+Bihar (BR),Buxar,textile,4
+Bihar (BR),Buxar,food,3
+Madhya Pradesh (MP),Bhind,telecom,4
+Madhya Pradesh (MP),Bhind,tourism,5
+Madhya Pradesh (MP),Bhind,pharmaceutical,3
+Madhya Pradesh (MP),Bhind,automobile,3
+Madhya Pradesh (MP),Bhind,textile,4
+Madhya Pradesh (MP),Bhind,food,4
+Gujarat (GJ),Valsad,telecom,4
+Gujarat (GJ),Valsad,tourism,5
+Gujarat (GJ),Valsad,pharmaceutical,2
+Gujarat (GJ),Valsad,automobile,4
+Gujarat (GJ),Valsad,textile,2
+Gujarat (GJ),Valsad,food,2
+Madhya Pradesh (MP),Balaghat,telecom,5
+Madhya Pradesh (MP),Balaghat,tourism,5
+Madhya Pradesh (MP),Balaghat,pharmaceutical,3
+Madhya Pradesh (MP),Balaghat,automobile,4
+Madhya Pradesh (MP),Balaghat,textile,3
+Madhya Pradesh (MP),Balaghat,food,5
+Karnataka (KA),Bidar,telecom,3
+Karnataka (KA),Bidar,tourism,3
+Karnataka (KA),Bidar,pharmaceutical,4
+Karnataka (KA),Bidar,automobile,3
+Karnataka (KA),Bidar,textile,2
+Karnataka (KA),Bidar,food,4
+West Bengal (WB),Alipurduar,telecom,3
+West Bengal (WB),Alipurduar,tourism,5
+West Bengal (WB),Alipurduar,pharmaceutical,4
+West Bengal (WB),Alipurduar,automobile,2
+West Bengal (WB),Alipurduar,textile,4
+West Bengal (WB),Alipurduar,food,4
+Uttarakhand (UK),Dehradun,telecom,4
+Uttarakhand (UK),Dehradun,tourism,5
+Uttarakhand (UK),Dehradun,pharmaceutical,2
+Uttarakhand (UK),Dehradun,automobile,1
+Uttarakhand (UK),Dehradun,textile,4
+Uttarakhand (UK),Dehradun,food,5
+Odisha (OD),Puri,telecom,3
+Odisha (OD),Puri,tourism,1
+Odisha (OD),Puri,pharmaceutical,3
+Odisha (OD),Puri,automobile,1
+Odisha (OD),Puri,textile,1
+Odisha (OD),Puri,food,4
+Assam (AS),Barpeta,telecom,3
+Assam (AS),Barpeta,tourism,3
+Assam (AS),Barpeta,pharmaceutical,1
+Assam (AS),Barpeta,automobile,1
+Assam (AS),Barpeta,textile,5
+Assam (AS),Barpeta,food,3
+Bihar (BR),Kishanganj,telecom,2
+Bihar (BR),Kishanganj,tourism,1
+Bihar (BR),Kishanganj,pharmaceutical,5
+Bihar (BR),Kishanganj,automobile,5
+Bihar (BR),Kishanganj,textile,1
+Bihar (BR),Kishanganj,food,3
+Uttar Pradesh (UP),Gautam Buddh Nagar,telecom,1
+Uttar Pradesh (UP),Gautam Buddh Nagar,tourism,5
+Uttar Pradesh (UP),Gautam Buddh Nagar,pharmaceutical,5
+Uttar Pradesh (UP),Gautam Buddh Nagar,automobile,2
+Uttar Pradesh (UP),Gautam Buddh Nagar,textile,1
+Uttar Pradesh (UP),Gautam Buddh Nagar,food,5
+West Bengal (WB),Dakshin Dinajpur,telecom,4
+West Bengal (WB),Dakshin Dinajpur,tourism,2
+West Bengal (WB),Dakshin Dinajpur,pharmaceutical,5
+West Bengal (WB),Dakshin Dinajpur,automobile,4
+West Bengal (WB),Dakshin Dinajpur,textile,4
+West Bengal (WB),Dakshin Dinajpur,food,1
+Uttar Pradesh (UP),Jalaun,telecom,1
+Uttar Pradesh (UP),Jalaun,tourism,5
+Uttar Pradesh (UP),Jalaun,pharmaceutical,3
+Uttar Pradesh (UP),Jalaun,automobile,5
+Uttar Pradesh (UP),Jalaun,textile,4
+Uttar Pradesh (UP),Jalaun,food,5
+Karnataka (KA),Chitradurga,telecom,4
+Karnataka (KA),Chitradurga,tourism,4
+Karnataka (KA),Chitradurga,pharmaceutical,5
+Karnataka (KA),Chitradurga,automobile,3
+Karnataka (KA),Chitradurga,textile,1
+Karnataka (KA),Chitradurga,food,5
+Maharashtra (MH),Osmanabad,telecom,5
+Maharashtra (MH),Osmanabad,tourism,1
+Maharashtra (MH),Osmanabad,pharmaceutical,5
+Maharashtra (MH),Osmanabad,automobile,3
+Maharashtra (MH),Osmanabad,textile,2
+Maharashtra (MH),Osmanabad,food,4
+Uttar Pradesh (UP),Kannauj,telecom,4
+Uttar Pradesh (UP),Kannauj,tourism,2
+Uttar Pradesh (UP),Kannauj,pharmaceutical,5
+Uttar Pradesh (UP),Kannauj,automobile,2
+Uttar Pradesh (UP),Kannauj,textile,4
+Uttar Pradesh (UP),Kannauj,food,3
+Bihar (BR),Khagaria,telecom,3
+Bihar (BR),Khagaria,tourism,2
+Bihar (BR),Khagaria,pharmaceutical,3
+Bihar (BR),Khagaria,automobile,5
+Bihar (BR),Khagaria,textile,4
+Bihar (BR),Khagaria,food,4
+Punjab (PB),Sangrur,telecom,5
+Punjab (PB),Sangrur,tourism,3
+Punjab (PB),Sangrur,pharmaceutical,5
+Punjab (PB),Sangrur,automobile,5
+Punjab (PB),Sangrur,textile,2
+Punjab (PB),Sangrur,food,5
+Odisha (OD),Balangir,telecom,4
+Odisha (OD),Balangir,tourism,4
+Odisha (OD),Balangir,pharmaceutical,2
+Odisha (OD),Balangir,automobile,3
+Odisha (OD),Balangir,textile,2
+Odisha (OD),Balangir,food,3
+Uttarakhand (UK),Udham Singh Nagar,telecom,1
+Uttarakhand (UK),Udham Singh Nagar,tourism,1
+Uttarakhand (UK),Udham Singh Nagar,pharmaceutical,4
+Uttarakhand (UK),Udham Singh Nagar,automobile,1
+Uttarakhand (UK),Udham Singh Nagar,textile,5
+Uttarakhand (UK),Udham Singh Nagar,food,5
+Maharashtra (MH),Nandurbar,telecom,2
+Maharashtra (MH),Nandurbar,tourism,2
+Maharashtra (MH),Nandurbar,pharmaceutical,2
+Maharashtra (MH),Nandurbar,automobile,2
+Maharashtra (MH),Nandurbar,textile,4
+Maharashtra (MH),Nandurbar,food,2
+Rajasthan (RJ),Dausa,telecom,3
+Rajasthan (RJ),Dausa,tourism,1
+Rajasthan (RJ),Dausa,pharmaceutical,3
+Rajasthan (RJ),Dausa,automobile,2
+Rajasthan (RJ),Dausa,textile,4
+Rajasthan (RJ),Dausa,food,1
+Haryana (HR),Bhiwani,telecom,4
+Haryana (HR),Bhiwani,tourism,1
+Haryana (HR),Bhiwani,pharmaceutical,3
+Haryana (HR),Bhiwani,automobile,2
+Haryana (HR),Bhiwani,textile,3
+Haryana (HR),Bhiwani,food,4
+Bihar (BR),Kaimur,telecom,4
+Bihar (BR),Kaimur,tourism,1
+Bihar (BR),Kaimur,pharmaceutical,1
+Bihar (BR),Kaimur,automobile,1
+Bihar (BR),Kaimur,textile,4
+Bihar (BR),Kaimur,food,1
+Chhattisgarh (CG),Janjgir-Champa,telecom,3
+Chhattisgarh (CG),Janjgir-Champa,tourism,3
+Chhattisgarh (CG),Janjgir-Champa,pharmaceutical,2
+Chhattisgarh (CG),Janjgir-Champa,automobile,2
+Chhattisgarh (CG),Janjgir-Champa,textile,2
+Chhattisgarh (CG),Janjgir-Champa,food,4
+Tamil Nadu (TN),Nagapattinam,telecom,3
+Tamil Nadu (TN),Nagapattinam,tourism,5
+Tamil Nadu (TN),Nagapattinam,pharmaceutical,2
+Tamil Nadu (TN),Nagapattinam,automobile,5
+Tamil Nadu (TN),Nagapattinam,textile,2
+Tamil Nadu (TN),Nagapattinam,food,2
+Maharashtra (MH),Ratnagiri,telecom,5
+Maharashtra (MH),Ratnagiri,tourism,2
+Maharashtra (MH),Ratnagiri,pharmaceutical,1
+Maharashtra (MH),Ratnagiri,automobile,2
+Maharashtra (MH),Ratnagiri,textile,5
+Maharashtra (MH),Ratnagiri,food,5
+Karnataka (KA),Haveri district,telecom,5
+Karnataka (KA),Haveri district,tourism,4
+Karnataka (KA),Haveri district,pharmaceutical,5
+Karnataka (KA),Haveri district,automobile,4
+Karnataka (KA),Haveri district,textile,1
+Karnataka (KA),Haveri district,food,3
+Uttar Pradesh (UP),Kaushambi,telecom,5
+Uttar Pradesh (UP),Kaushambi,tourism,5
+Uttar Pradesh (UP),Kaushambi,pharmaceutical,5
+Uttar Pradesh (UP),Kaushambi,automobile,2
+Uttar Pradesh (UP),Kaushambi,textile,3
+Uttar Pradesh (UP),Kaushambi,food,4
+Punjab (PB),Hoshiarpur,telecom,5
+Punjab (PB),Hoshiarpur,tourism,3
+Punjab (PB),Hoshiarpur,pharmaceutical,2
+Punjab (PB),Hoshiarpur,automobile,1
+Punjab (PB),Hoshiarpur,textile,1
+Punjab (PB),Hoshiarpur,food,5
+Uttar Pradesh (UP),Etawah,telecom,5
+Uttar Pradesh (UP),Etawah,tourism,4
+Uttar Pradesh (UP),Etawah,pharmaceutical,2
+Uttar Pradesh (UP),Etawah,automobile,2
+Uttar Pradesh (UP),Etawah,textile,1
+Uttar Pradesh (UP),Etawah,food,1
+Madhya Pradesh (MP),Betul,telecom,2
+Madhya Pradesh (MP),Betul,tourism,2
+Madhya Pradesh (MP),Betul,pharmaceutical,5
+Madhya Pradesh (MP),Betul,automobile,2
+Madhya Pradesh (MP),Betul,textile,3
+Madhya Pradesh (MP),Betul,food,5
+Odisha (OD),Kalahandi,telecom,2
+Odisha (OD),Kalahandi,tourism,4
+Odisha (OD),Kalahandi,pharmaceutical,2
+Odisha (OD),Kalahandi,automobile,3
+Odisha (OD),Kalahandi,textile,3
+Odisha (OD),Kalahandi,food,4
+Uttar Pradesh (UP),Hathras (Mahamaya Nagar),telecom,5
+Uttar Pradesh (UP),Hathras (Mahamaya Nagar),tourism,3
+Uttar Pradesh (UP),Hathras (Mahamaya Nagar),pharmaceutical,2
+Uttar Pradesh (UP),Hathras (Mahamaya Nagar),automobile,1
+Uttar Pradesh (UP),Hathras (Mahamaya Nagar),textile,5
+Uttar Pradesh (UP),Hathras (Mahamaya Nagar),food,3
+Madhya Pradesh (MP),Dewas,telecom,5
+Madhya Pradesh (MP),Dewas,tourism,3
+Madhya Pradesh (MP),Dewas,pharmaceutical,1
+Madhya Pradesh (MP),Dewas,automobile,1
+Madhya Pradesh (MP),Dewas,textile,3
+Madhya Pradesh (MP),Dewas,food,5
+Uttar Pradesh (UP),Sant Ravidas Nagar,telecom,1
+Uttar Pradesh (UP),Sant Ravidas Nagar,tourism,5
+Uttar Pradesh (UP),Sant Ravidas Nagar,pharmaceutical,3
+Uttar Pradesh (UP),Sant Ravidas Nagar,automobile,1
+Uttar Pradesh (UP),Sant Ravidas Nagar,textile,3
+Uttar Pradesh (UP),Sant Ravidas Nagar,food,4
+Gujarat (GJ),Bharuch,telecom,5
+Gujarat (GJ),Bharuch,tourism,3
+Gujarat (GJ),Bharuch,pharmaceutical,3
+Gujarat (GJ),Bharuch,automobile,5
+Gujarat (GJ),Bharuch,textile,4
+Gujarat (GJ),Bharuch,food,4
+Madhya Pradesh (MP),Rajgarh,telecom,5
+Madhya Pradesh (MP),Rajgarh,tourism,3
+Madhya Pradesh (MP),Rajgarh,pharmaceutical,1
+Madhya Pradesh (MP),Rajgarh,automobile,4
+Madhya Pradesh (MP),Rajgarh,textile,4
+Madhya Pradesh (MP),Rajgarh,food,5
+Rajasthan (RJ),Chittorgarh,telecom,2
+Rajasthan (RJ),Chittorgarh,tourism,2
+Rajasthan (RJ),Chittorgarh,pharmaceutical,2
+Rajasthan (RJ),Chittorgarh,automobile,1
+Rajasthan (RJ),Chittorgarh,textile,4
+Rajasthan (RJ),Chittorgarh,food,4
+Karnataka (KA),Kolar,telecom,5
+Karnataka (KA),Kolar,tourism,5
+Karnataka (KA),Kolar,pharmaceutical,3
+Karnataka (KA),Kolar,automobile,4
+Karnataka (KA),Kolar,textile,5
+Karnataka (KA),Kolar,food,4
+Chhattisgarh (CG),Rajnandgaon,telecom,3
+Chhattisgarh (CG),Rajnandgaon,tourism,4
+Chhattisgarh (CG),Rajnandgaon,pharmaceutical,4
+Chhattisgarh (CG),Rajnandgaon,automobile,1
+Chhattisgarh (CG),Rajnandgaon,textile,5
+Chhattisgarh (CG),Rajnandgaon,food,3
+Jammu and Kashmir (JK),Jammu,telecom,4
+Jammu and Kashmir (JK),Jammu,tourism,1
+Jammu and Kashmir (JK),Jammu,pharmaceutical,5
+Jammu and Kashmir (JK),Jammu,automobile,4
+Jammu and Kashmir (JK),Jammu,textile,5
+Jammu and Kashmir (JK),Jammu,food,1
+Assam (AS),Kamrup,telecom,3
+Assam (AS),Kamrup,tourism,4
+Assam (AS),Kamrup,pharmaceutical,1
+Assam (AS),Kamrup,automobile,1
+Assam (AS),Kamrup,textile,2
+Assam (AS),Kamrup,food,3
+Haryana (HR),Gurgaon,telecom,4
+Haryana (HR),Gurgaon,tourism,3
+Haryana (HR),Gurgaon,pharmaceutical,5
+Haryana (HR),Gurgaon,automobile,4
+Haryana (HR),Gurgaon,textile,2
+Haryana (HR),Gurgaon,food,5
+Gujarat (GJ),Amreli district,telecom,4
+Gujarat (GJ),Amreli district,tourism,4
+Gujarat (GJ),Amreli district,pharmaceutical,4
+Gujarat (GJ),Amreli district,automobile,2
+Gujarat (GJ),Amreli district,textile,2
+Gujarat (GJ),Amreli district,food,3
+Madhya Pradesh (MP),Shajapur,telecom,2
+Madhya Pradesh (MP),Shajapur,tourism,1
+Madhya Pradesh (MP),Shajapur,pharmaceutical,3
+Madhya Pradesh (MP),Shajapur,automobile,2
+Madhya Pradesh (MP),Shajapur,textile,1
+Madhya Pradesh (MP),Shajapur,food,3
+Himachal Pradesh (HP),Kangra,telecom,3
+Himachal Pradesh (HP),Kangra,tourism,2
+Himachal Pradesh (HP),Kangra,pharmaceutical,2
+Himachal Pradesh (HP),Kangra,automobile,4
+Himachal Pradesh (HP),Kangra,textile,3
+Himachal Pradesh (HP),Kangra,food,3
+Odisha (OD),Bhadrak,telecom,3
+Odisha (OD),Bhadrak,tourism,1
+Odisha (OD),Bhadrak,pharmaceutical,5
+Odisha (OD),Bhadrak,automobile,3
+Odisha (OD),Bhadrak,textile,1
+Odisha (OD),Bhadrak,food,1
+Haryana (HR),Karnal,telecom,1
+Haryana (HR),Karnal,tourism,5
+Haryana (HR),Karnal,pharmaceutical,3
+Haryana (HR),Karnal,automobile,5
+Haryana (HR),Karnal,textile,3
+Haryana (HR),Karnal,food,4
+Tamil Nadu (TN),Dharmapuri,telecom,2
+Tamil Nadu (TN),Dharmapuri,tourism,2
+Tamil Nadu (TN),Dharmapuri,pharmaceutical,3
+Tamil Nadu (TN),Dharmapuri,automobile,5
+Tamil Nadu (TN),Dharmapuri,textile,1
+Tamil Nadu (TN),Dharmapuri,food,3
+Jharkhand (JH),West Singhbhum,telecom,2
+Jharkhand (JH),West Singhbhum,tourism,1
+Jharkhand (JH),West Singhbhum,pharmaceutical,4
+Jharkhand (JH),West Singhbhum,automobile,1
+Jharkhand (JH),West Singhbhum,textile,2
+Jharkhand (JH),West Singhbhum,food,1
+Chhattisgarh (CG),Raigarh,telecom,2
+Chhattisgarh (CG),Raigarh,tourism,5
+Chhattisgarh (CG),Raigarh,pharmaceutical,1
+Chhattisgarh (CG),Raigarh,automobile,2
+Chhattisgarh (CG),Raigarh,textile,1
+Chhattisgarh (CG),Raigarh,food,2
+Jharkhand (JH),Deoghar,telecom,5
+Jharkhand (JH),Deoghar,tourism,1
+Jharkhand (JH),Deoghar,pharmaceutical,3
+Jharkhand (JH),Deoghar,automobile,3
+Jharkhand (JH),Deoghar,textile,5
+Jharkhand (JH),Deoghar,food,1
+Haryana (HR),Sonipat,telecom,4
+Haryana (HR),Sonipat,tourism,4
+Haryana (HR),Sonipat,pharmaceutical,3
+Haryana (HR),Sonipat,automobile,2
+Haryana (HR),Sonipat,textile,4
+Haryana (HR),Sonipat,food,3
+Odisha (OD),Bargarh (Baragarh),telecom,5
+Odisha (OD),Bargarh (Baragarh),tourism,1
+Odisha (OD),Bargarh (Baragarh),pharmaceutical,5
+Odisha (OD),Bargarh (Baragarh),automobile,5
+Odisha (OD),Bargarh (Baragarh),textile,5
+Odisha (OD),Bargarh (Baragarh),food,5
+Rajasthan (RJ),Karauli,telecom,3
+Rajasthan (RJ),Karauli,tourism,3
+Rajasthan (RJ),Karauli,pharmaceutical,3
+Rajasthan (RJ),Karauli,automobile,4
+Rajasthan (RJ),Karauli,textile,5
+Rajasthan (RJ),Karauli,food,2
+Madhya Pradesh (MP),Vidisha,telecom,1
+Madhya Pradesh (MP),Vidisha,tourism,3
+Madhya Pradesh (MP),Vidisha,pharmaceutical,2
+Madhya Pradesh (MP),Vidisha,automobile,3
+Madhya Pradesh (MP),Vidisha,textile,4
+Madhya Pradesh (MP),Vidisha,food,2
+Madhya Pradesh (MP),Ratlam,telecom,4
+Madhya Pradesh (MP),Ratlam,tourism,3
+Madhya Pradesh (MP),Ratlam,pharmaceutical,1
+Madhya Pradesh (MP),Ratlam,automobile,1
+Madhya Pradesh (MP),Ratlam,textile,1
+Madhya Pradesh (MP),Ratlam,food,5
+Uttar Pradesh (UP),Hapur (Panchsheel Nagar),telecom,3
+Uttar Pradesh (UP),Hapur (Panchsheel Nagar),tourism,4
+Uttar Pradesh (UP),Hapur (Panchsheel Nagar),pharmaceutical,1
+Uttar Pradesh (UP),Hapur (Panchsheel Nagar),automobile,3
+Uttar Pradesh (UP),Hapur (Panchsheel Nagar),textile,3
+Uttar Pradesh (UP),Hapur (Panchsheel Nagar),food,3
+Madhya Pradesh (MP),Tikamgarh,telecom,2
+Madhya Pradesh (MP),Tikamgarh,tourism,4
+Madhya Pradesh (MP),Tikamgarh,pharmaceutical,5
+Madhya Pradesh (MP),Tikamgarh,automobile,1
+Madhya Pradesh (MP),Tikamgarh,textile,4
+Madhya Pradesh (MP),Tikamgarh,food,3
+Odisha (OD),Kendrapara,telecom,2
+Odisha (OD),Kendrapara,tourism,2
+Odisha (OD),Kendrapara,pharmaceutical,1
+Odisha (OD),Kendrapara,automobile,1
+Odisha (OD),Kendrapara,textile,3
+Odisha (OD),Kendrapara,food,1
+Uttar Pradesh (UP),Kanshi Ram Nagar,telecom,1
+Uttar Pradesh (UP),Kanshi Ram Nagar,tourism,3
+Uttar Pradesh (UP),Kanshi Ram Nagar,pharmaceutical,5
+Uttar Pradesh (UP),Kanshi Ram Nagar,automobile,4
+Uttar Pradesh (UP),Kanshi Ram Nagar,textile,5
+Uttar Pradesh (UP),Kanshi Ram Nagar,food,1
+Rajasthan (RJ),Tonk,telecom,5
+Rajasthan (RJ),Tonk,tourism,3
+Rajasthan (RJ),Tonk,pharmaceutical,2
+Rajasthan (RJ),Tonk,automobile,4
+Rajasthan (RJ),Tonk,textile,2
+Rajasthan (RJ),Tonk,food,4
+Chhattisgarh (CG),Bastar,telecom,5
+Chhattisgarh (CG),Bastar,tourism,2
+Chhattisgarh (CG),Bastar,pharmaceutical,1
+Chhattisgarh (CG),Bastar,automobile,5
+Chhattisgarh (CG),Bastar,textile,5
+Chhattisgarh (CG),Bastar,food,4
+Rajasthan (RJ),Jhalawar,telecom,2
+Rajasthan (RJ),Jhalawar,tourism,1
+Rajasthan (RJ),Jhalawar,pharmaceutical,2
+Rajasthan (RJ),Jhalawar,automobile,4
+Rajasthan (RJ),Jhalawar,textile,5
+Rajasthan (RJ),Jhalawar,food,5
+Karnataka (KA),Koppal,telecom,4
+Karnataka (KA),Koppal,tourism,1
+Karnataka (KA),Koppal,pharmaceutical,1
+Karnataka (KA),Koppal,automobile,4
+Karnataka (KA),Koppal,textile,5
+Karnataka (KA),Koppal,food,3
+Rajasthan (RJ),Dungapur,telecom,3
+Rajasthan (RJ),Dungapur,tourism,5
+Rajasthan (RJ),Dungapur,pharmaceutical,1
+Rajasthan (RJ),Dungapur,automobile,2
+Rajasthan (RJ),Dungapur,textile,2
+Rajasthan (RJ),Dungapur,food,3
+Punjab (PB),Bathinda,telecom,4
+Punjab (PB),Bathinda,tourism,1
+Punjab (PB),Bathinda,pharmaceutical,5
+Punjab (PB),Bathinda,automobile,1
+Punjab (PB),Bathinda,textile,4
+Punjab (PB),Bathinda,food,3
+Gujarat (GJ),Gandhinagar,telecom,1
+Gujarat (GJ),Gandhinagar,tourism,5
+Gujarat (GJ),Gandhinagar,pharmaceutical,5
+Gujarat (GJ),Gandhinagar,automobile,4
+Gujarat (GJ),Gandhinagar,textile,1
+Gujarat (GJ),Gandhinagar,food,3
+Madhya Pradesh (MP),Barwani,telecom,3
+Madhya Pradesh (MP),Barwani,tourism,4
+Madhya Pradesh (MP),Barwani,pharmaceutical,3
+Madhya Pradesh (MP),Barwani,automobile,5
+Madhya Pradesh (MP),Barwani,textile,4
+Madhya Pradesh (MP),Barwani,food,3
+Madhya Pradesh (MP),Seoni,telecom,5
+Madhya Pradesh (MP),Seoni,tourism,4
+Madhya Pradesh (MP),Seoni,pharmaceutical,4
+Madhya Pradesh (MP),Seoni,automobile,4
+Madhya Pradesh (MP),Seoni,textile,3
+Madhya Pradesh (MP),Seoni,food,2
+Odisha (OD),Koraput,telecom,4
+Odisha (OD),Koraput,tourism,2
+Odisha (OD),Koraput,pharmaceutical,5
+Odisha (OD),Koraput,automobile,2
+Odisha (OD),Koraput,textile,4
+Odisha (OD),Koraput,food,2
+Uttar Pradesh (UP),Auraiya,telecom,1
+Uttar Pradesh (UP),Auraiya,tourism,5
+Uttar Pradesh (UP),Auraiya,pharmaceutical,4
+Uttar Pradesh (UP),Auraiya,automobile,2
+Uttar Pradesh (UP),Auraiya,textile,2
+Uttar Pradesh (UP),Auraiya,food,5
+Bihar (BR),Munger,telecom,2
+Bihar (BR),Munger,tourism,4
+Bihar (BR),Munger,pharmaceutical,3
+Bihar (BR),Munger,automobile,5
+Bihar (BR),Munger,textile,3
+Bihar (BR),Munger,food,2
+Karnataka (KA),Uttara Kannada,telecom,4
+Karnataka (KA),Uttara Kannada,tourism,5
+Karnataka (KA),Uttara Kannada,pharmaceutical,3
+Karnataka (KA),Uttara Kannada,automobile,4
+Karnataka (KA),Uttara Kannada,textile,2
+Karnataka (KA),Uttara Kannada,food,1
+Gujarat (GJ),Patan,telecom,4
+Gujarat (GJ),Patan,tourism,3
+Gujarat (GJ),Patan,pharmaceutical,1
+Gujarat (GJ),Patan,automobile,4
+Gujarat (GJ),Patan,textile,3
+Gujarat (GJ),Patan,food,1
+Tamil Nadu (TN),Sivaganga,telecom,1
+Tamil Nadu (TN),Sivaganga,tourism,2
+Tamil Nadu (TN),Sivaganga,pharmaceutical,1
+Tamil Nadu (TN),Sivaganga,automobile,3
+Tamil Nadu (TN),Sivaganga,textile,5
+Tamil Nadu (TN),Sivaganga,food,5
+Madhya Pradesh (MP),Mandsaur,telecom,1
+Madhya Pradesh (MP),Mandsaur,tourism,2
+Madhya Pradesh (MP),Mandsaur,pharmaceutical,4
+Madhya Pradesh (MP),Mandsaur,automobile,2
+Madhya Pradesh (MP),Mandsaur,textile,2
+Madhya Pradesh (MP),Mandsaur,food,2
+Rajasthan (RJ),Sawai Madhopur,telecom,3
+Rajasthan (RJ),Sawai Madhopur,tourism,1
+Rajasthan (RJ),Sawai Madhopur,pharmaceutical,4
+Rajasthan (RJ),Sawai Madhopur,automobile,5
+Rajasthan (RJ),Sawai Madhopur,textile,5
+Rajasthan (RJ),Sawai Madhopur,food,4
+Tamil Nadu (TN),Ramanathapuram,telecom,2
+Tamil Nadu (TN),Ramanathapuram,tourism,2
+Tamil Nadu (TN),Ramanathapuram,pharmaceutical,3
+Tamil Nadu (TN),Ramanathapuram,automobile,5
+Tamil Nadu (TN),Ramanathapuram,textile,3
+Tamil Nadu (TN),Ramanathapuram,food,3
+Haryana (HR),Jind,telecom,2
+Haryana (HR),Jind,tourism,5
+Haryana (HR),Jind,pharmaceutical,2
+Haryana (HR),Jind,automobile,3
+Haryana (HR),Jind,textile,5
+Haryana (HR),Jind,food,5
+Madhya Pradesh (MP),Raisen,telecom,4
+Madhya Pradesh (MP),Raisen,tourism,4
+Madhya Pradesh (MP),Raisen,pharmaceutical,1
+Madhya Pradesh (MP),Raisen,automobile,3
+Madhya Pradesh (MP),Raisen,textile,4
+Madhya Pradesh (MP),Raisen,food,1
+Gujarat (GJ),Navsari,telecom,5
+Gujarat (GJ),Navsari,tourism,1
+Gujarat (GJ),Navsari,pharmaceutical,4
+Gujarat (GJ),Navsari,automobile,4
+Gujarat (GJ),Navsari,textile,4
+Gujarat (GJ),Navsari,food,5
+Assam (AS),Dibrugarh,telecom,4
+Assam (AS),Dibrugarh,tourism,5
+Assam (AS),Dibrugarh,pharmaceutical,4
+Assam (AS),Dibrugarh,automobile,5
+Assam (AS),Dibrugarh,textile,5
+Assam (AS),Dibrugarh,food,4
+Jharkhand (JH),Garhwa,telecom,4
+Jharkhand (JH),Garhwa,tourism,1
+Jharkhand (JH),Garhwa,pharmaceutical,2
+Jharkhand (JH),Garhwa,automobile,5
+Jharkhand (JH),Garhwa,textile,1
+Jharkhand (JH),Garhwa,food,4
+Maharashtra (MH),Gondia,telecom,4
+Maharashtra (MH),Gondia,tourism,2
+Maharashtra (MH),Gondia,pharmaceutical,2
+Maharashtra (MH),Gondia,automobile,5
+Maharashtra (MH),Gondia,textile,5
+Maharashtra (MH),Gondia,food,5
+Jharkhand (JH),Dumka,telecom,1
+Jharkhand (JH),Dumka,tourism,3
+Jharkhand (JH),Dumka,pharmaceutical,5
+Jharkhand (JH),Dumka,automobile,3
+Jharkhand (JH),Dumka,textile,5
+Jharkhand (JH),Dumka,food,4
+Assam (AS),Tinsukia,telecom,5
+Assam (AS),Tinsukia,tourism,5
+Assam (AS),Tinsukia,pharmaceutical,5
+Assam (AS),Tinsukia,automobile,3
+Assam (AS),Tinsukia,textile,2
+Assam (AS),Tinsukia,food,5
+Jharkhand (JH),Godda,telecom,2
+Jharkhand (JH),Godda,tourism,1
+Jharkhand (JH),Godda,pharmaceutical,3
+Jharkhand (JH),Godda,automobile,3
+Jharkhand (JH),Godda,textile,4
+Jharkhand (JH),Godda,food,4
+Madhya Pradesh (MP),Sehore,telecom,5
+Madhya Pradesh (MP),Sehore,tourism,4
+Madhya Pradesh (MP),Sehore,pharmaceutical,4
+Madhya Pradesh (MP),Sehore,automobile,4
+Madhya Pradesh (MP),Sehore,textile,1
+Madhya Pradesh (MP),Sehore,food,4
+Madhya Pradesh (MP),Khandwa (East Nimar),telecom,3
+Madhya Pradesh (MP),Khandwa (East Nimar),tourism,2
+Madhya Pradesh (MP),Khandwa (East Nimar),pharmaceutical,5
+Madhya Pradesh (MP),Khandwa (East Nimar),automobile,3
+Madhya Pradesh (MP),Khandwa (East Nimar),textile,2
+Madhya Pradesh (MP),Khandwa (East Nimar),food,1
+Kerala (KL),Kasaragod,telecom,3
+Kerala (KL),Kasaragod,tourism,3
+Kerala (KL),Kasaragod,pharmaceutical,1
+Kerala (KL),Kasaragod,automobile,2
+Kerala (KL),Kasaragod,textile,4
+Kerala (KL),Kasaragod,food,4
+Uttar Pradesh (UP),Bagpat,telecom,3
+Uttar Pradesh (UP),Bagpat,tourism,1
+Uttar Pradesh (UP),Bagpat,pharmaceutical,2
+Uttar Pradesh (UP),Bagpat,automobile,5
+Uttar Pradesh (UP),Bagpat,textile,1
+Uttar Pradesh (UP),Bagpat,food,2
+Maharashtra (MH),Wardha,telecom,1
+Maharashtra (MH),Wardha,tourism,1
+Maharashtra (MH),Wardha,pharmaceutical,4
+Maharashtra (MH),Wardha,automobile,4
+Maharashtra (MH),Wardha,textile,2
+Maharashtra (MH),Wardha,food,3
+Haryana (HR),Sirsa,telecom,2
+Haryana (HR),Sirsa,tourism,3
+Haryana (HR),Sirsa,pharmaceutical,5
+Haryana (HR),Sirsa,automobile,4
+Haryana (HR),Sirsa,textile,4
+Haryana (HR),Sirsa,food,2
+Madhya Pradesh (MP),Katni,telecom,3
+Madhya Pradesh (MP),Katni,tourism,1
+Madhya Pradesh (MP),Katni,pharmaceutical,3
+Madhya Pradesh (MP),Katni,automobile,4
+Madhya Pradesh (MP),Katni,textile,1
+Madhya Pradesh (MP),Katni,food,1
+Odisha (OD),Angul,telecom,5
+Odisha (OD),Angul,tourism,2
+Odisha (OD),Angul,pharmaceutical,3
+Odisha (OD),Angul,automobile,5
+Odisha (OD),Angul,textile,1
+Odisha (OD),Angul,food,1
+Jammu and Kashmir (JK),Srinagar,telecom,3
+Jammu and Kashmir (JK),Srinagar,tourism,2
+Jammu and Kashmir (JK),Srinagar,pharmaceutical,5
+Jammu and Kashmir (JK),Srinagar,automobile,4
+Jammu and Kashmir (JK),Srinagar,textile,3
+Jammu and Kashmir (JK),Srinagar,food,4
+Tamil Nadu (TN),Tiruvarur,telecom,5
+Tamil Nadu (TN),Tiruvarur,tourism,2
+Tamil Nadu (TN),Tiruvarur,pharmaceutical,4
+Tamil Nadu (TN),Tiruvarur,automobile,1
+Tamil Nadu (TN),Tiruvarur,textile,4
+Tamil Nadu (TN),Tiruvarur,food,1
+Madhya Pradesh (MP),Damoh,telecom,2
+Madhya Pradesh (MP),Damoh,tourism,5
+Madhya Pradesh (MP),Damoh,pharmaceutical,5
+Madhya Pradesh (MP),Damoh,automobile,4
+Madhya Pradesh (MP),Damoh,textile,3
+Madhya Pradesh (MP),Damoh,food,1
+Assam (AS),Kamrup Metropolitan,telecom,1
+Assam (AS),Kamrup Metropolitan,tourism,5
+Assam (AS),Kamrup Metropolitan,pharmaceutical,2
+Assam (AS),Kamrup Metropolitan,automobile,4
+Assam (AS),Kamrup Metropolitan,textile,5
+Assam (AS),Kamrup Metropolitan,food,2
+Karnataka (KA),Chikkaballapur,telecom,4
+Karnataka (KA),Chikkaballapur,tourism,3
+Karnataka (KA),Chikkaballapur,pharmaceutical,2
+Karnataka (KA),Chikkaballapur,automobile,3
+Karnataka (KA),Chikkaballapur,textile,3
+Karnataka (KA),Chikkaballapur,food,1
+Tamil Nadu (TN),Theni,telecom,5
+Tamil Nadu (TN),Theni,tourism,2
+Tamil Nadu (TN),Theni,pharmaceutical,5
+Tamil Nadu (TN),Theni,automobile,4
+Tamil Nadu (TN),Theni,textile,4
+Tamil Nadu (TN),Theni,food,3
+Madhya Pradesh (MP),Hoshangabad,telecom,3
+Madhya Pradesh (MP),Hoshangabad,tourism,4
+Madhya Pradesh (MP),Hoshangabad,pharmaceutical,3
+Madhya Pradesh (MP),Hoshangabad,automobile,5
+Madhya Pradesh (MP),Hoshangabad,textile,5
+Madhya Pradesh (MP),Hoshangabad,food,4
+Madhya Pradesh (MP),Guna,telecom,3
+Madhya Pradesh (MP),Guna,tourism,3
+Madhya Pradesh (MP),Guna,pharmaceutical,4
+Madhya Pradesh (MP),Guna,automobile,4
+Madhya Pradesh (MP),Guna,textile,2
+Madhya Pradesh (MP),Guna,food,1
+Rajasthan (RJ),Baran,telecom,4
+Rajasthan (RJ),Baran,tourism,3
+Rajasthan (RJ),Baran,pharmaceutical,2
+Rajasthan (RJ),Baran,automobile,2
+Rajasthan (RJ),Baran,textile,4
+Rajasthan (RJ),Baran,food,3
+Odisha (OD),Nabarangpur,telecom,4
+Odisha (OD),Nabarangpur,tourism,4
+Odisha (OD),Nabarangpur,pharmaceutical,3
+Odisha (OD),Nabarangpur,automobile,5
+Odisha (OD),Nabarangpur,textile,5
+Odisha (OD),Nabarangpur,food,5
+Uttar Pradesh (UP),Lalitpur,telecom,5
+Uttar Pradesh (UP),Lalitpur,tourism,2
+Uttar Pradesh (UP),Lalitpur,pharmaceutical,3
+Uttar Pradesh (UP),Lalitpur,automobile,1
+Uttar Pradesh (UP),Lalitpur,textile,4
+Uttar Pradesh (UP),Lalitpur,food,2
+Gujarat (GJ),Gir Somnath,telecom,5
+Gujarat (GJ),Gir Somnath,tourism,2
+Gujarat (GJ),Gir Somnath,pharmaceutical,1
+Gujarat (GJ),Gir Somnath,automobile,3
+Gujarat (GJ),Gir Somnath,textile,5
+Gujarat (GJ),Gir Somnath,food,4
+Assam (AS),Karimganj,telecom,5
+Assam (AS),Karimganj,tourism,1
+Assam (AS),Karimganj,pharmaceutical,5
+Assam (AS),Karimganj,automobile,1
+Assam (AS),Karimganj,textile,5
+Assam (AS),Karimganj,food,3
+Haryana (HR),Yamuna Nagar,telecom,1
+Haryana (HR),Yamuna Nagar,tourism,2
+Haryana (HR),Yamuna Nagar,pharmaceutical,1
+Haryana (HR),Yamuna Nagar,automobile,4
+Haryana (HR),Yamuna Nagar,textile,1
+Haryana (HR),Yamuna Nagar,food,5
+Rajasthan (RJ),Dholpur,telecom,2
+Rajasthan (RJ),Dholpur,tourism,1
+Rajasthan (RJ),Dholpur,pharmaceutical,2
+Rajasthan (RJ),Dholpur,automobile,3
+Rajasthan (RJ),Dholpur,textile,1
+Rajasthan (RJ),Dholpur,food,4
+Chhattisgarh (CG),Korba,telecom,2
+Chhattisgarh (CG),Korba,tourism,1
+Chhattisgarh (CG),Korba,pharmaceutical,1
+Chhattisgarh (CG),Korba,automobile,2
+Chhattisgarh (CG),Korba,textile,3
+Chhattisgarh (CG),Korba,food,5
+Haryana (HR),Panipat,telecom,4
+Haryana (HR),Panipat,tourism,3
+Haryana (HR),Panipat,pharmaceutical,2
+Haryana (HR),Panipat,automobile,2
+Haryana (HR),Panipat,textile,5
+Haryana (HR),Panipat,food,3
+Maharashtra (MH),Bhandara,telecom,3
+Maharashtra (MH),Bhandara,tourism,4
+Maharashtra (MH),Bhandara,pharmaceutical,1
+Maharashtra (MH),Bhandara,automobile,2
+Maharashtra (MH),Bhandara,textile,5
+Maharashtra (MH),Bhandara,food,1
+Maharashtra (MH),Washim,telecom,2
+Maharashtra (MH),Washim,tourism,3
+Maharashtra (MH),Washim,pharmaceutical,1
+Maharashtra (MH),Washim,automobile,5
+Maharashtra (MH),Washim,textile,1
+Maharashtra (MH),Washim,food,5
+Kerala (KL),Pathanamthitta,telecom,3
+Kerala (KL),Pathanamthitta,tourism,2
+Kerala (KL),Pathanamthitta,pharmaceutical,2
+Kerala (KL),Pathanamthitta,automobile,3
+Kerala (KL),Pathanamthitta,textile,4
+Kerala (KL),Pathanamthitta,food,1
+Odisha (OD),Dhenkanal,telecom,2
+Odisha (OD),Dhenkanal,tourism,2
+Odisha (OD),Dhenkanal,pharmaceutical,2
+Odisha (OD),Dhenkanal,automobile,1
+Odisha (OD),Dhenkanal,textile,5
+Odisha (OD),Dhenkanal,food,3
+Maharashtra (MH),Hingoli,telecom,2
+Maharashtra (MH),Hingoli,tourism,5
+Maharashtra (MH),Hingoli,pharmaceutical,5
+Maharashtra (MH),Hingoli,automobile,4
+Maharashtra (MH),Hingoli,textile,4
+Maharashtra (MH),Hingoli,food,4
+Madhya Pradesh (MP),Singrauli,telecom,4
+Madhya Pradesh (MP),Singrauli,tourism,3
+Madhya Pradesh (MP),Singrauli,pharmaceutical,3
+Madhya Pradesh (MP),Singrauli,automobile,1
+Madhya Pradesh (MP),Singrauli,textile,1
+Madhya Pradesh (MP),Singrauli,food,5
+Karnataka (KA),Udupi,telecom,4
+Karnataka (KA),Udupi,tourism,1
+Karnataka (KA),Udupi,pharmaceutical,1
+Karnataka (KA),Udupi,automobile,4
+Karnataka (KA),Udupi,textile,1
+Karnataka (KA),Udupi,food,4
+Karnataka (KA),Yadgir,telecom,4
+Karnataka (KA),Yadgir,tourism,1
+Karnataka (KA),Yadgir,pharmaceutical,2
+Karnataka (KA),Yadgir,automobile,4
+Karnataka (KA),Yadgir,textile,1
+Karnataka (KA),Yadgir,food,3
+Rajasthan (RJ),Rajsamand,telecom,4
+Rajasthan (RJ),Rajsamand,tourism,2
+Rajasthan (RJ),Rajsamand,pharmaceutical,4
+Rajasthan (RJ),Rajsamand,automobile,1
+Rajasthan (RJ),Rajsamand,textile,5
+Rajasthan (RJ),Rajsamand,food,3
+Assam (AS),Sivasagar,telecom,4
+Assam (AS),Sivasagar,tourism,4
+Assam (AS),Sivasagar,pharmaceutical,2
+Assam (AS),Sivasagar,automobile,4
+Assam (AS),Sivasagar,textile,4
+Assam (AS),Sivasagar,food,2
+Jharkhand (JH),Sahibganj,telecom,5
+Jharkhand (JH),Sahibganj,tourism,4
+Jharkhand (JH),Sahibganj,pharmaceutical,2
+Jharkhand (JH),Sahibganj,automobile,5
+Jharkhand (JH),Sahibganj,textile,1
+Jharkhand (JH),Sahibganj,food,5
+Karnataka (KA),Chikkamagaluru,telecom,1
+Karnataka (KA),Chikkamagaluru,tourism,4
+Karnataka (KA),Chikkamagaluru,pharmaceutical,1
+Karnataka (KA),Chikkamagaluru,automobile,5
+Karnataka (KA),Chikkamagaluru,textile,5
+Karnataka (KA),Chikkamagaluru,food,2
+Haryana (HR),Ambala,telecom,3
+Haryana (HR),Ambala,tourism,1
+Haryana (HR),Ambala,pharmaceutical,1
+Haryana (HR),Ambala,automobile,1
+Haryana (HR),Ambala,textile,4
+Haryana (HR),Ambala,food,3
+Odisha (OD),Jagatsinghpur,telecom,3
+Odisha (OD),Jagatsinghpur,tourism,1
+Odisha (OD),Jagatsinghpur,pharmaceutical,1
+Odisha (OD),Jagatsinghpur,automobile,2
+Odisha (OD),Jagatsinghpur,textile,1
+Odisha (OD),Jagatsinghpur,food,3
+Madhya Pradesh (MP),Sidhi,telecom,5
+Madhya Pradesh (MP),Sidhi,tourism,3
+Madhya Pradesh (MP),Sidhi,pharmaceutical,4
+Madhya Pradesh (MP),Sidhi,automobile,4
+Madhya Pradesh (MP),Sidhi,textile,5
+Madhya Pradesh (MP),Sidhi,food,1
+Bihar (BR),Jehanabad,telecom,2
+Bihar (BR),Jehanabad,tourism,4
+Bihar (BR),Jehanabad,pharmaceutical,5
+Bihar (BR),Jehanabad,automobile,3
+Bihar (BR),Jehanabad,textile,4
+Bihar (BR),Jehanabad,food,4
+Punjab (PB),Tarn Taran,telecom,1
+Punjab (PB),Tarn Taran,tourism,2
+Punjab (PB),Tarn Taran,pharmaceutical,4
+Punjab (PB),Tarn Taran,automobile,4
+Punjab (PB),Tarn Taran,textile,1
+Punjab (PB),Tarn Taran,food,4
+Uttar Pradesh (UP),Shravasti,telecom,3
+Uttar Pradesh (UP),Shravasti,tourism,4
+Uttar Pradesh (UP),Shravasti,pharmaceutical,4
+Uttar Pradesh (UP),Shravasti,automobile,1
+Uttar Pradesh (UP),Shravasti,textile,4
+Uttar Pradesh (UP),Shravasti,food,3
+Rajasthan (RJ),Bundi,telecom,4
+Rajasthan (RJ),Bundi,tourism,1
+Rajasthan (RJ),Bundi,pharmaceutical,3
+Rajasthan (RJ),Bundi,automobile,3
+Rajasthan (RJ),Bundi,textile,5
+Rajasthan (RJ),Bundi,food,1
+Kerala (KL),Idukki,telecom,1
+Kerala (KL),Idukki,tourism,5
+Kerala (KL),Idukki,pharmaceutical,4
+Kerala (KL),Idukki,automobile,4
+Kerala (KL),Idukki,textile,4
+Kerala (KL),Idukki,food,4
+Uttar Pradesh (UP),Hamirpur,telecom,2
+Uttar Pradesh (UP),Hamirpur,tourism,3
+Uttar Pradesh (UP),Hamirpur,pharmaceutical,5
+Uttar Pradesh (UP),Hamirpur,automobile,1
+Uttar Pradesh (UP),Hamirpur,textile,2
+Uttar Pradesh (UP),Hamirpur,food,1
+Madhya Pradesh (MP),Narsinghpur,telecom,1
+Madhya Pradesh (MP),Narsinghpur,tourism,4
+Madhya Pradesh (MP),Narsinghpur,pharmaceutical,5
+Madhya Pradesh (MP),Narsinghpur,automobile,3
+Madhya Pradesh (MP),Narsinghpur,textile,4
+Madhya Pradesh (MP),Narsinghpur,food,3
+Assam (AS),Jorhat,telecom,1
+Assam (AS),Jorhat,tourism,3
+Assam (AS),Jorhat,pharmaceutical,1
+Assam (AS),Jorhat,automobile,4
+Assam (AS),Jorhat,textile,5
+Assam (AS),Jorhat,food,2
+Haryana (HR),Mewat,telecom,4
+Haryana (HR),Mewat,tourism,1
+Haryana (HR),Mewat,pharmaceutical,5
+Haryana (HR),Mewat,automobile,3
+Haryana (HR),Mewat,textile,5
+Haryana (HR),Mewat,food,1
+Karnataka (KA),Ramanagara,telecom,1
+Karnataka (KA),Ramanagara,tourism,5
+Karnataka (KA),Ramanagara,pharmaceutical,1
+Karnataka (KA),Ramanagara,automobile,2
+Karnataka (KA),Ramanagara,textile,1
+Karnataka (KA),Ramanagara,food,1
+Tamil Nadu (TN),Karur,telecom,3
+Tamil Nadu (TN),Karur,tourism,1
+Tamil Nadu (TN),Karur,pharmaceutical,4
+Tamil Nadu (TN),Karur,automobile,2
+Tamil Nadu (TN),Karur,textile,3
+Tamil Nadu (TN),Karur,food,5
+Haryana (HR),Kaithal,telecom,3
+Haryana (HR),Kaithal,tourism,2
+Haryana (HR),Kaithal,pharmaceutical,2
+Haryana (HR),Kaithal,automobile,3
+Haryana (HR),Kaithal,textile,5
+Haryana (HR),Kaithal,food,2
+Gujarat (GJ),Chhota Udaipur,telecom,3
+Gujarat (GJ),Chhota Udaipur,tourism,1
+Gujarat (GJ),Chhota Udaipur,pharmaceutical,3
+Gujarat (GJ),Chhota Udaipur,automobile,3
+Gujarat (GJ),Chhota Udaipur,textile,5
+Gujarat (GJ),Chhota Udaipur,food,1
+Maharashtra (MH),Gadchiroli,telecom,4
+Maharashtra (MH),Gadchiroli,tourism,3
+Maharashtra (MH),Gadchiroli,pharmaceutical,2
+Maharashtra (MH),Gadchiroli,automobile,5
+Maharashtra (MH),Gadchiroli,textile,1
+Maharashtra (MH),Gadchiroli,food,1
+Jammu and Kashmir (JK),Anantnag,telecom,2
+Jammu and Kashmir (JK),Anantnag,tourism,3
+Jammu and Kashmir (JK),Anantnag,pharmaceutical,2
+Jammu and Kashmir (JK),Anantnag,automobile,3
+Jammu and Kashmir (JK),Anantnag,textile,4
+Jammu and Kashmir (JK),Anantnag,food,3
+Karnataka (KA),Gadag,telecom,1
+Karnataka (KA),Gadag,tourism,3
+Karnataka (KA),Gadag,pharmaceutical,1
+Karnataka (KA),Gadag,automobile,3
+Karnataka (KA),Gadag,textile,3
+Karnataka (KA),Gadag,food,2
+Madhya Pradesh (MP),Shahdol,telecom,1
+Madhya Pradesh (MP),Shahdol,tourism,1
+Madhya Pradesh (MP),Shahdol,pharmaceutical,2
+Madhya Pradesh (MP),Shahdol,automobile,1
+Madhya Pradesh (MP),Shahdol,textile,2
+Madhya Pradesh (MP),Shahdol,food,4
+Jharkhand (JH),Seraikela Kharsawan,telecom,5
+Jharkhand (JH),Seraikela Kharsawan,tourism,1
+Jharkhand (JH),Seraikela Kharsawan,pharmaceutical,5
+Jharkhand (JH),Seraikela Kharsawan,automobile,3
+Jharkhand (JH),Seraikela Kharsawan,textile,5
+Jharkhand (JH),Seraikela Kharsawan,food,4
+Haryana (HR),Rohtak,telecom,5
+Haryana (HR),Rohtak,tourism,1
+Haryana (HR),Rohtak,pharmaceutical,1
+Haryana (HR),Rohtak,automobile,4
+Haryana (HR),Rohtak,textile,2
+Haryana (HR),Rohtak,food,4
+Assam (AS),Golaghat,telecom,5
+Assam (AS),Golaghat,tourism,2
+Assam (AS),Golaghat,pharmaceutical,5
+Assam (AS),Golaghat,automobile,4
+Assam (AS),Golaghat,textile,3
+Assam (AS),Golaghat,food,4
+Chandigarh (CH),Chandigarh,telecom,1
+Chandigarh (CH),Chandigarh,tourism,4
+Chandigarh (CH),Chandigarh,pharmaceutical,3
+Chandigarh (CH),Chandigarh,automobile,2
+Chandigarh (CH),Chandigarh,textile,5
+Chandigarh (CH),Chandigarh,food,3
+Madhya Pradesh (MP),Mandla,telecom,4
+Madhya Pradesh (MP),Mandla,tourism,1
+Madhya Pradesh (MP),Mandla,pharmaceutical,5
+Madhya Pradesh (MP),Mandla,automobile,5
+Madhya Pradesh (MP),Mandla,textile,5
+Madhya Pradesh (MP),Mandla,food,5
+Gujarat (GJ),Aravalli,telecom,3
+Gujarat (GJ),Aravalli,tourism,5
+Gujarat (GJ),Aravalli,pharmaceutical,4
+Gujarat (GJ),Aravalli,automobile,5
+Gujarat (GJ),Aravalli,textile,2
+Gujarat (GJ),Aravalli,food,5
+Odisha (OD),Sambalpur,telecom,1
+Odisha (OD),Sambalpur,tourism,2
+Odisha (OD),Sambalpur,pharmaceutical,3
+Odisha (OD),Sambalpur,automobile,2
+Odisha (OD),Sambalpur,textile,4
+Odisha (OD),Sambalpur,food,5
+Jharkhand (JH),Chatra,telecom,4
+Jharkhand (JH),Chatra,tourism,1
+Jharkhand (JH),Chatra,pharmaceutical,5
+Jharkhand (JH),Chatra,automobile,5
+Jharkhand (JH),Chatra,textile,2
+Jharkhand (JH),Chatra,food,2
+Assam (AS),Lakhimpur,telecom,1
+Assam (AS),Lakhimpur,tourism,2
+Assam (AS),Lakhimpur,pharmaceutical,3
+Assam (AS),Lakhimpur,automobile,1
+Assam (AS),Lakhimpur,textile,5
+Assam (AS),Lakhimpur,food,2
+Haryana (HR),Palwal,telecom,1
+Haryana (HR),Palwal,tourism,2
+Haryana (HR),Palwal,pharmaceutical,1
+Haryana (HR),Palwal,automobile,4
+Haryana (HR),Palwal,textile,3
+Haryana (HR),Palwal,food,1
+Rajasthan (RJ),Sirohi,telecom,3
+Rajasthan (RJ),Sirohi,tourism,3
+Rajasthan (RJ),Sirohi,pharmaceutical,5
+Rajasthan (RJ),Sirohi,automobile,4
+Rajasthan (RJ),Sirohi,textile,2
+Rajasthan (RJ),Sirohi,food,3
+Chhattisgarh (CG),Mahasamund,telecom,5
+Chhattisgarh (CG),Mahasamund,tourism,4
+Chhattisgarh (CG),Mahasamund,pharmaceutical,5
+Chhattisgarh (CG),Mahasamund,automobile,1
+Chhattisgarh (CG),Mahasamund,textile,1
+Chhattisgarh (CG),Mahasamund,food,5
+Jharkhand (JH),Gumla,telecom,2
+Jharkhand (JH),Gumla,tourism,2
+Jharkhand (JH),Gumla,pharmaceutical,2
+Jharkhand (JH),Gumla,automobile,2
+Jharkhand (JH),Gumla,textile,2
+Jharkhand (JH),Gumla,food,3
+Madhya Pradesh (MP),Jhabua,telecom,1
+Madhya Pradesh (MP),Jhabua,tourism,4
+Madhya Pradesh (MP),Jhabua,pharmaceutical,2
+Madhya Pradesh (MP),Jhabua,automobile,2
+Madhya Pradesh (MP),Jhabua,textile,5
+Madhya Pradesh (MP),Jhabua,food,3
+Karnataka (KA),Chamarajnagar,telecom,2
+Karnataka (KA),Chamarajnagar,tourism,3
+Karnataka (KA),Chamarajnagar,pharmaceutical,1
+Karnataka (KA),Chamarajnagar,automobile,2
+Karnataka (KA),Chamarajnagar,textile,3
+Karnataka (KA),Chamarajnagar,food,1
+Madhya Pradesh (MP),Panna,telecom,5
+Madhya Pradesh (MP),Panna,tourism,2
+Madhya Pradesh (MP),Panna,pharmaceutical,1
+Madhya Pradesh (MP),Panna,automobile,2
+Madhya Pradesh (MP),Panna,textile,2
+Madhya Pradesh (MP),Panna,food,2
+Jammu and Kashmir (JK),Baramulla,telecom,3
+Jammu and Kashmir (JK),Baramulla,tourism,3
+Jammu and Kashmir (JK),Baramulla,pharmaceutical,4
+Jammu and Kashmir (JK),Baramulla,automobile,2
+Jammu and Kashmir (JK),Baramulla,textile,2
+Jammu and Kashmir (JK),Baramulla,food,2
+Assam (AS),Goalpara,telecom,3
+Assam (AS),Goalpara,tourism,3
+Assam (AS),Goalpara,pharmaceutical,1
+Assam (AS),Goalpara,automobile,5
+Assam (AS),Goalpara,textile,3
+Assam (AS),Goalpara,food,5
+Bihar (BR),Lakhisarai,telecom,5
+Bihar (BR),Lakhisarai,tourism,4
+Bihar (BR),Lakhisarai,pharmaceutical,4
+Bihar (BR),Lakhisarai,automobile,4
+Bihar (BR),Lakhisarai,textile,5
+Bihar (BR),Lakhisarai,food,4
+Himachal Pradesh (HP),Mandi,telecom,4
+Himachal Pradesh (HP),Mandi,tourism,2
+Himachal Pradesh (HP),Mandi,pharmaceutical,3
+Himachal Pradesh (HP),Mandi,automobile,2
+Himachal Pradesh (HP),Mandi,textile,2
+Himachal Pradesh (HP),Mandi,food,3
+Gujarat (GJ),Mahisagar,telecom,1
+Gujarat (GJ),Mahisagar,tourism,4
+Gujarat (GJ),Mahisagar,pharmaceutical,3
+Gujarat (GJ),Mahisagar,automobile,4
+Gujarat (GJ),Mahisagar,textile,1
+Gujarat (GJ),Mahisagar,food,2
+Punjab (PB),Moga,telecom,1
+Punjab (PB),Moga,tourism,3
+Punjab (PB),Moga,pharmaceutical,4
+Punjab (PB),Moga,automobile,3
+Punjab (PB),Moga,textile,4
+Punjab (PB),Moga,food,1
+Uttar Pradesh (UP),Chitrakoot,telecom,4
+Uttar Pradesh (UP),Chitrakoot,tourism,5
+Uttar Pradesh (UP),Chitrakoot,pharmaceutical,4
+Uttar Pradesh (UP),Chitrakoot,automobile,2
+Uttar Pradesh (UP),Chitrakoot,textile,3
+Uttar Pradesh (UP),Chitrakoot,food,4
+Karnataka (KA),Bangalore Rural,telecom,2
+Karnataka (KA),Bangalore Rural,tourism,4
+Karnataka (KA),Bangalore Rural,pharmaceutical,5
+Karnataka (KA),Bangalore Rural,automobile,1
+Karnataka (KA),Bangalore Rural,textile,2
+Karnataka (KA),Bangalore Rural,food,3
+Punjab (PB),Sahibzada Ajit Singh Nagar,telecom,2
+Punjab (PB),Sahibzada Ajit Singh Nagar,tourism,2
+Punjab (PB),Sahibzada Ajit Singh Nagar,pharmaceutical,4
+Punjab (PB),Sahibzada Ajit Singh Nagar,automobile,5
+Punjab (PB),Sahibzada Ajit Singh Nagar,textile,3
+Punjab (PB),Sahibzada Ajit Singh Nagar,food,2
+Assam (AS),Karbi Anglong,telecom,2
+Assam (AS),Karbi Anglong,tourism,4
+Assam (AS),Karbi Anglong,pharmaceutical,5
+Assam (AS),Karbi Anglong,automobile,4
+Assam (AS),Karbi Anglong,textile,1
+Assam (AS),Karbi Anglong,food,3
+Haryana (HR),Kurukshetra,telecom,2
+Haryana (HR),Kurukshetra,tourism,5
+Haryana (HR),Kurukshetra,pharmaceutical,2
+Haryana (HR),Kurukshetra,automobile,2
+Haryana (HR),Kurukshetra,textile,4
+Haryana (HR),Kurukshetra,food,3
+Odisha (OD),Nayagarh,telecom,1
+Odisha (OD),Nayagarh,tourism,4
+Odisha (OD),Nayagarh,pharmaceutical,2
+Odisha (OD),Nayagarh,automobile,5
+Odisha (OD),Nayagarh,textile,3
+Odisha (OD),Nayagarh,food,1
+Odisha (OD),Rayagada,telecom,5
+Odisha (OD),Rayagada,tourism,1
+Odisha (OD),Rayagada,pharmaceutical,4
+Odisha (OD),Rayagada,automobile,1
+Odisha (OD),Rayagada,textile,5
+Odisha (OD),Rayagada,food,3
+Gujarat (GJ),Morbi,telecom,2
+Gujarat (GJ),Morbi,tourism,1
+Gujarat (GJ),Morbi,pharmaceutical,2
+Gujarat (GJ),Morbi,automobile,2
+Gujarat (GJ),Morbi,textile,5
+Gujarat (GJ),Morbi,food,4
+Assam (AS),Morigaon,telecom,2
+Assam (AS),Morigaon,tourism,4
+Assam (AS),Morigaon,pharmaceutical,3
+Assam (AS),Morigaon,automobile,3
+Assam (AS),Morigaon,textile,3
+Assam (AS),Morigaon,food,1
+Haryana (HR),Jhajjar,telecom,5
+Haryana (HR),Jhajjar,tourism,1
+Haryana (HR),Jhajjar,pharmaceutical,1
+Haryana (HR),Jhajjar,automobile,2
+Haryana (HR),Jhajjar,textile,1
+Haryana (HR),Jhajjar,food,3
+Uttarakhand (UK),Nainital,telecom,3
+Uttarakhand (UK),Nainital,tourism,1
+Uttarakhand (UK),Nainital,pharmaceutical,2
+Uttarakhand (UK),Nainital,automobile,2
+Uttarakhand (UK),Nainital,textile,3
+Uttarakhand (UK),Nainital,food,4
+Assam (AS),Baksa,telecom,4
+Assam (AS),Baksa,tourism,5
+Assam (AS),Baksa,pharmaceutical,5
+Assam (AS),Baksa,automobile,4
+Assam (AS),Baksa,textile,3
+Assam (AS),Baksa,food,1
+Jharkhand (JH),Ramgarh,telecom,1
+Jharkhand (JH),Ramgarh,tourism,2
+Jharkhand (JH),Ramgarh,pharmaceutical,1
+Jharkhand (JH),Ramgarh,automobile,1
+Jharkhand (JH),Ramgarh,textile,2
+Jharkhand (JH),Ramgarh,food,4
+Puducherry (PY),Pondicherry,telecom,3
+Puducherry (PY),Pondicherry,tourism,3
+Puducherry (PY),Pondicherry,pharmaceutical,5
+Puducherry (PY),Pondicherry,automobile,2
+Puducherry (PY),Pondicherry,textile,1
+Puducherry (PY),Pondicherry,food,4
+Haryana (HR),Fatehabad,telecom,1
+Haryana (HR),Fatehabad,tourism,2
+Haryana (HR),Fatehabad,pharmaceutical,5
+Haryana (HR),Fatehabad,automobile,3
+Haryana (HR),Fatehabad,textile,5
+Haryana (HR),Fatehabad,food,1
+Haryana (HR),Mahendragarh,telecom,3
+Haryana (HR),Mahendragarh,tourism,2
+Haryana (HR),Mahendragarh,pharmaceutical,5
+Haryana (HR),Mahendragarh,automobile,2
+Haryana (HR),Mahendragarh,textile,1
+Haryana (HR),Mahendragarh,food,3
+Tripura (TR),West Tripura,telecom,4
+Tripura (TR),West Tripura,tourism,1
+Tripura (TR),West Tripura,pharmaceutical,1
+Tripura (TR),West Tripura,automobile,2
+Tripura (TR),West Tripura,textile,1
+Tripura (TR),West Tripura,food,2
+Assam (AS),Darrang,telecom,4
+Assam (AS),Darrang,tourism,4
+Assam (AS),Darrang,pharmaceutical,1
+Assam (AS),Darrang,automobile,4
+Assam (AS),Darrang,textile,5
+Assam (AS),Darrang,food,3
+Punjab (PB),Sri Muktsar Sahib,telecom,4
+Punjab (PB),Sri Muktsar Sahib,tourism,3
+Punjab (PB),Sri Muktsar Sahib,pharmaceutical,3
+Punjab (PB),Sri Muktsar Sahib,automobile,2
+Punjab (PB),Sri Muktsar Sahib,textile,2
+Punjab (PB),Sri Muktsar Sahib,food,1
+Jharkhand (JH),Pakur,telecom,5
+Jharkhand (JH),Pakur,tourism,2
+Jharkhand (JH),Pakur,pharmaceutical,5
+Jharkhand (JH),Pakur,automobile,4
+Jharkhand (JH),Pakur,textile,3
+Jharkhand (JH),Pakur,food,5
+Haryana (HR),Rewari,telecom,4
+Haryana (HR),Rewari,tourism,5
+Haryana (HR),Rewari,pharmaceutical,5
+Haryana (HR),Rewari,automobile,2
+Haryana (HR),Rewari,textile,2
+Haryana (HR),Rewari,food,2
+Assam (AS),Kokrajhar,telecom,2
+Assam (AS),Kokrajhar,tourism,5
+Assam (AS),Kokrajhar,pharmaceutical,1
+Assam (AS),Kokrajhar,automobile,2
+Assam (AS),Kokrajhar,textile,3
+Assam (AS),Kokrajhar,food,1
+Delhi (DL),North Delhi,telecom,4
+Delhi (DL),North Delhi,tourism,4
+Delhi (DL),North Delhi,pharmaceutical,3
+Delhi (DL),North Delhi,automobile,2
+Delhi (DL),North Delhi,textile,2
+Delhi (DL),North Delhi,food,3
+Uttar Pradesh (UP),Mahoba,telecom,5
+Uttar Pradesh (UP),Mahoba,tourism,5
+Uttar Pradesh (UP),Mahoba,pharmaceutical,2
+Uttar Pradesh (UP),Mahoba,automobile,1
+Uttar Pradesh (UP),Mahoba,textile,2
+Uttar Pradesh (UP),Mahoba,food,4
+Jammu and Kashmir (JK),Kupwara,telecom,4
+Jammu and Kashmir (JK),Kupwara,tourism,5
+Jammu and Kashmir (JK),Kupwara,pharmaceutical,1
+Jammu and Kashmir (JK),Kupwara,automobile,2
+Jammu and Kashmir (JK),Kupwara,textile,3
+Jammu and Kashmir (JK),Kupwara,food,4
+Rajasthan (RJ),Pratapgarh,telecom,4
+Rajasthan (RJ),Pratapgarh,tourism,1
+Rajasthan (RJ),Pratapgarh,pharmaceutical,3
+Rajasthan (RJ),Pratapgarh,automobile,2
+Rajasthan (RJ),Pratapgarh,textile,1
+Rajasthan (RJ),Pratapgarh,food,3
+Chhattisgarh (CG),Jashpur,telecom,4
+Chhattisgarh (CG),Jashpur,tourism,5
+Chhattisgarh (CG),Jashpur,pharmaceutical,3
+Chhattisgarh (CG),Jashpur,automobile,1
+Chhattisgarh (CG),Jashpur,textile,3
+Chhattisgarh (CG),Jashpur,food,2
+Maharashtra (MH),Sindhudurg,telecom,1
+Maharashtra (MH),Sindhudurg,tourism,3
+Maharashtra (MH),Sindhudurg,pharmaceutical,2
+Maharashtra (MH),Sindhudurg,automobile,1
+Maharashtra (MH),Sindhudurg,textile,3
+Maharashtra (MH),Sindhudurg,food,5
+Madhya Pradesh (MP),Ashok Nagar,telecom,4
+Madhya Pradesh (MP),Ashok Nagar,tourism,4
+Madhya Pradesh (MP),Ashok Nagar,pharmaceutical,4
+Madhya Pradesh (MP),Ashok Nagar,automobile,5
+Madhya Pradesh (MP),Ashok Nagar,textile,1
+Madhya Pradesh (MP),Ashok Nagar,food,1
+Assam (AS),Udalguri,telecom,1
+Assam (AS),Udalguri,tourism,1
+Assam (AS),Udalguri,pharmaceutical,5
+Assam (AS),Udalguri,automobile,5
+Assam (AS),Udalguri,textile,5
+Assam (AS),Udalguri,food,5
+Madhya Pradesh (MP),Neemuch,telecom,3
+Madhya Pradesh (MP),Neemuch,tourism,5
+Madhya Pradesh (MP),Neemuch,pharmaceutical,2
+Madhya Pradesh (MP),Neemuch,automobile,3
+Madhya Pradesh (MP),Neemuch,textile,2
+Madhya Pradesh (MP),Neemuch,food,5
+Meghalaya (ML),East Khasi Hills,telecom,3
+Meghalaya (ML),East Khasi Hills,tourism,5
+Meghalaya (ML),East Khasi Hills,pharmaceutical,2
+Meghalaya (ML),East Khasi Hills,automobile,1
+Meghalaya (ML),East Khasi Hills,textile,5
+Meghalaya (ML),East Khasi Hills,food,1
+Goa (GA),North Goa,telecom,1
+Goa (GA),North Goa,tourism,4
+Goa (GA),North Goa,pharmaceutical,4
+Goa (GA),North Goa,automobile,1
+Goa (GA),North Goa,textile,3
+Goa (GA),North Goa,food,3
+Punjab (PB),Kapurthala,telecom,3
+Punjab (PB),Kapurthala,tourism,2
+Punjab (PB),Kapurthala,pharmaceutical,2
+Punjab (PB),Kapurthala,automobile,1
+Punjab (PB),Kapurthala,textile,4
+Punjab (PB),Kapurthala,food,2
+Kerala (KL),Wayanad,telecom,2
+Kerala (KL),Wayanad,tourism,4
+Kerala (KL),Wayanad,pharmaceutical,5
+Kerala (KL),Wayanad,automobile,4
+Kerala (KL),Wayanad,textile,3
+Kerala (KL),Wayanad,food,2
+Himachal Pradesh (HP),Shimla,telecom,5
+Himachal Pradesh (HP),Shimla,tourism,3
+Himachal Pradesh (HP),Shimla,pharmaceutical,5
+Himachal Pradesh (HP),Shimla,automobile,2
+Himachal Pradesh (HP),Shimla,textile,2
+Himachal Pradesh (HP),Shimla,food,2
+Gujarat (GJ),Tapi,telecom,2
+Gujarat (GJ),Tapi,tourism,3
+Gujarat (GJ),Tapi,pharmaceutical,1
+Gujarat (GJ),Tapi,automobile,3
+Gujarat (GJ),Tapi,textile,3
+Gujarat (GJ),Tapi,food,5
+Chhattisgarh (CG),Dhamtari,telecom,5
+Chhattisgarh (CG),Dhamtari,tourism,2
+Chhattisgarh (CG),Dhamtari,pharmaceutical,3
+Chhattisgarh (CG),Dhamtari,automobile,4
+Chhattisgarh (CG),Dhamtari,textile,3
+Chhattisgarh (CG),Dhamtari,food,4
+Jharkhand (JH),Jamtara,telecom,4
+Jharkhand (JH),Jamtara,tourism,1
+Jharkhand (JH),Jamtara,pharmaceutical,3
+Jharkhand (JH),Jamtara,automobile,2
+Jharkhand (JH),Jamtara,textile,3
+Jharkhand (JH),Jamtara,food,1
+Madhya Pradesh (MP),Datia,telecom,4
+Madhya Pradesh (MP),Datia,tourism,4
+Madhya Pradesh (MP),Datia,pharmaceutical,3
+Madhya Pradesh (MP),Datia,automobile,5
+Madhya Pradesh (MP),Datia,textile,2
+Madhya Pradesh (MP),Datia,food,4
+Assam (AS),Nalbari,telecom,5
+Assam (AS),Nalbari,tourism,1
+Assam (AS),Nalbari,pharmaceutical,1
+Assam (AS),Nalbari,automobile,2
+Assam (AS),Nalbari,textile,4
+Assam (AS),Nalbari,food,1
+Punjab (PB),Mansa,telecom,2
+Punjab (PB),Mansa,tourism,3
+Punjab (PB),Mansa,pharmaceutical,1
+Punjab (PB),Mansa,automobile,5
+Punjab (PB),Mansa,textile,5
+Punjab (PB),Mansa,food,2
+Madhya Pradesh (MP),Burhanpur,telecom,5
+Madhya Pradesh (MP),Burhanpur,tourism,1
+Madhya Pradesh (MP),Burhanpur,pharmaceutical,3
+Madhya Pradesh (MP),Burhanpur,automobile,5
+Madhya Pradesh (MP),Burhanpur,textile,1
+Madhya Pradesh (MP),Burhanpur,food,3
+Gujarat (GJ),Devbhoomi Dwarka,telecom,5
+Gujarat (GJ),Devbhoomi Dwarka,tourism,4
+Gujarat (GJ),Devbhoomi Dwarka,pharmaceutical,4
+Gujarat (GJ),Devbhoomi Dwarka,automobile,1
+Gujarat (GJ),Devbhoomi Dwarka,textile,5
+Gujarat (GJ),Devbhoomi Dwarka,food,3
+Tamil Nadu (TN),Ariyalur,telecom,4
+Tamil Nadu (TN),Ariyalur,tourism,4
+Tamil Nadu (TN),Ariyalur,pharmaceutical,1
+Tamil Nadu (TN),Ariyalur,automobile,3
+Tamil Nadu (TN),Ariyalur,textile,5
+Tamil Nadu (TN),Ariyalur,food,1
+Madhya Pradesh (MP),Anuppur,telecom,2
+Madhya Pradesh (MP),Anuppur,tourism,3
+Madhya Pradesh (MP),Anuppur,pharmaceutical,2
+Madhya Pradesh (MP),Anuppur,automobile,4
+Madhya Pradesh (MP),Anuppur,textile,3
+Madhya Pradesh (MP),Anuppur,food,3
+Chhattisgarh (CG),Kanker,telecom,5
+Chhattisgarh (CG),Kanker,tourism,1
+Chhattisgarh (CG),Kanker,pharmaceutical,4
+Chhattisgarh (CG),Kanker,automobile,2
+Chhattisgarh (CG),Kanker,textile,3
+Chhattisgarh (CG),Kanker,food,2
+Jammu and Kashmir (JK),Badgam,telecom,4
+Jammu and Kashmir (JK),Badgam,tourism,2
+Jammu and Kashmir (JK),Badgam,pharmaceutical,2
+Jammu and Kashmir (JK),Badgam,automobile,4
+Jammu and Kashmir (JK),Badgam,textile,1
+Jammu and Kashmir (JK),Badgam,food,3
+Tamil Nadu (TN),Nilgiris,telecom,4
+Tamil Nadu (TN),Nilgiris,tourism,2
+Tamil Nadu (TN),Nilgiris,pharmaceutical,4
+Tamil Nadu (TN),Nilgiris,automobile,5
+Tamil Nadu (TN),Nilgiris,textile,3
+Tamil Nadu (TN),Nilgiris,food,3
+Assam (AS),Bongaigaon,telecom,4
+Assam (AS),Bongaigaon,tourism,2
+Assam (AS),Bongaigaon,pharmaceutical,2
+Assam (AS),Bongaigaon,automobile,5
+Assam (AS),Bongaigaon,textile,3
+Assam (AS),Bongaigaon,food,5
+Odisha (OD),Kandhamal,telecom,4
+Odisha (OD),Kandhamal,tourism,3
+Odisha (OD),Kandhamal,pharmaceutical,3
+Odisha (OD),Kandhamal,automobile,2
+Odisha (OD),Kandhamal,textile,5
+Odisha (OD),Kandhamal,food,4
+Madhya Pradesh (MP),Alirajpur,telecom,5
+Madhya Pradesh (MP),Alirajpur,tourism,5
+Madhya Pradesh (MP),Alirajpur,pharmaceutical,2
+Madhya Pradesh (MP),Alirajpur,automobile,2
+Madhya Pradesh (MP),Alirajpur,textile,5
+Madhya Pradesh (MP),Alirajpur,food,1
+Jharkhand (JH),Latehar,telecom,2
+Jharkhand (JH),Latehar,tourism,1
+Jharkhand (JH),Latehar,pharmaceutical,5
+Jharkhand (JH),Latehar,automobile,5
+Jharkhand (JH),Latehar,textile,2
+Jharkhand (JH),Latehar,food,3
+Jharkhand (JH),Koderma,telecom,1
+Jharkhand (JH),Koderma,tourism,4
+Jharkhand (JH),Koderma,pharmaceutical,4
+Jharkhand (JH),Koderma,automobile,4
+Jharkhand (JH),Koderma,textile,3
+Jharkhand (JH),Koderma,food,1
+Madhya Pradesh (MP),Dindori,telecom,4
+Madhya Pradesh (MP),Dindori,tourism,4
+Madhya Pradesh (MP),Dindori,pharmaceutical,2
+Madhya Pradesh (MP),Dindori,automobile,1
+Madhya Pradesh (MP),Dindori,textile,5
+Madhya Pradesh (MP),Dindori,food,2
+Bihar (BR),Arwal,telecom,5
+Bihar (BR),Arwal,tourism,1
+Bihar (BR),Arwal,pharmaceutical,1
+Bihar (BR),Arwal,automobile,5
+Bihar (BR),Arwal,textile,3
+Bihar (BR),Arwal,food,3
+Assam (AS),Dhemaji,telecom,2
+Assam (AS),Dhemaji,tourism,4
+Assam (AS),Dhemaji,pharmaceutical,4
+Assam (AS),Dhemaji,automobile,1
+Assam (AS),Dhemaji,textile,5
+Assam (AS),Dhemaji,food,2
+Madhya Pradesh (MP),Sheopur,telecom,5
+Madhya Pradesh (MP),Sheopur,tourism,4
+Madhya Pradesh (MP),Sheopur,pharmaceutical,2
+Madhya Pradesh (MP),Sheopur,automobile,4
+Madhya Pradesh (MP),Sheopur,textile,5
+Madhya Pradesh (MP),Sheopur,food,4
+Uttarakhand (UK),Pauri Garhwal,telecom,1
+Uttarakhand (UK),Pauri Garhwal,tourism,3
+Uttarakhand (UK),Pauri Garhwal,pharmaceutical,5
+Uttarakhand (UK),Pauri Garhwal,automobile,1
+Uttarakhand (UK),Pauri Garhwal,textile,4
+Uttarakhand (UK),Pauri Garhwal,food,2
+Punjab (PB),Rupnagar,telecom,5
+Punjab (PB),Rupnagar,tourism,5
+Punjab (PB),Rupnagar,pharmaceutical,4
+Punjab (PB),Rupnagar,automobile,1
+Punjab (PB),Rupnagar,textile,5
+Punjab (PB),Rupnagar,food,3
+Rajasthan (RJ),Jaisalmer,telecom,3
+Rajasthan (RJ),Jaisalmer,tourism,4
+Rajasthan (RJ),Jaisalmer,pharmaceutical,5
+Rajasthan (RJ),Jaisalmer,automobile,3
+Rajasthan (RJ),Jaisalmer,textile,2
+Rajasthan (RJ),Jaisalmer,food,1
+Chhattisgarh (CG),Surajpur,telecom,1
+Chhattisgarh (CG),Surajpur,tourism,5
+Chhattisgarh (CG),Surajpur,pharmaceutical,3
+Chhattisgarh (CG),Surajpur,automobile,4
+Chhattisgarh (CG),Surajpur,textile,3
+Chhattisgarh (CG),Surajpur,food,1
+Assam (AS),Hailakandi,telecom,1
+Assam (AS),Hailakandi,tourism,4
+Assam (AS),Hailakandi,pharmaceutical,5
+Assam (AS),Hailakandi,automobile,1
+Assam (AS),Hailakandi,textile,4
+Assam (AS),Hailakandi,food,5
+Chhattisgarh (CG),Koriya,telecom,5
+Chhattisgarh (CG),Koriya,tourism,4
+Chhattisgarh (CG),Koriya,pharmaceutical,3
+Chhattisgarh (CG),Koriya,automobile,4
+Chhattisgarh (CG),Koriya,textile,5
+Chhattisgarh (CG),Koriya,food,3
+Bihar (BR),Sheohar,telecom,2
+Bihar (BR),Sheohar,tourism,4
+Bihar (BR),Sheohar,pharmaceutical,4
+Bihar (BR),Sheohar,automobile,3
+Bihar (BR),Sheohar,textile,2
+Bihar (BR),Sheohar,food,1
+Gujarat (GJ),Botad,telecom,2
+Gujarat (GJ),Botad,tourism,3
+Gujarat (GJ),Botad,pharmaceutical,4
+Gujarat (GJ),Botad,automobile,4
+Gujarat (GJ),Botad,textile,1
+Gujarat (GJ),Botad,food,1
+Odisha (OD),Subarnapur (Sonepur),telecom,3
+Odisha (OD),Subarnapur (Sonepur),tourism,5
+Odisha (OD),Subarnapur (Sonepur),pharmaceutical,3
+Odisha (OD),Subarnapur (Sonepur),automobile,3
+Odisha (OD),Subarnapur (Sonepur),textile,1
+Odisha (OD),Subarnapur (Sonepur),food,5
+Madhya Pradesh (MP),Umaria,telecom,5
+Madhya Pradesh (MP),Umaria,tourism,4
+Madhya Pradesh (MP),Umaria,pharmaceutical,2
+Madhya Pradesh (MP),Umaria,automobile,5
+Madhya Pradesh (MP),Umaria,textile,3
+Madhya Pradesh (MP),Umaria,food,1
+Meghalaya (ML),West Garo Hills,telecom,4
+Meghalaya (ML),West Garo Hills,tourism,5
+Meghalaya (ML),West Garo Hills,pharmaceutical,2
+Meghalaya (ML),West Garo Hills,automobile,4
+Meghalaya (ML),West Garo Hills,textile,5
+Meghalaya (ML),West Garo Hills,food,2
+Goa (GA),South Goa,telecom,2
+Goa (GA),South Goa,tourism,5
+Goa (GA),South Goa,pharmaceutical,1
+Goa (GA),South Goa,automobile,3
+Goa (GA),South Goa,textile,4
+Goa (GA),South Goa,food,3
+Bihar (BR),Sheikhpura,telecom,1
+Bihar (BR),Sheikhpura,tourism,3
+Bihar (BR),Sheikhpura,pharmaceutical,3
+Bihar (BR),Sheikhpura,automobile,3
+Bihar (BR),Sheikhpura,textile,2
+Bihar (BR),Sheikhpura,food,2
+Uttarakhand (UK),Almora,telecom,2
+Uttarakhand (UK),Almora,tourism,1
+Uttarakhand (UK),Almora,pharmaceutical,1
+Uttarakhand (UK),Almora,automobile,1
+Uttarakhand (UK),Almora,textile,2
+Uttarakhand (UK),Almora,food,4
+Jammu and Kashmir (JK),Rajouri,telecom,1
+Jammu and Kashmir (JK),Rajouri,tourism,5
+Jammu and Kashmir (JK),Rajouri,pharmaceutical,5
+Jammu and Kashmir (JK),Rajouri,automobile,3
+Jammu and Kashmir (JK),Rajouri,textile,3
+Jammu and Kashmir (JK),Rajouri,food,3
+Punjab (PB),Faridkot,telecom,2
+Punjab (PB),Faridkot,tourism,5
+Punjab (PB),Faridkot,pharmaceutical,4
+Punjab (PB),Faridkot,automobile,3
+Punjab (PB),Faridkot,textile,5
+Punjab (PB),Faridkot,food,3
+Uttarakhand (UK),Tehri Garhwal,telecom,4
+Uttarakhand (UK),Tehri Garhwal,tourism,1
+Uttarakhand (UK),Tehri Garhwal,pharmaceutical,3
+Uttarakhand (UK),Tehri Garhwal,automobile,1
+Uttarakhand (UK),Tehri Garhwal,textile,3
+Uttarakhand (UK),Tehri Garhwal,food,2
+Jammu and Kashmir (JK),Kathua,telecom,1
+Jammu and Kashmir (JK),Kathua,tourism,3
+Jammu and Kashmir (JK),Kathua,pharmaceutical,4
+Jammu and Kashmir (JK),Kathua,automobile,4
+Jammu and Kashmir (JK),Kathua,textile,4
+Jammu and Kashmir (JK),Kathua,food,5
+Punjab (PB),Shahid Bhagat Singh Nagar,telecom,2
+Punjab (PB),Shahid Bhagat Singh Nagar,tourism,5
+Punjab (PB),Shahid Bhagat Singh Nagar,pharmaceutical,2
+Punjab (PB),Shahid Bhagat Singh Nagar,automobile,3
+Punjab (PB),Shahid Bhagat Singh Nagar,textile,1
+Punjab (PB),Shahid Bhagat Singh Nagar,food,3
+Odisha (OD),Malkangiri,telecom,3
+Odisha (OD),Malkangiri,tourism,3
+Odisha (OD),Malkangiri,pharmaceutical,1
+Odisha (OD),Malkangiri,automobile,2
+Odisha (OD),Malkangiri,textile,5
+Odisha (OD),Malkangiri,food,1
+Odisha (OD),Nuapada,telecom,4
+Odisha (OD),Nuapada,tourism,5
+Odisha (OD),Nuapada,pharmaceutical,3
+Odisha (OD),Nuapada,automobile,3
+Odisha (OD),Nuapada,textile,3
+Odisha (OD),Nuapada,food,5
+Punjab (PB),Fatehgarh Sahib,telecom,4
+Punjab (PB),Fatehgarh Sahib,tourism,3
+Punjab (PB),Fatehgarh Sahib,pharmaceutical,3
+Punjab (PB),Fatehgarh Sahib,automobile,5
+Punjab (PB),Fatehgarh Sahib,textile,1
+Punjab (PB),Fatehgarh Sahib,food,3
+Jharkhand (JH),Simdega,telecom,4
+Jharkhand (JH),Simdega,tourism,5
+Jharkhand (JH),Simdega,pharmaceutical,4
+Jharkhand (JH),Simdega,automobile,3
+Jharkhand (JH),Simdega,textile,3
+Jharkhand (JH),Simdega,food,5
+Punjab (PB),Barnala,telecom,5
+Punjab (PB),Barnala,tourism,5
+Punjab (PB),Barnala,pharmaceutical,3
+Punjab (PB),Barnala,automobile,4
+Punjab (PB),Barnala,textile,4
+Punjab (PB),Barnala,food,1
+Gujarat (GJ),Narmada,telecom,4
+Gujarat (GJ),Narmada,tourism,1
+Gujarat (GJ),Narmada,pharmaceutical,3
+Gujarat (GJ),Narmada,automobile,4
+Gujarat (GJ),Narmada,textile,1
+Gujarat (GJ),Narmada,food,2
+Gujarat (GJ),Porbandar,telecom,3
+Gujarat (GJ),Porbandar,tourism,1
+Gujarat (GJ),Porbandar,pharmaceutical,5
+Gujarat (GJ),Porbandar,automobile,3
+Gujarat (GJ),Porbandar,textile,1
+Gujarat (GJ),Porbandar,food,4
+Chhattisgarh (CG),Kabirdham (formerly Kawardha),telecom,2
+Chhattisgarh (CG),Kabirdham (formerly Kawardha),tourism,2
+Chhattisgarh (CG),Kabirdham (formerly Kawardha),pharmaceutical,5
+Chhattisgarh (CG),Kabirdham (formerly Kawardha),automobile,4
+Chhattisgarh (CG),Kabirdham (formerly Kawardha),textile,5
+Chhattisgarh (CG),Kabirdham (formerly Kawardha),food,1
+Odisha (OD),Jharsuguda,telecom,1
+Odisha (OD),Jharsuguda,tourism,3
+Odisha (OD),Jharsuguda,pharmaceutical,2
+Odisha (OD),Jharsuguda,automobile,4
+Odisha (OD),Jharsuguda,textile,4
+Odisha (OD),Jharsuguda,food,1
+Delhi (DL),Central Delhi,telecom,2
+Delhi (DL),Central Delhi,tourism,3
+Delhi (DL),Central Delhi,pharmaceutical,2
+Delhi (DL),Central Delhi,automobile,3
+Delhi (DL),Central Delhi,textile,2
+Delhi (DL),Central Delhi,food,1
+Himachal Pradesh (HP),Solan,telecom,2
+Himachal Pradesh (HP),Solan,tourism,1
+Himachal Pradesh (HP),Solan,pharmaceutical,3
+Himachal Pradesh (HP),Solan,automobile,4
+Himachal Pradesh (HP),Solan,textile,4
+Himachal Pradesh (HP),Solan,food,5
+Odisha (OD),Gajapati,telecom,5
+Odisha (OD),Gajapati,tourism,4
+Odisha (OD),Gajapati,pharmaceutical,2
+Odisha (OD),Gajapati,automobile,4
+Odisha (OD),Gajapati,textile,4
+Odisha (OD),Gajapati,food,1
+Madhya Pradesh (MP),Harda,telecom,4
+Madhya Pradesh (MP),Harda,tourism,2
+Madhya Pradesh (MP),Harda,pharmaceutical,5
+Madhya Pradesh (MP),Harda,automobile,3
+Madhya Pradesh (MP),Harda,textile,1
+Madhya Pradesh (MP),Harda,food,5
+Jammu and Kashmir (JK),Pulwama,telecom,2
+Jammu and Kashmir (JK),Pulwama,tourism,2
+Jammu and Kashmir (JK),Pulwama,pharmaceutical,3
+Jammu and Kashmir (JK),Pulwama,automobile,1
+Jammu and Kashmir (JK),Pulwama,textile,3
+Jammu and Kashmir (JK),Pulwama,food,3
+Tamil Nadu (TN),Perambalur,telecom,5
+Tamil Nadu (TN),Perambalur,tourism,1
+Tamil Nadu (TN),Perambalur,pharmaceutical,2
+Tamil Nadu (TN),Perambalur,automobile,2
+Tamil Nadu (TN),Perambalur,textile,2
+Tamil Nadu (TN),Perambalur,food,5
+Haryana (HR),Panchkula,telecom,4
+Haryana (HR),Panchkula,tourism,4
+Haryana (HR),Panchkula,pharmaceutical,4
+Haryana (HR),Panchkula,automobile,2
+Haryana (HR),Panchkula,textile,4
+Haryana (HR),Panchkula,food,3
+Jammu and Kashmir (JK),Udhampur,telecom,3
+Jammu and Kashmir (JK),Udhampur,tourism,5
+Jammu and Kashmir (JK),Udhampur,pharmaceutical,4
+Jammu and Kashmir (JK),Udhampur,automobile,1
+Jammu and Kashmir (JK),Udhampur,textile,4
+Jammu and Kashmir (JK),Udhampur,food,2
+Karnataka (KA),Kodagu,telecom,5
+Karnataka (KA),Kodagu,tourism,2
+Karnataka (KA),Kodagu,pharmaceutical,2
+Karnataka (KA),Kodagu,automobile,1
+Karnataka (KA),Kodagu,textile,5
+Karnataka (KA),Kodagu,food,4
+Chhattisgarh (CG),Dantewada,telecom,4
+Chhattisgarh (CG),Dantewada,tourism,2
+Chhattisgarh (CG),Dantewada,pharmaceutical,1
+Chhattisgarh (CG),Dantewada,automobile,1
+Chhattisgarh (CG),Dantewada,textile,3
+Chhattisgarh (CG),Dantewada,food,2
+Jharkhand (JH),Khunti,telecom,5
+Jharkhand (JH),Khunti,tourism,2
+Jharkhand (JH),Khunti,pharmaceutical,3
+Jharkhand (JH),Khunti,automobile,5
+Jharkhand (JH),Khunti,textile,5
+Jharkhand (JH),Khunti,food,3
+Himachal Pradesh (HP),Sirmaur,telecom,3
+Himachal Pradesh (HP),Sirmaur,tourism,4
+Himachal Pradesh (HP),Sirmaur,pharmaceutical,1
+Himachal Pradesh (HP),Sirmaur,automobile,4
+Himachal Pradesh (HP),Sirmaur,textile,2
+Himachal Pradesh (HP),Sirmaur,food,5
+Himachal Pradesh (HP),Una,telecom,5
+Himachal Pradesh (HP),Una,tourism,3
+Himachal Pradesh (HP),Una,pharmaceutical,4
+Himachal Pradesh (HP),Una,automobile,3
+Himachal Pradesh (HP),Una,textile,4
+Himachal Pradesh (HP),Una,food,2
+Himachal Pradesh (HP),Chamba,telecom,2
+Himachal Pradesh (HP),Chamba,tourism,5
+Himachal Pradesh (HP),Chamba,pharmaceutical,4
+Himachal Pradesh (HP),Chamba,automobile,4
+Himachal Pradesh (HP),Chamba,textile,5
+Himachal Pradesh (HP),Chamba,food,5
+Manipur (MN),Imphal West,telecom,3
+Manipur (MN),Imphal West,tourism,4
+Manipur (MN),Imphal West,pharmaceutical,3
+Manipur (MN),Imphal West,automobile,1
+Manipur (MN),Imphal West,textile,3
+Manipur (MN),Imphal West,food,1
+Uttarakhand (UK),Pithoragarh,telecom,1
+Uttarakhand (UK),Pithoragarh,tourism,3
+Uttarakhand (UK),Pithoragarh,pharmaceutical,5
+Uttarakhand (UK),Pithoragarh,automobile,3
+Uttarakhand (UK),Pithoragarh,textile,1
+Uttarakhand (UK),Pithoragarh,food,3
+Tripura (TR),Sepahijala,telecom,3
+Tripura (TR),Sepahijala,tourism,2
+Tripura (TR),Sepahijala,pharmaceutical,4
+Tripura (TR),Sepahijala,automobile,1
+Tripura (TR),Sepahijala,textile,2
+Tripura (TR),Sepahijala,food,4
+Assam (AS),Chirang,telecom,5
+Assam (AS),Chirang,tourism,5
+Assam (AS),Chirang,pharmaceutical,3
+Assam (AS),Chirang,automobile,2
+Assam (AS),Chirang,textile,1
+Assam (AS),Chirang,food,1
+Jammu and Kashmir (JK),Poonch,telecom,3
+Jammu and Kashmir (JK),Poonch,tourism,3
+Jammu and Kashmir (JK),Poonch,pharmaceutical,2
+Jammu and Kashmir (JK),Poonch,automobile,2
+Jammu and Kashmir (JK),Poonch,textile,4
+Jammu and Kashmir (JK),Poonch,food,2
+Jharkhand (JH),Lohardaga,telecom,5
+Jharkhand (JH),Lohardaga,tourism,1
+Jharkhand (JH),Lohardaga,pharmaceutical,3
+Jharkhand (JH),Lohardaga,automobile,5
+Jharkhand (JH),Lohardaga,textile,4
+Jharkhand (JH),Lohardaga,food,1
+Himachal Pradesh (HP),Hamirpur,telecom,1
+Himachal Pradesh (HP),Hamirpur,tourism,4
+Himachal Pradesh (HP),Hamirpur,pharmaceutical,4
+Himachal Pradesh (HP),Hamirpur,automobile,2
+Himachal Pradesh (HP),Hamirpur,textile,3
+Himachal Pradesh (HP),Hamirpur,food,3
+Manipur (MN),Imphal East,telecom,5
+Manipur (MN),Imphal East,tourism,4
+Manipur (MN),Imphal East,pharmaceutical,1
+Manipur (MN),Imphal East,automobile,2
+Manipur (MN),Imphal East,textile,2
+Manipur (MN),Imphal East,food,5
+Odisha (OD),Boudh (Bauda),telecom,2
+Odisha (OD),Boudh (Bauda),tourism,5
+Odisha (OD),Boudh (Bauda),pharmaceutical,5
+Odisha (OD),Boudh (Bauda),automobile,5
+Odisha (OD),Boudh (Bauda),textile,3
+Odisha (OD),Boudh (Bauda),food,3
+Himachal Pradesh (HP),Kullu,telecom,1
+Himachal Pradesh (HP),Kullu,tourism,5
+Himachal Pradesh (HP),Kullu,pharmaceutical,4
+Himachal Pradesh (HP),Kullu,automobile,4
+Himachal Pradesh (HP),Kullu,textile,3
+Himachal Pradesh (HP),Kullu,food,4
+Tripura (TR),Gomati,telecom,3
+Tripura (TR),Gomati,tourism,1
+Tripura (TR),Gomati,pharmaceutical,1
+Tripura (TR),Gomati,automobile,1
+Tripura (TR),Gomati,textile,2
+Tripura (TR),Gomati,food,1
+Tripura (TR),South Tripura,telecom,2
+Tripura (TR),South Tripura,tourism,4
+Tripura (TR),South Tripura,pharmaceutical,2
+Tripura (TR),South Tripura,automobile,2
+Tripura (TR),South Tripura,textile,1
+Tripura (TR),South Tripura,food,5
+Jammu and Kashmir (JK),Kulgam,telecom,5
+Jammu and Kashmir (JK),Kulgam,tourism,4
+Jammu and Kashmir (JK),Kulgam,pharmaceutical,2
+Jammu and Kashmir (JK),Kulgam,automobile,4
+Jammu and Kashmir (JK),Kulgam,textile,2
+Jammu and Kashmir (JK),Kulgam,food,2
+Chhattisgarh (CG),Surguja,telecom,2
+Chhattisgarh (CG),Surguja,tourism,1
+Chhattisgarh (CG),Surguja,pharmaceutical,3
+Chhattisgarh (CG),Surguja,automobile,1
+Chhattisgarh (CG),Surguja,textile,4
+Chhattisgarh (CG),Surguja,food,5
+Manipur (MN),Thoubal,telecom,1
+Manipur (MN),Thoubal,tourism,3
+Manipur (MN),Thoubal,pharmaceutical,1
+Manipur (MN),Thoubal,automobile,2
+Manipur (MN),Thoubal,textile,3
+Manipur (MN),Thoubal,food,4
+Tripura (TR),North Tripura,telecom,1
+Tripura (TR),North Tripura,tourism,3
+Tripura (TR),North Tripura,pharmaceutical,3
+Tripura (TR),North Tripura,automobile,3
+Tripura (TR),North Tripura,textile,3
+Tripura (TR),North Tripura,food,4
+Mizoram (MZ),Tuensang,telecom,4
+Mizoram (MZ),Tuensang,tourism,1
+Mizoram (MZ),Tuensang,pharmaceutical,5
+Mizoram (MZ),Tuensang,automobile,5
+Mizoram (MZ),Tuensang,textile,3
+Mizoram (MZ),Tuensang,food,5
+Jammu and Kashmir (JK),Doda,telecom,3
+Jammu and Kashmir (JK),Doda,tourism,2
+Jammu and Kashmir (JK),Doda,pharmaceutical,1
+Jammu and Kashmir (JK),Doda,automobile,5
+Jammu and Kashmir (JK),Doda,textile,2
+Jammu and Kashmir (JK),Doda,food,5
+Mizoram (MZ),Aizawl,telecom,5
+Mizoram (MZ),Aizawl,tourism,5
+Mizoram (MZ),Aizawl,pharmaceutical,4
+Mizoram (MZ),Aizawl,automobile,2
+Mizoram (MZ),Aizawl,textile,2
+Mizoram (MZ),Aizawl,food,1
+Uttarakhand (UK),Chamoli,telecom,2
+Uttarakhand (UK),Chamoli,tourism,2
+Uttarakhand (UK),Chamoli,pharmaceutical,1
+Uttarakhand (UK),Chamoli,automobile,3
+Uttarakhand (UK),Chamoli,textile,4
+Uttarakhand (UK),Chamoli,food,1
+Meghalaya (ML),West Khasi Hills,telecom,1
+Meghalaya (ML),West Khasi Hills,tourism,5
+Meghalaya (ML),West Khasi Hills,pharmaceutical,5
+Meghalaya (ML),West Khasi Hills,automobile,5
+Meghalaya (ML),West Khasi Hills,textile,1
+Meghalaya (ML),West Khasi Hills,food,1
+Jammu and Kashmir (JK),Bandipora,telecom,2
+Jammu and Kashmir (JK),Bandipora,tourism,2
+Jammu and Kashmir (JK),Bandipora,pharmaceutical,2
+Jammu and Kashmir (JK),Bandipora,automobile,5
+Jammu and Kashmir (JK),Bandipora,textile,2
+Jammu and Kashmir (JK),Bandipora,food,3
+Himachal Pradesh (HP),Bilaspur,telecom,4
+Himachal Pradesh (HP),Bilaspur,tourism,5
+Himachal Pradesh (HP),Bilaspur,pharmaceutical,1
+Himachal Pradesh (HP),Bilaspur,automobile,2
+Himachal Pradesh (HP),Bilaspur,textile,3
+Himachal Pradesh (HP),Bilaspur,food,1
+Mizoram (MZ),Dimapur,telecom,1
+Mizoram (MZ),Dimapur,tourism,2
+Mizoram (MZ),Dimapur,pharmaceutical,4
+Mizoram (MZ),Dimapur,automobile,2
+Mizoram (MZ),Dimapur,textile,5
+Mizoram (MZ),Dimapur,food,5
+Tripura (TR),Dhalai,telecom,2
+Tripura (TR),Dhalai,tourism,1
+Tripura (TR),Dhalai,pharmaceutical,4
+Tripura (TR),Dhalai,automobile,5
+Tripura (TR),Dhalai,textile,5
+Tripura (TR),Dhalai,food,3
+Manipur (MN),Senapati,telecom,5
+Manipur (MN),Senapati,tourism,4
+Manipur (MN),Senapati,pharmaceutical,1
+Manipur (MN),Senapati,automobile,3
+Manipur (MN),Senapati,textile,1
+Manipur (MN),Senapati,food,2
+Dadra and Nagar Haveli (DN),Dadra and Nagar Haveli,telecom,4
+Dadra and Nagar Haveli (DN),Dadra and Nagar Haveli,tourism,1
+Dadra and Nagar Haveli (DN),Dadra and Nagar Haveli,pharmaceutical,4
+Dadra and Nagar Haveli (DN),Dadra and Nagar Haveli,automobile,3
+Dadra and Nagar Haveli (DN),Dadra and Nagar Haveli,textile,1
+Dadra and Nagar Haveli (DN),Dadra and Nagar Haveli,food,2
+Uttarakhand (UK),Uttarkashi,telecom,5
+Uttarakhand (UK),Uttarkashi,tourism,2
+Uttarakhand (UK),Uttarkashi,pharmaceutical,1
+Uttarakhand (UK),Uttarkashi,automobile,1
+Uttarakhand (UK),Uttarkashi,textile,1
+Uttarakhand (UK),Uttarkashi,food,2
+Tripura (TR),Khowai,telecom,2
+Tripura (TR),Khowai,tourism,5
+Tripura (TR),Khowai,pharmaceutical,5
+Tripura (TR),Khowai,automobile,5
+Tripura (TR),Khowai,textile,4
+Tripura (TR),Khowai,food,2
+Jammu and Kashmir (JK),Samba,telecom,4
+Jammu and Kashmir (JK),Samba,tourism,5
+Jammu and Kashmir (JK),Samba,pharmaceutical,3
+Jammu and Kashmir (JK),Samba,automobile,4
+Jammu and Kashmir (JK),Samba,textile,2
+Jammu and Kashmir (JK),Samba,food,2
+Meghalaya (ML),East Garo Hills,telecom,2
+Meghalaya (ML),East Garo Hills,tourism,2
+Meghalaya (ML),East Garo Hills,pharmaceutical,4
+Meghalaya (ML),East Garo Hills,automobile,1
+Meghalaya (ML),East Garo Hills,textile,4
+Meghalaya (ML),East Garo Hills,food,5
+Jammu and Kashmir (JK),Reasi,telecom,4
+Jammu and Kashmir (JK),Reasi,tourism,1
+Jammu and Kashmir (JK),Reasi,pharmaceutical,2
+Jammu and Kashmir (JK),Reasi,automobile,5
+Jammu and Kashmir (JK),Reasi,textile,3
+Jammu and Kashmir (JK),Reasi,food,4
+Odisha (OD),Debagarh (Deogarh),telecom,3
+Odisha (OD),Debagarh (Deogarh),tourism,3
+Odisha (OD),Debagarh (Deogarh),pharmaceutical,4
+Odisha (OD),Debagarh (Deogarh),automobile,5
+Odisha (OD),Debagarh (Deogarh),textile,4
+Odisha (OD),Debagarh (Deogarh),food,3
+Jammu and Kashmir (JK),Ganderbal,telecom,5
+Jammu and Kashmir (JK),Ganderbal,tourism,2
+Jammu and Kashmir (JK),Ganderbal,pharmaceutical,2
+Jammu and Kashmir (JK),Ganderbal,automobile,1
+Jammu and Kashmir (JK),Ganderbal,textile,1
+Jammu and Kashmir (JK),Ganderbal,food,5
+Jammu and Kashmir (JK),Ramban,telecom,1
+Jammu and Kashmir (JK),Ramban,tourism,1
+Jammu and Kashmir (JK),Ramban,pharmaceutical,4
+Jammu and Kashmir (JK),Ramban,automobile,5
+Jammu and Kashmir (JK),Ramban,textile,1
+Jammu and Kashmir (JK),Ramban,food,1
+Sikkim (SK),East Sikkim,telecom,2
+Sikkim (SK),East Sikkim,tourism,5
+Sikkim (SK),East Sikkim,pharmaceutical,1
+Sikkim (SK),East Sikkim,automobile,2
+Sikkim (SK),East Sikkim,textile,2
+Sikkim (SK),East Sikkim,food,3
+Tripura (TR),Unokoti,telecom,5
+Tripura (TR),Unokoti,tourism,4
+Tripura (TR),Unokoti,pharmaceutical,4
+Tripura (TR),Unokoti,automobile,4
+Tripura (TR),Unokoti,textile,1
+Tripura (TR),Unokoti,food,5
+Manipur (MN),Churachandpur,telecom,2
+Manipur (MN),Churachandpur,tourism,4
+Manipur (MN),Churachandpur,pharmaceutical,3
+Manipur (MN),Churachandpur,automobile,3
+Manipur (MN),Churachandpur,textile,2
+Manipur (MN),Churachandpur,food,3
+Meghalaya (ML),West Jaintia Hills,telecom,4
+Meghalaya (ML),West Jaintia Hills,tourism,2
+Meghalaya (ML),West Jaintia Hills,pharmaceutical,3
+Meghalaya (ML),West Jaintia Hills,automobile,3
+Meghalaya (ML),West Jaintia Hills,textile,1
+Meghalaya (ML),West Jaintia Hills,food,3
+Mizoram (MZ),Kohima,telecom,5
+Mizoram (MZ),Kohima,tourism,3
+Mizoram (MZ),Kohima,pharmaceutical,2
+Mizoram (MZ),Kohima,automobile,4
+Mizoram (MZ),Kohima,textile,1
+Mizoram (MZ),Kohima,food,4
+Jammu and Kashmir (JK),Shopian,telecom,1
+Jammu and Kashmir (JK),Shopian,tourism,4
+Jammu and Kashmir (JK),Shopian,pharmaceutical,4
+Jammu and Kashmir (JK),Shopian,automobile,1
+Jammu and Kashmir (JK),Shopian,textile,1
+Jammu and Kashmir (JK),Shopian,food,2
+Uttarakhand (UK),Bageshwar,telecom,4
+Uttarakhand (UK),Bageshwar,tourism,1
+Uttarakhand (UK),Bageshwar,pharmaceutical,2
+Uttarakhand (UK),Bageshwar,automobile,2
+Uttarakhand (UK),Bageshwar,textile,5
+Uttarakhand (UK),Bageshwar,food,3
+Mizoram (MZ),Mon,telecom,3
+Mizoram (MZ),Mon,tourism,5
+Mizoram (MZ),Mon,pharmaceutical,4
+Mizoram (MZ),Mon,automobile,2
+Mizoram (MZ),Mon,textile,5
+Mizoram (MZ),Mon,food,3
+Uttarakhand (UK),Champawat,telecom,1
+Uttarakhand (UK),Champawat,tourism,4
+Uttarakhand (UK),Champawat,pharmaceutical,5
+Uttarakhand (UK),Champawat,automobile,4
+Uttarakhand (UK),Champawat,textile,5
+Uttarakhand (UK),Champawat,food,3
+Meghalaya (ML),Ri Bhoi,telecom,3
+Meghalaya (ML),Ri Bhoi,tourism,3
+Meghalaya (ML),Ri Bhoi,pharmaceutical,2
+Meghalaya (ML),Ri Bhoi,automobile,4
+Meghalaya (ML),Ri Bhoi,textile,3
+Meghalaya (ML),Ri Bhoi,food,5
+Chhattisgarh (CG),Bijapur,telecom,2
+Chhattisgarh (CG),Bijapur,tourism,2
+Chhattisgarh (CG),Bijapur,pharmaceutical,1
+Chhattisgarh (CG),Bijapur,automobile,3
+Chhattisgarh (CG),Bijapur,textile,2
+Chhattisgarh (CG),Bijapur,food,3
+Chhattisgarh (CG),Sukma,telecom,4
+Chhattisgarh (CG),Sukma,tourism,4
+Chhattisgarh (CG),Sukma,pharmaceutical,3
+Chhattisgarh (CG),Sukma,automobile,5
+Chhattisgarh (CG),Sukma,textile,2
+Chhattisgarh (CG),Sukma,food,3
+Manipur (MN),Bishnupur,telecom,4
+Manipur (MN),Bishnupur,tourism,2
+Manipur (MN),Bishnupur,pharmaceutical,4
+Manipur (MN),Bishnupur,automobile,4
+Manipur (MN),Bishnupur,textile,2
+Manipur (MN),Bishnupur,food,1
+Andaman and Nicobar (AN),South Andaman,telecom,3
+Andaman and Nicobar (AN),South Andaman,tourism,5
+Andaman and Nicobar (AN),South Andaman,pharmaceutical,5
+Andaman and Nicobar (AN),South Andaman,automobile,3
+Andaman and Nicobar (AN),South Andaman,textile,1
+Andaman and Nicobar (AN),South Andaman,food,5
+Uttarakhand (UK),Rudraprayag,telecom,3
+Uttarakhand (UK),Rudraprayag,tourism,4
+Uttarakhand (UK),Rudraprayag,pharmaceutical,1
+Uttarakhand (UK),Rudraprayag,automobile,2
+Uttarakhand (UK),Rudraprayag,textile,2
+Uttarakhand (UK),Rudraprayag,food,4
+Jammu and Kashmir (JK),Kishtwar,telecom,3
+Jammu and Kashmir (JK),Kishtwar,tourism,4
+Jammu and Kashmir (JK),Kishtwar,pharmaceutical,1
+Jammu and Kashmir (JK),Kishtwar,automobile,3
+Jammu and Kashmir (JK),Kishtwar,textile,3
+Jammu and Kashmir (JK),Kishtwar,food,2
+Gujarat (GJ),Dang,telecom,4
+Gujarat (GJ),Dang,tourism,3
+Gujarat (GJ),Dang,pharmaceutical,4
+Gujarat (GJ),Dang,automobile,3
+Gujarat (GJ),Dang,textile,1
+Gujarat (GJ),Dang,food,4
+Assam (AS),Dima Hasao,telecom,2
+Assam (AS),Dima Hasao,tourism,4
+Assam (AS),Dima Hasao,pharmaceutical,3
+Assam (AS),Dima Hasao,automobile,5
+Assam (AS),Dima Hasao,textile,4
+Assam (AS),Dima Hasao,food,3
+Puducherry (PY),Karaikal,telecom,5
+Puducherry (PY),Karaikal,tourism,2
+Puducherry (PY),Karaikal,pharmaceutical,2
+Puducherry (PY),Karaikal,automobile,3
+Puducherry (PY),Karaikal,textile,4
+Puducherry (PY),Karaikal,food,5
+Mizoram (MZ),Mokokchung,telecom,2
+Mizoram (MZ),Mokokchung,tourism,5
+Mizoram (MZ),Mokokchung,pharmaceutical,2
+Mizoram (MZ),Mokokchung,automobile,1
+Mizoram (MZ),Mokokchung,textile,1
+Mizoram (MZ),Mokokchung,food,5
+Daman and Diu (DD),Daman,telecom,4
+Daman and Diu (DD),Daman,tourism,3
+Daman and Diu (DD),Daman,pharmaceutical,2
+Daman and Diu (DD),Daman,automobile,3
+Daman and Diu (DD),Daman,textile,5
+Daman and Diu (DD),Daman,food,3
+Manipur (MN),Ukhrul,telecom,5
+Manipur (MN),Ukhrul,tourism,5
+Manipur (MN),Ukhrul,pharmaceutical,1
+Manipur (MN),Ukhrul,automobile,3
+Manipur (MN),Ukhrul,textile,4
+Manipur (MN),Ukhrul,food,4
+Arunachal Pradesh (AR),Papum Pare,telecom,3
+Arunachal Pradesh (AR),Papum Pare,tourism,5
+Arunachal Pradesh (AR),Papum Pare,pharmaceutical,1
+Arunachal Pradesh (AR),Papum Pare,automobile,5
+Arunachal Pradesh (AR),Papum Pare,textile,1
+Arunachal Pradesh (AR),Papum Pare,food,2
+Mizoram (MZ),Wokha,telecom,4
+Mizoram (MZ),Wokha,tourism,5
+Mizoram (MZ),Wokha,pharmaceutical,5
+Mizoram (MZ),Wokha,automobile,4
+Mizoram (MZ),Wokha,textile,4
+Mizoram (MZ),Wokha,food,1
+Mizoram (MZ),Peren,telecom,2
+Mizoram (MZ),Peren,tourism,1
+Mizoram (MZ),Peren,pharmaceutical,5
+Mizoram (MZ),Peren,automobile,4
+Mizoram (MZ),Peren,textile,5
+Mizoram (MZ),Peren,food,5
+Mizoram (MZ),Phek,telecom,4
+Mizoram (MZ),Phek,tourism,4
+Mizoram (MZ),Phek,pharmaceutical,4
+Mizoram (MZ),Phek,automobile,3
+Mizoram (MZ),Phek,textile,4
+Mizoram (MZ),Phek,food,3
+Mizoram (MZ),Lunglei,telecom,3
+Mizoram (MZ),Lunglei,tourism,3
+Mizoram (MZ),Lunglei,pharmaceutical,5
+Mizoram (MZ),Lunglei,automobile,2
+Mizoram (MZ),Lunglei,textile,1
+Mizoram (MZ),Lunglei,food,5
+Arunachal Pradesh (AR),Changlang,telecom,5
+Arunachal Pradesh (AR),Changlang,tourism,2
+Arunachal Pradesh (AR),Changlang,pharmaceutical,2
+Arunachal Pradesh (AR),Changlang,automobile,3
+Arunachal Pradesh (AR),Changlang,textile,3
+Arunachal Pradesh (AR),Changlang,food,2
+Jammu and Kashmir (JK),Leh,telecom,2
+Jammu and Kashmir (JK),Leh,tourism,3
+Jammu and Kashmir (JK),Leh,pharmaceutical,2
+Jammu and Kashmir (JK),Leh,automobile,2
+Jammu and Kashmir (JK),Leh,textile,5
+Jammu and Kashmir (JK),Leh,food,5
+Sikkim (SK),South Sikkim,telecom,5
+Sikkim (SK),South Sikkim,tourism,2
+Sikkim (SK),South Sikkim,pharmaceutical,3
+Sikkim (SK),South Sikkim,automobile,5
+Sikkim (SK),South Sikkim,textile,3
+Sikkim (SK),South Sikkim,food,3
+Arunachal Pradesh (AR),Lohit,telecom,2
+Arunachal Pradesh (AR),Lohit,tourism,3
+Arunachal Pradesh (AR),Lohit,pharmaceutical,4
+Arunachal Pradesh (AR),Lohit,automobile,3
+Arunachal Pradesh (AR),Lohit,textile,5
+Arunachal Pradesh (AR),Lohit,food,1
+Manipur (MN),Chandel,telecom,1
+Manipur (MN),Chandel,tourism,3
+Manipur (MN),Chandel,pharmaceutical,4
+Manipur (MN),Chandel,automobile,5
+Manipur (MN),Chandel,textile,5
+Manipur (MN),Chandel,food,3
+Jammu and Kashmir (JK),Kargil,telecom,5
+Jammu and Kashmir (JK),Kargil,tourism,1
+Jammu and Kashmir (JK),Kargil,pharmaceutical,4
+Jammu and Kashmir (JK),Kargil,automobile,1
+Jammu and Kashmir (JK),Kargil,textile,2
+Jammu and Kashmir (JK),Kargil,food,5
+Meghalaya (ML),South Garo Hills,telecom,1
+Meghalaya (ML),South Garo Hills,tourism,4
+Meghalaya (ML),South Garo Hills,pharmaceutical,5
+Meghalaya (ML),South Garo Hills,automobile,1
+Meghalaya (ML),South Garo Hills,textile,5
+Meghalaya (ML),South Garo Hills,food,2
+Mizoram (MZ),Zunheboto,telecom,2
+Mizoram (MZ),Zunheboto,tourism,5
+Mizoram (MZ),Zunheboto,pharmaceutical,3
+Mizoram (MZ),Zunheboto,automobile,3
+Mizoram (MZ),Zunheboto,textile,5
+Mizoram (MZ),Zunheboto,food,2
+Chhattisgarh (CG),Narayanpur,telecom,5
+Chhattisgarh (CG),Narayanpur,tourism,3
+Chhattisgarh (CG),Narayanpur,pharmaceutical,1
+Chhattisgarh (CG),Narayanpur,automobile,1
+Chhattisgarh (CG),Narayanpur,textile,3
+Chhattisgarh (CG),Narayanpur,food,2
+Manipur (MN),Tamenglong,telecom,1
+Manipur (MN),Tamenglong,tourism,5
+Manipur (MN),Tamenglong,pharmaceutical,3
+Manipur (MN),Tamenglong,automobile,5
+Manipur (MN),Tamenglong,textile,3
+Manipur (MN),Tamenglong,food,1
+Sikkim (SK),West Sikkim,telecom,1
+Sikkim (SK),West Sikkim,tourism,5
+Sikkim (SK),West Sikkim,pharmaceutical,2
+Sikkim (SK),West Sikkim,automobile,4
+Sikkim (SK),West Sikkim,textile,5
+Sikkim (SK),West Sikkim,food,5
+Delhi (DL),New Delhi,telecom,1
+Delhi (DL),New Delhi,tourism,4
+Delhi (DL),New Delhi,pharmaceutical,1
+Delhi (DL),New Delhi,automobile,5
+Delhi (DL),New Delhi,textile,1
+Delhi (DL),New Delhi,food,2
+Mizoram (MZ),Champhai,telecom,5
+Mizoram (MZ),Champhai,tourism,5
+Mizoram (MZ),Champhai,pharmaceutical,2
+Mizoram (MZ),Champhai,automobile,3
+Mizoram (MZ),Champhai,textile,1
+Mizoram (MZ),Champhai,food,4
+Meghalaya (ML),East Jaintia Hills,telecom,1
+Meghalaya (ML),East Jaintia Hills,tourism,3
+Meghalaya (ML),East Jaintia Hills,pharmaceutical,3
+Meghalaya (ML),East Jaintia Hills,automobile,5
+Meghalaya (ML),East Jaintia Hills,textile,4
+Meghalaya (ML),East Jaintia Hills,food,1
+Meghalaya (ML),North Garo Hills,telecom,3
+Meghalaya (ML),North Garo Hills,tourism,3
+Meghalaya (ML),North Garo Hills,pharmaceutical,2
+Meghalaya (ML),North Garo Hills,automobile,2
+Meghalaya (ML),North Garo Hills,textile,4
+Meghalaya (ML),North Garo Hills,food,1
+Mizoram (MZ),Lawngtlai,telecom,3
+Mizoram (MZ),Lawngtlai,tourism,1
+Mizoram (MZ),Lawngtlai,pharmaceutical,4
+Mizoram (MZ),Lawngtlai,automobile,2
+Mizoram (MZ),Lawngtlai,textile,5
+Mizoram (MZ),Lawngtlai,food,1
+Arunachal Pradesh (AR),West Siang,telecom,3
+Arunachal Pradesh (AR),West Siang,tourism,3
+Arunachal Pradesh (AR),West Siang,pharmaceutical,5
+Arunachal Pradesh (AR),West Siang,automobile,2
+Arunachal Pradesh (AR),West Siang,textile,1
+Arunachal Pradesh (AR),West Siang,food,5
+Arunachal Pradesh (AR),Tirap,telecom,2
+Arunachal Pradesh (AR),Tirap,tourism,2
+Arunachal Pradesh (AR),Tirap,pharmaceutical,4
+Arunachal Pradesh (AR),Tirap,automobile,5
+Arunachal Pradesh (AR),Tirap,textile,2
+Arunachal Pradesh (AR),Tirap,food,3
+Meghalaya (ML),South West Khasi Hills,telecom,4
+Meghalaya (ML),South West Khasi Hills,tourism,4
+Meghalaya (ML),South West Khasi Hills,pharmaceutical,3
+Meghalaya (ML),South West Khasi Hills,automobile,5
+Meghalaya (ML),South West Khasi Hills,textile,3
+Meghalaya (ML),South West Khasi Hills,food,5
+Andaman and Nicobar (AN),North and Middle Andaman,telecom,4
+Andaman and Nicobar (AN),North and Middle Andaman,tourism,1
+Andaman and Nicobar (AN),North and Middle Andaman,pharmaceutical,1
+Andaman and Nicobar (AN),North and Middle Andaman,automobile,5
+Andaman and Nicobar (AN),North and Middle Andaman,textile,3
+Andaman and Nicobar (AN),North and Middle Andaman,food,2
+Arunachal Pradesh (AR),East Siang,telecom,3
+Arunachal Pradesh (AR),East Siang,tourism,2
+Arunachal Pradesh (AR),East Siang,pharmaceutical,3
+Arunachal Pradesh (AR),East Siang,automobile,4
+Arunachal Pradesh (AR),East Siang,textile,3
+Arunachal Pradesh (AR),East Siang,food,5
+Arunachal Pradesh (AR),Kurung Kumey,telecom,3
+Arunachal Pradesh (AR),Kurung Kumey,tourism,3
+Arunachal Pradesh (AR),Kurung Kumey,pharmaceutical,2
+Arunachal Pradesh (AR),Kurung Kumey,automobile,4
+Arunachal Pradesh (AR),Kurung Kumey,textile,5
+Arunachal Pradesh (AR),Kurung Kumey,food,5
+Arunachal Pradesh (AR),West Kameng,telecom,3
+Arunachal Pradesh (AR),West Kameng,tourism,2
+Arunachal Pradesh (AR),West Kameng,pharmaceutical,3
+Arunachal Pradesh (AR),West Kameng,automobile,1
+Arunachal Pradesh (AR),West Kameng,textile,5
+Arunachal Pradesh (AR),West Kameng,food,1
+Mizoram (MZ),Mamit,telecom,5
+Mizoram (MZ),Mamit,tourism,1
+Mizoram (MZ),Mamit,pharmaceutical,4
+Mizoram (MZ),Mamit,automobile,2
+Mizoram (MZ),Mamit,textile,3
+Mizoram (MZ),Mamit,food,3
+Himachal Pradesh (HP),Kinnaur,telecom,1
+Himachal Pradesh (HP),Kinnaur,tourism,1
+Himachal Pradesh (HP),Kinnaur,pharmaceutical,5
+Himachal Pradesh (HP),Kinnaur,automobile,3
+Himachal Pradesh (HP),Kinnaur,textile,5
+Himachal Pradesh (HP),Kinnaur,food,1
+Arunachal Pradesh (AR),Upper Subansiri,telecom,1
+Arunachal Pradesh (AR),Upper Subansiri,tourism,4
+Arunachal Pradesh (AR),Upper Subansiri,pharmaceutical,5
+Arunachal Pradesh (AR),Upper Subansiri,automobile,4
+Arunachal Pradesh (AR),Upper Subansiri,textile,1
+Arunachal Pradesh (AR),Upper Subansiri,food,1
+Mizoram (MZ),Kolasib,telecom,4
+Mizoram (MZ),Kolasib,tourism,5
+Mizoram (MZ),Kolasib,pharmaceutical,4
+Mizoram (MZ),Kolasib,automobile,5
+Mizoram (MZ),Kolasib,textile,3
+Mizoram (MZ),Kolasib,food,3
+Arunachal Pradesh (AR),Lower Subansiri,telecom,1
+Arunachal Pradesh (AR),Lower Subansiri,tourism,5
+Arunachal Pradesh (AR),Lower Subansiri,pharmaceutical,5
+Arunachal Pradesh (AR),Lower Subansiri,automobile,2
+Arunachal Pradesh (AR),Lower Subansiri,textile,1
+Arunachal Pradesh (AR),Lower Subansiri,food,5
+Arunachal Pradesh (AR),East Kameng,telecom,5
+Arunachal Pradesh (AR),East Kameng,tourism,5
+Arunachal Pradesh (AR),East Kameng,pharmaceutical,2
+Arunachal Pradesh (AR),East Kameng,automobile,2
+Arunachal Pradesh (AR),East Kameng,textile,2
+Arunachal Pradesh (AR),East Kameng,food,3
+Mizoram (MZ),Kiphire,telecom,2
+Mizoram (MZ),Kiphire,tourism,2
+Mizoram (MZ),Kiphire,pharmaceutical,3
+Mizoram (MZ),Kiphire,automobile,1
+Mizoram (MZ),Kiphire,textile,5
+Mizoram (MZ),Kiphire,food,4
+Mizoram (MZ),Serchhip,telecom,5
+Mizoram (MZ),Serchhip,tourism,3
+Mizoram (MZ),Serchhip,pharmaceutical,2
+Mizoram (MZ),Serchhip,automobile,4
+Mizoram (MZ),Serchhip,textile,2
+Mizoram (MZ),Serchhip,food,1
+Lakshadweep (LD),Lakshadweep,telecom,4
+Lakshadweep (LD),Lakshadweep,tourism,4
+Lakshadweep (LD),Lakshadweep,pharmaceutical,4
+Lakshadweep (LD),Lakshadweep,automobile,4
+Lakshadweep (LD),Lakshadweep,textile,2
+Lakshadweep (LD),Lakshadweep,food,4
+Mizoram (MZ),Saiha,telecom,4
+Mizoram (MZ),Saiha,tourism,4
+Mizoram (MZ),Saiha,pharmaceutical,1
+Mizoram (MZ),Saiha,automobile,5
+Mizoram (MZ),Saiha,textile,2
+Mizoram (MZ),Saiha,food,1
+Puducherry (PY),Yanam,telecom,4
+Puducherry (PY),Yanam,tourism,4
+Puducherry (PY),Yanam,pharmaceutical,5
+Puducherry (PY),Yanam,automobile,2
+Puducherry (PY),Yanam,textile,3
+Puducherry (PY),Yanam,food,5
+Arunachal Pradesh (AR),Lower Dibang Valley,telecom,1
+Arunachal Pradesh (AR),Lower Dibang Valley,tourism,5
+Arunachal Pradesh (AR),Lower Dibang Valley,pharmaceutical,3
+Arunachal Pradesh (AR),Lower Dibang Valley,automobile,2
+Arunachal Pradesh (AR),Lower Dibang Valley,textile,1
+Arunachal Pradesh (AR),Lower Dibang Valley,food,5
+Daman and Diu (DD),Diu,telecom,5
+Daman and Diu (DD),Diu,tourism,3
+Daman and Diu (DD),Diu,pharmaceutical,2
+Daman and Diu (DD),Diu,automobile,3
+Daman and Diu (DD),Diu,textile,4
+Daman and Diu (DD),Diu,food,1
+Mizoram (MZ),Longleng,telecom,4
+Mizoram (MZ),Longleng,tourism,4
+Mizoram (MZ),Longleng,pharmaceutical,3
+Mizoram (MZ),Longleng,automobile,3
+Mizoram (MZ),Longleng,textile,3
+Mizoram (MZ),Longleng,food,1
+Arunachal Pradesh (AR),Tawang,telecom,2
+Arunachal Pradesh (AR),Tawang,tourism,3
+Arunachal Pradesh (AR),Tawang,pharmaceutical,3
+Arunachal Pradesh (AR),Tawang,automobile,3
+Arunachal Pradesh (AR),Tawang,textile,3
+Arunachal Pradesh (AR),Tawang,food,4
+Sikkim (SK),North Sikkim,telecom,5
+Sikkim (SK),North Sikkim,tourism,1
+Sikkim (SK),North Sikkim,pharmaceutical,2
+Sikkim (SK),North Sikkim,automobile,1
+Sikkim (SK),North Sikkim,textile,2
+Sikkim (SK),North Sikkim,food,5
+Puducherry (PY),Mahe,telecom,2
+Puducherry (PY),Mahe,tourism,3
+Puducherry (PY),Mahe,pharmaceutical,1
+Puducherry (PY),Mahe,automobile,3
+Puducherry (PY),Mahe,textile,4
+Puducherry (PY),Mahe,food,5
+Andaman and Nicobar (AN),Nicobar,telecom,4
+Andaman and Nicobar (AN),Nicobar,tourism,1
+Andaman and Nicobar (AN),Nicobar,pharmaceutical,3
+Andaman and Nicobar (AN),Nicobar,automobile,5
+Andaman and Nicobar (AN),Nicobar,textile,4
+Andaman and Nicobar (AN),Nicobar,food,2
+Arunachal Pradesh (AR),Upper Siang,telecom,4
+Arunachal Pradesh (AR),Upper Siang,tourism,2
+Arunachal Pradesh (AR),Upper Siang,pharmaceutical,5
+Arunachal Pradesh (AR),Upper Siang,automobile,3
+Arunachal Pradesh (AR),Upper Siang,textile,4
+Arunachal Pradesh (AR),Upper Siang,food,5
+Himachal Pradesh (HP),Lahaul and Spiti,telecom,4
+Himachal Pradesh (HP),Lahaul and Spiti,tourism,5
+Himachal Pradesh (HP),Lahaul and Spiti,pharmaceutical,3
+Himachal Pradesh (HP),Lahaul and Spiti,automobile,1
+Himachal Pradesh (HP),Lahaul and Spiti,textile,4
+Himachal Pradesh (HP),Lahaul and Spiti,food,1
+Arunachal Pradesh (AR),Anjaw,telecom,1
+Arunachal Pradesh (AR),Anjaw,tourism,4
+Arunachal Pradesh (AR),Anjaw,pharmaceutical,4
+Arunachal Pradesh (AR),Anjaw,automobile,2
+Arunachal Pradesh (AR),Anjaw,textile,3
+Arunachal Pradesh (AR),Anjaw,food,1
+Arunachal Pradesh (AR),Dibang Valley,telecom,1
+Arunachal Pradesh (AR),Dibang Valley,tourism,2
+Arunachal Pradesh (AR),Dibang Valley,pharmaceutical,3
+Arunachal Pradesh (AR),Dibang Valley,automobile,3
+Arunachal Pradesh (AR),Dibang Valley,textile,1
+Arunachal Pradesh (AR),Dibang Valley,food,5
+Punjab (PB),Fazilka,telecom,5
+Punjab (PB),Fazilka,tourism,3
+Punjab (PB),Fazilka,pharmaceutical,5
+Punjab (PB),Fazilka,automobile,5
+Punjab (PB),Fazilka,textile,4
+Punjab (PB),Fazilka,food,1
+Uttar Pradesh (UP),Shamli,telecom,4
+Uttar Pradesh (UP),Shamli,tourism,5
+Uttar Pradesh (UP),Shamli,pharmaceutical,1
+Uttar Pradesh (UP),Shamli,automobile,2
+Uttar Pradesh (UP),Shamli,textile,3
+Uttar Pradesh (UP),Shamli,food,4
+Chhattisgarh (CG),Balrampur,telecom,5
+Chhattisgarh (CG),Balrampur,tourism,1
+Chhattisgarh (CG),Balrampur,pharmaceutical,1
+Chhattisgarh (CG),Balrampur,automobile,4
+Chhattisgarh (CG),Balrampur,textile,3
+Chhattisgarh (CG),Balrampur,food,3
+Chhattisgarh (CG),Bemetara,telecom,5
+Chhattisgarh (CG),Bemetara,tourism,3
+Chhattisgarh (CG),Bemetara,pharmaceutical,2
+Chhattisgarh (CG),Bemetara,automobile,5
+Chhattisgarh (CG),Bemetara,textile,4
+Chhattisgarh (CG),Bemetara,food,4
+Maharashtra (MH),Palghar,telecom,4
+Maharashtra (MH),Palghar,tourism,1
+Maharashtra (MH),Palghar,pharmaceutical,5
+Maharashtra (MH),Palghar,automobile,2
+Maharashtra (MH),Palghar,textile,5
+Maharashtra (MH),Palghar,food,3
+Arunachal Pradesh (AR),Longding,telecom,5
+Arunachal Pradesh (AR),Longding,tourism,2
+Arunachal Pradesh (AR),Longding,pharmaceutical,1
+Arunachal Pradesh (AR),Longding,automobile,3
+Arunachal Pradesh (AR),Longding,textile,2
+Arunachal Pradesh (AR),Longding,food,2
+Chhattisgarh (CG),Balod,telecom,2
+Chhattisgarh (CG),Balod,tourism,4
+Chhattisgarh (CG),Balod,pharmaceutical,1
+Chhattisgarh (CG),Balod,automobile,5
+Chhattisgarh (CG),Balod,textile,4
+Chhattisgarh (CG),Balod,food,5
+Chhattisgarh (CG),Baloda Bazar,telecom,2
+Chhattisgarh (CG),Baloda Bazar,tourism,5
+Chhattisgarh (CG),Baloda Bazar,pharmaceutical,3
+Chhattisgarh (CG),Baloda Bazar,automobile,4
+Chhattisgarh (CG),Baloda Bazar,textile,4
+Chhattisgarh (CG),Baloda Bazar,food,3
+Chhattisgarh (CG),Gariaband,telecom,1
+Chhattisgarh (CG),Gariaband,tourism,1
+Chhattisgarh (CG),Gariaband,pharmaceutical,5
+Chhattisgarh (CG),Gariaband,automobile,3
+Chhattisgarh (CG),Gariaband,textile,4
+Chhattisgarh (CG),Gariaband,food,4
+Chhattisgarh (CG),Kondagaon,telecom,2
+Chhattisgarh (CG),Kondagaon,tourism,5
+Chhattisgarh (CG),Kondagaon,pharmaceutical,2
+Chhattisgarh (CG),Kondagaon,automobile,1
+Chhattisgarh (CG),Kondagaon,textile,4
+Chhattisgarh (CG),Kondagaon,food,1
+Chhattisgarh (CG),Mungeli,telecom,1
+Chhattisgarh (CG),Mungeli,tourism,1
+Chhattisgarh (CG),Mungeli,pharmaceutical,5
+Chhattisgarh (CG),Mungeli,automobile,3
+Chhattisgarh (CG),Mungeli,textile,2
+Chhattisgarh (CG),Mungeli,food,4
+Delhi (DL),Shahdara,telecom,3
+Delhi (DL),Shahdara,tourism,3
+Delhi (DL),Shahdara,pharmaceutical,3
+Delhi (DL),Shahdara,automobile,2
+Delhi (DL),Shahdara,textile,5
+Delhi (DL),Shahdara,food,1
+Delhi (DL),South East Delhi,telecom,5
+Delhi (DL),South East Delhi,tourism,3
+Delhi (DL),South East Delhi,pharmaceutical,3
+Delhi (DL),South East Delhi,automobile,3
+Delhi (DL),South East Delhi,textile,5
+Delhi (DL),South East Delhi,food,3
+Madhya Pradesh (MP),Agar,telecom,1
+Madhya Pradesh (MP),Agar,tourism,4
+Madhya Pradesh (MP),Agar,pharmaceutical,4
+Madhya Pradesh (MP),Agar,automobile,2
+Madhya Pradesh (MP),Agar,textile,3
+Madhya Pradesh (MP),Agar,food,3
+Meghalaya (ML),South West Garo Hills,telecom,4
+Meghalaya (ML),South West Garo Hills,tourism,4
+Meghalaya (ML),South West Garo Hills,pharmaceutical,3
+Meghalaya (ML),South West Garo Hills,automobile,1
+Meghalaya (ML),South West Garo Hills,textile,1
+Meghalaya (ML),South West Garo Hills,food,5
+Uttar Pradesh (UP),Amethi (Chhatrapati Shahuji Maharaj Nagar),telecom,3
+Uttar Pradesh (UP),Amethi (Chhatrapati Shahuji Maharaj Nagar),tourism,3
+Uttar Pradesh (UP),Amethi (Chhatrapati Shahuji Maharaj Nagar),pharmaceutical,5
+Uttar Pradesh (UP),Amethi (Chhatrapati Shahuji Maharaj Nagar),automobile,2
+Uttar Pradesh (UP),Amethi (Chhatrapati Shahuji Maharaj Nagar),textile,1
+Uttar Pradesh (UP),Amethi (Chhatrapati Shahuji Maharaj Nagar),food,1
